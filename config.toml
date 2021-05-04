@@ -1,0 +1,72 @@
+baseURL = "http://localhost:1313/gdr_nbody_2021/"
+#baseURL = "https://lcpq.github.io/gdr_nbody_2021/"
+canonifyurls  = true
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+theme = "beautifulhugo"
+title = "GDR NBODY 2021"
+[Params]
+  hometitle = "GDR NBODY 2021"
+  logo="img/gdr.png"
+#  subtitle = ""
+[[Params.bigimg]]
+  src = "img/500px-Maths1.jpg"
+  desc = "GDR NBODY"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#[Author]
+#  name = "Titou Loos"
+#  email = "loos@irsamc.ups-tlse.fr"
+#  github = "LCPQ"
+#  twitter = "PTEROSOR"
+#  youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Registration"
+    url = "registration"
+    weight = 2
+
+[[menu.main]]
+    name = "Planning"
+    url = "planning"
+    weight = 3
+
+[[menu.main]]
+    name = "Map"
+    url = "map"
+    weight = 4
+
+[[menu.main]]
+    name = "List of participants"
+    url = "participants"
+    weight = 5
+
+[[menu.main]]
+    identifier = "Sponsors"
+    url = "sponsors"
+    weight = 6
+
+[[menu.main]]
+    parent="New submission"
+    url = "submission"
+    weight = 7
+
+[[menu.main]]
+    parent="News"
+    url = "news"
+    weight = 8
+
+#[[menu.main]]
+#    parent="external"
+#    name = "CNRS"
+#    url = "http://www.cnrs.fr"
+#    weight = 2
+
