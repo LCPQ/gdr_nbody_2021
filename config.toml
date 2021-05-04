@@ -50,17 +50,17 @@ title = "GDR NBODY 2021"
     weight = 5
 
 [[menu.main]]
-    identifier = "Sponsors"
+    name = "Sponsors"
     url = "sponsors"
     weight = 6
 
 [[menu.main]]
-    parent="New submission"
+    name="New submission"
     url = "submission"
     weight = 7
 
 [[menu.main]]
-    parent="News"
+    name="News"
     url = "news"
     weight = 8
 

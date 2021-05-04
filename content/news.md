@@ -4,8 +4,6 @@ date: 2020-12-02 09:06
 draft: false
 ---
 
-# News
-
 ## 2020-01-08
 Address and map for the GDR NBODY conference dinner
 Map and address of the "Assiette du marché" restaurant for the GDR NBODY conference dinner: Thursday January, 9 at 7:30 PM
