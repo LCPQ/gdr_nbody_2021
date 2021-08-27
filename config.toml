@@ -7,10 +7,10 @@ theme = "beautifulhugo"
 title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
 [Params]
   hometitle = "GDR NBODY GENERAL MEETING 2022"
-  logo="img/gdr.png"
+  logo="img/CNRS.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/CNRS.png"
+  src = "img/500px-Maths1.jpg"
   desc = "GDR NBODY"
 
 [markup]
