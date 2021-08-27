@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on GDR NBODY 2021</title>
+    <title>Home on GDR NBODY GENERAL MEETING 2022 (Toulouse)</title>
     <link>https://lcpq.github.io/gdr_nbody_2021/</link>
-    <description>Recent content in Home on GDR NBODY 2021</description>
+    <description>Recent content in Home on GDR NBODY GENERAL MEETING 2022 (Toulouse)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://lcpq.github.io/gdr_nbody_2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -32,17 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lcpq.github.io/gdr_nbody_2021/participants/</guid>
-      <description> Toto Mimi Titou Popolito  </description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://lcpq.github.io/gdr_nbody_2021/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lcpq.github.io/gdr_nbody_2021/people/</guid>
-      <description>People funded by the ERC Pierre-François Loos CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
-img.photo { height: 250px; border-radius: 50%; }  P.-F. Loos (aka Titou) received his Ph.D. in Computational and Theoretical Chemistry from the Université Henri Poincaré (Nancy, France) in 2008. From 2009 to 2013, He was undertaking postdoctoral research with Peter M.W. Gill at the Australian National University (ANU). From 2013 to 2017, he was a &amp;ldquo;Discovery Early Career Researcher Award&amp;rdquo; recipient and, then, a senior lecturer at the ANU.</description>
+      <description> Michel Caffarel (LCPQ, Toulouse, organiser) Pina Romaniello (LPT, Toulouse, organiser) Pierre-Francois Loos	(LCPQ, Toulouse, organiser) Julien Toulouse (LCT, Paris, organiser) Anthony Scemama (LCPQ, Toulouse)  </description>
     </item>
     
     <item>
@@ -70,7 +60,7 @@ OPENED FROM 2019-09-29 TO 2020-01-10</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lcpq.github.io/gdr_nbody_2021/sponsors/</guid>
-      <description>          CNRS    LCPQ    NEXT-NanoX    </description>
+      <description>          CNRS    LCPQ    NEXT    NanoX   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; &amp;mdash;&amp;ndash;        </description>
     </item>
     
     <item>
