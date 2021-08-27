@@ -32,5 +32,5 @@ This second general meeting is organized around 12 keynote speakers from quantum
 
 # NEWS
 
-- <b>Sep 2021:</b> The GDR NBODY GENERAL MEETING 2022 is up and running!
+- <b>Sep 2021:</b> The GDR NBODY GENERAL MEETING 2022 website is up and running!
 
