@@ -10,4 +10,5 @@ draft: false
 | <img width="300" style="vertical-align: middle;" src="/img/LCPQ.png" />  | LCPQ  |
 | <img width="300" style="vertical-align: middle;" src="/img/NEXT.jpg" />  | NEXT  |
 | <img width="300" style="vertical-align: middle;" src="/img/NanoX.jpg" /> | NanoX |
+| <img width="300" style="vertical-align: middle;" src="/img/UPS.png" />   | UPS |
 |                                                                          |       |
