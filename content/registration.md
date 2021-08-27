@@ -6,4 +6,4 @@ draft: false
 
 # Conference registration
 
-Registration has not yet opned
+Registration has not yet opened
