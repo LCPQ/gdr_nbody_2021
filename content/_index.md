@@ -18,10 +18,10 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Xavier Blase (Institut Neel, Grenoble)
 - Francesco Sottile (Laboratoire des Solides Irradies, Ecole Polytechnique)
 - Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
+- Elisa Rebolini (Institut Laue Langevin, Grenoble)
 
 ## TO BE CONFIRMED 
 
-- Elisa Rebolini (Institut Laue Langevin, Grenoble)
 - Michele Casula (IMPMC, Sorbonne Universite)
 - Roland Assaraf (LCT, Sorbonne Universite)
 - Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
