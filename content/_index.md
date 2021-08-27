@@ -12,12 +12,12 @@ The GDR NBODY - problème quantique à N corps en chimie et physique (https://wi
 
 This second general meeting is organized around 12 keynote speakers from quantum chemistry, condensed matter physics, mathematics, and nuclear physics. A large number of contributed talks will be proposed in order to allow PhD students, postdocs and researchers to present their latest work.
 
-# CONFIRMED KEYNOTE SPEAKERS
+## CONFIRMED KEYNOTE SPEAKERS
 
 - Xavier Blase (Institut Neel, Grenoble)
 - Antoine Levitt (CERMICS, Ecole des Ponts)
 
-# TO BE CONFIRMED 
+## TO BE CONFIRMED 
 
 - Elisa Rebolini (Institut Laue Langevin, Grenoble)
 - Michele Casula (IMPMC, Sorbonne Universite)
