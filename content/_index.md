@@ -17,6 +17,7 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Antoine Levitt (CERMICS, Ecole des Ponts)
 - Xavier Blase (Institut Neel, Grenoble)
 - Francesco Sottile (Laboratoire des Solides Irradies, Ecole Polytechnique)
+- Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
 
 ## TO BE CONFIRMED 
 
@@ -27,7 +28,6 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Cyril Martins (LCPQ, Universite Paul Sabatier)
 - Valerie Vallet (PhLAM, Universite de Lilles)
 - David Gontier (CEREMADE, University of Paris-Dauphine)
-- Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
 - Vittorio Somà (CEA Universite Paris Saclay)
 
 # NEWS
