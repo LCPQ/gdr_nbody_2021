@@ -5,35 +5,125 @@ draft: false
 ---
 
 
-# Wednesday, January 8, 2020
+# Monday, January 10, 2021
     
-| TIME          | EVENT                                                                                                                                                                                                                                                                                                     |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 13:00 - 13:45 | Welcome with coffee and refreshments (LILIAD espace evenementiel )                                                                                                                                                                                                                                        |
-|               |                                                                                                                                                                                                                                                                                                           |
-| 13:45 - 14:15 | Kick-off (LILIAD Amphi B)                                                                                                                                                                                                                                                                                 |
-| 14:15 - 15:15 | Quantum N-body problem in theoretical chemistry (LILIAD Amphi B) - Emmanuel Fromager                                                                                                                                                                                                                      |
-| 14:15 - 15:15 | › Le problème quantique à N-corps en chimie théorique - Michel Caffarel, Lab. Chimie et Physique Quantiques                                                                                                                                                                                               |
-| 15:15 - 15:35 | Short presentation(s) (LILIAD Amphi B) - Emmanuel Fromager                                                                                                                                                                                                                                                |
-| 15:15 - 15:35 | › Overview of selected configuration interaction and its coupling with DFT - Emmanuel Giner, Laboratoire de Chimie Théorique                                                                                                                                                                              |
-| 15:50 - 16:30 | Coffee break (LILIAD espace evenementiel )                                                                                                                                                                                                                                                                |
-| 16:30 - 17:30 | Quantum N-body problem in condensed matter physics (LILIAD Amphi B) - Emmanuel Fromager                                                                                                                                                                                                                   |
-| 16:30 - 17:30 | › Quantum N-body problem in condensed matter physics - Pina Romaniello, Laboratoire de Physique Théorique - IRSAMC                                                                                                                                                                                        |
-| 17:30 - 17:50 | Short presentation(s) (LILIAD Amphi B) - Emmanuel Fromager                                                                                                                                                                                                                                                |
-| 17:30 - 17:50 | › The Quantum Many-Body Problem from a Dynamical Mean Field Perspective - Silke Biermann, Centre de Physique Théorique [Palaiseau]                                                                                                                                                                        |
-| 17:50 - 19:30 | Poster session (LILIAD espace evenementiel )                                                                                                                                                                                                                                                              |
-| 17:50 - 19:30 | › Analysis of self-consistent field and direct minimization algorithms for electronic structure - Gaspard Kemlin, CERMICS                                                                                                                                                                                 |
-| 17:50 - 19:30 | › Automatic computation of global intermolecular potential energy surfaces for non-covalently bound systems - Ramon Lorenzo PANADES-BARRUETA, Laboratoire de Physique des Lasers, Atomes et Molécules (PhLAM), Unité Mixte de Recherche (UMR) 8523, Université de Lille, Bât. P5, Villeneuve d'Ascq Cedex |
-| 17:50 - 19:30 | › Calculation of effective interaction among different electronic shell using cRPA in ABINIT - Robinson Outerovitch, CEA, DAM, DIF, F-91297 Arpajon, France                                                                                                                                               |
-| 17:50 - 19:30 | › Direct nonadiabatic quantum dynamics in the moving crude adiabatic representation - Loic Joubert-Doriol, Université Paris-Est Marne-la-Vallée                                                                                                                                                           |
-| 17:50 - 19:30 | › Exploration of the Core Valence Separation approximation to obtain the ionization potentials of the core electrons by the EOM-CCSD method according to a 4-component relativistic approach - Loïc Halbert, Laboratoire de Physique des Lasers, Atomes et Molécules - UMR 8523                           |
-| 17:50 - 19:30 | › Molecule-fixed axes in many-body Hamiltonians - Mirjana Mladenovic, Laboratoire de Modélisation et Simulation Multi Echelle                                                                                                                                                                             |
-| 17:50 - 19:30 | › New Hohenberg-Kohn theorems - Louis Garrigue, CEntre de REcherches en MAthématiques de la DEcision                                                                                                                                                                                                      |
-| 17:50 - 19:30 | › Nuclear quantum effects in protonated water clusters - Michele Casula, Institut de minéralogie, de physique des matériaux et de cosmochimie                                                                                                                                                             |
-| 17:50 - 19:30 | › Quantum motion of small molecular hydrogen clusters confined by carbon nanostructures - Alexander Mitrushchenkov, Laboratoire MSME                                                                                                                                                                      |
-| 17:50 - 19:30 | › Relativistic range-separated density functional theory - Julien PAQUIER, Laboratoire de chimie théorique                                                                                                                                                                                                |
-| 17:50 - 19:30 | › Representing continuum wave functions with complex Gaussian functions - Abdallah AMMAR, LPCT, UMR 7019 - Arnaud Leclerc, LPCT, UMR 7019 - Lorenzo Ugo Ancarani, LPCT, UMR 7019                                                                                                                          |
-| 17:50 - 19:30 | › Stochastic treatment of electronic dissipation on top of a mean-field approach. - Phuong Mai Dinh, Laboratoire de Physique Théorique de Toulouse                                                                                                                                                        |
-| 17:50 - 19:30 | › Theoretical approach for simulating single photon double core ionization of small molecules - Anthony Ferté, Laboratoire de Chimie Physique - Matière et Rayonnement                                                                                                                                    |
-| 17:50 - 19:30 | › Theoretical core spectroscopy of molecules interacting with ice surfaces - Richard Asamoah Opoku, University of Lille                                                                                                                                                                                   |
-| 17:50 - 19:30 | › Unitary Group Adapted Iterative Configuration Expansion(ICE): Implementation and Applications - Vijay gopal CHILKURI, Max-Planck-Institut für Kohlenforschung (coal research)                                                                                                                           |
+| ------------- | -------------------------|
+| TIME          | EVENT                    |
+| ------------- | -------------------------|
+|               |                          |
+| 13:00 - 13:45 | Welcome                  |
+| 13:45 - 14:15 | Kick-off                 | 
+|               |                          |
+| SESSION 1     | Chair:                   |
+| 14:00 - 14:30 | Keynote presentation K1  |
+| 14:30 - 14:50 | Contributed talk C11     |
+| 14:50 - 15:10 | Contributed talk C12     |
+| 15:10 - 15:30 | Contributed talk C13     |
+|               |                          |
+| 15:30 - 16:00 | Coffee break             |
+|               |                          | 
+| SESSION 2     | Chair:                   |
+| 16:00 - 16:30 | Keynote presentation K2  |
+| 16:30 - 16:50 | Contributed talk C21     |
+| 16:50 - 17:10 | Contributed talk C22     |
+| 17:10 - 17:30 | Contributed talk C23     |
+|               |                          |
+| ------------- | -------------------------|
+
+# Tuesday, January 11, 2021
+    
+| ------------- | -------------------------|
+| TIME          | EVENT                    |
+| ------------- | -------------------------|
+|               |                          |
+| SESSION 3     | Chair:                   |
+|  9:00 -  9:30 | Keynote presentation K3  |
+|  9:30 -  9:50 | Contributed talk C31     |
+|  9:50 - 10:10 | Contributed talk C32     |
+| 10:10 - 10:30 | Contributed talk C33     |
+|               |                          |
+| 10:30 - 11:00 | Coffee break             |
+|               |                          | 
+| SESSION 4     | Chair:                   |
+| 11:00 - 11:30 | Keynote presentation K4  |
+| 11:30 - 11:50 | Contributed talk C41     |
+| 11:50 - 12:10 | Contributed talk C42     |
+| 12:10 - 12:30 | Contributed talk C43     |
+|               |                          |
+| 12:30 - 14:00 | Lunch                    |
+|               |                          |
+| SESSION 5     | Chair:                   |
+| 14:00 - 14:30 | Keynote presentation K5  |
+| 14:30 - 14:50 | Contributed talk C51     |
+| 14:50 - 15:10 | Contributed talk C52     |
+| 15:10 - 15:30 | Contributed talk C53     |
+|               |                          |
+| 15:30 - 16:00 | Coffee break             |
+|               |                          | 
+| SESSION 6     | Chair:                   |
+| 16:00 - 16:30 | Keynote presentation K6  |
+| 16:30 - 16:50 | Contributed talk C61     |
+| 16:50 - 17:10 | Contributed talk C62     |
+| 17:10 - 17:30 | Contributed talk C63     |
+|               |                          | 
+| ------------- | -------------------------|
+
+# Wednesday, January 12, 2021
+    
+| ------------- | -------------------------|
+| TIME          | EVENT                    |
+| ------------- | -------------------------|
+|               |                          |
+| SESSION 7     | Chair:                   |
+|  9:00 -  9:30 | Keynote presentation K7  |
+|  9:30 -  9:50 | Contributed talk C71     |
+|  9:50 - 10:10 | Contributed talk C72     |
+| 10:10 - 10:30 | Contributed talk C73     |
+|               |                          |
+| 10:30 - 11:00 | Coffee break             |
+|               |                          | 
+| SESSION 8     | Chair:                   |
+| 11:00 - 11:30 | Keynote presentation K8  |
+| 11:30 - 11:50 | Contributed talk C81     |
+| 11:50 - 12:10 | Contributed talk C82     |
+| 12:10 - 12:30 | Contributed talk C83     |
+|               |                          |
+| 12:30 - 14:00 | Lunch                    |
+|               |                          |
+| SESSION 9     | Chair:                   |
+| 14:00 - 14:30 | Keynote presentation K9  |
+| 14:30 - 14:50 | Contributed talk C91     |
+| 14:50 - 15:10 | Contributed talk C92     |
+| 15:10 - 15:30 | Contributed talk C93     |
+|               |                          |
+| 15:30 - 16:00 | Coffee break             |
+|               |                          | 
+| SESSION 10    | Chair:                   |
+| 16:00 - 16:30 | Keynote presentation K10 |
+| 16:30 - 16:50 | Contributed talk C101    |
+| 16:50 - 17:10 | Contributed talk C102    |
+| 17:10 - 17:30 | Contributed talk C103    |
+|               |                          |
+| ------------- | -------------------------|
+
+# Thursday, January 13, 2021
+    
+| ------------- | -------------------------|
+| TIME          | EVENT                    |
+| ------------- | -------------------------|
+|               |                          |
+| SESSION 11    | Chair:                   |
+|  9:00 -  9:30 | Keynote presentation K11 |
+|  9:30 -  9:50 | Contributed talk C111    |
+|  9:50 - 10:10 | Contributed talk C112    |
+| 10:10 - 10:30 | Contributed talk C113    |
+|               |                          |
+| 10:30 - 11:00 | Coffee break             |
+|               |                          | 
+| SESSION 12`   | Chair:                   |
+| 11:00 - 11:30 | Keynote presentation K12 |
+| 11:30 - 11:50 | Contributed talk C121    |
+| 11:50 - 12:10 | Contributed talk C122    |
+| 12:10 - 12:30 | Contributed talk C123    |
+|               |                          |
+| ------------- | -------------------------|

@@ -4,9 +4,9 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "GDR NBODY GENERAL MEETING 2022 (Toulouse)"
+title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
 [Params]
-  hometitle = "GDR NBODY 2022"
+  hometitle = "GDR NBODY GENERAL MEETING 2022"
   logo="img/gdr.png"
 #  subtitle = ""
 [[Params.bigimg]]

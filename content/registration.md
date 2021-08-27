@@ -6,6 +6,4 @@ draft: false
 
 # Conference registration
 
-The registration is now closed
-
-OPENED FROM 2019-09-29 TO 2020-01-10
+Registration has not yet opned
