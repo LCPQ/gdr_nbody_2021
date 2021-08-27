@@ -59,11 +59,6 @@ title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
     url = "submission"
     weight = 7
 
-[[menu.main]]
-    name="News"
-    url = "news"
-    weight = 8
-
 #[[menu.main]]
 #    parent="external"
 #    name = "CNRS"
