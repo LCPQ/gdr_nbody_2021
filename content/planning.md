@@ -113,7 +113,7 @@ draft: false
 |               |                          |
 | 10:30 - 11:00 | Coffee break             |
 |               |                          | 
-| SESSION 12`   | Chair:                   |
+| SESSION 12    | Chair:                   |
 | 11:00 - 11:30 | Keynote presentation K12 |
 | 11:30 - 11:50 | Contributed talk C121    |
 | 11:50 - 12:10 | Contributed talk C122    |
