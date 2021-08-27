@@ -17,18 +17,18 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Xavier Blase (Institut Neel, Grenoble)
 - Antoine Levitt (CERMICS, Ecole des Ponts)
 
-# CONFIRMED KEYNOTE SPEAKERS
+# TO BE CONFIRMED 
 
-X Elisa Rebolini (Institut Laue Langevin, Grenoble)
-X Michele Casula (IMPMC, Sorbonne Universite ́)
-X Roland Assaraf (LCT, Sorbonne Universite ́)
-X Francesco Sottile (Laboratoire des Solides Irradie ́s, Ecole Polytechnique)
-X Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
-X Cyril Martins (LCPQ, Universite Paul Sabatier)
-X Valerie Vallet (PhLAM, Universite de Lilles)
-X David Gontier ( CEREMADE, University of Paris-Dauphine)
-X Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
-X Vittorio Somà (CEA Universite Paris Saclay)
+- Elisa Rebolini (Institut Laue Langevin, Grenoble)
+- Michele Casula (IMPMC, Sorbonne Universite)
+- Roland Assaraf (LCT, Sorbonne Universite)
+- Francesco Sottile (Laboratoire des Solides Irradies, Ecole Polytechnique)
+- Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
+- Cyril Martins (LCPQ, Universite Paul Sabatier)
+- Valerie Vallet (PhLAM, Universite de Lilles)
+- David Gontier (CEREMADE, University of Paris-Dauphine)
+- Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
+- Vittorio Somà (CEA Universite Paris Saclay)
 
 # NEWS
 
