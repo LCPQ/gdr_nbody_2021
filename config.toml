@@ -10,7 +10,7 @@ title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
   logo="img/gdr.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/500px-Maths1.jpg"
+  src = "img/CNRS.png"
   desc = "GDR NBODY"
 
 [markup]
