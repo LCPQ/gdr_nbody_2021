@@ -20,6 +20,7 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
 - Elisa Rebolini (Institut Laue Langevin, Grenoble)
 - Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
+- David Gontier (CEREMADE, University of Paris-Dauphine)
 
 ## TO BE CONFIRMED 
 
@@ -27,7 +28,6 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Roland Assaraf (LCT, Sorbonne Universite)
 - Cyril Martins (LCPQ, Universite Paul Sabatier)
 - Valerie Vallet (PhLAM, Universite de Lilles)
-- David Gontier (CEREMADE, University of Paris-Dauphine)
 - Vittorio Somà (CEA Universite Paris Saclay)
 
 # NEWS
