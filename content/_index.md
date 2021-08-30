@@ -21,12 +21,12 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Elisa Rebolini (Institut Laue Langevin, Grenoble)
 - Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
 - David Gontier (CEREMADE, University of Paris-Dauphine)
+- Cyril Martins (LCPQ, Universite Paul Sabatier)
 
 ## TO BE CONFIRMED 
 
 - Michele Casula (IMPMC, Sorbonne Universite)
 - Roland Assaraf (LCT, Sorbonne Universite)
-- Cyril Martins (LCPQ, Universite Paul Sabatier)
 - Valerie Vallet (PhLAM, Universite de Lilles)
 - Vittorio Somà (CEA Universite Paris Saclay)
 
