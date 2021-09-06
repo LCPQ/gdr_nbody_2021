@@ -23,14 +23,15 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - David Gontier (CEREMADE, University of Paris-Dauphine)
 - Cyril Martins (LCPQ, Universite Paul Sabatier)
 - Michele Casula (IMPMC, Sorbonne Universite)
+- Valerie Vallet (PhLAM, Universite de Lilles)
 
 ## TO BE CONFIRMED 
 
 - Roland Assaraf (LCT, Sorbonne Universite)
-- Valerie Vallet (PhLAM, Universite de Lilles)
 - Vittorio Somà (CEA Universite Paris Saclay)
 
 # NEWS
 
-- <b>Sep 2021:</b> The GDR NBODY GENERAL MEETING 2022 website is up and running!
+- <b>Sep 2021:</b> Registration is now open!
+- <b>Aug 2021:</b> The GDR NBODY GENERAL MEETING 2022 website is up and running!
 

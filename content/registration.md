@@ -6,4 +6,4 @@ draft: false
 
 # Conference registration
 
-Registration has not yet opened
+Registration is now open. The deadline for submission is December, 1st 2021!
