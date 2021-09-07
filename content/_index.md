@@ -8,8 +8,7 @@ draft: false
 
 The [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody) - problème quantique à N corps en chimie et physique - created in 2019, is a research network that aims to bring together the community working on the quantum N-body problem, mostly from the viewpoint of quantum chemistry, but also including the viewpoints of condensed-matter physics, nuclear physics, and mathematics. The idea is to foster the development of new computational methods in quantum mechanics, the transfer of these methods from one discipline to another, and their efficient computer implementations.
 
-![GDR NBODY](/static/img/GDR_NBOY.png)
-Format: ![Alt Text](url)
+![GDR NBODY](static/img/GDR_NBODY.png)
 
 # SECOND GENERAL MEETING
 
