@@ -12,7 +12,7 @@ The GDR NBODY - problème quantique à N corps en chimie et physique (https://wi
 
 This second general meeting is organized around 12 keynote speakers from quantum chemistry, condensed matter physics, mathematics, and nuclear physics. A large number of contributed talks will be proposed in order to allow PhD students, postdocs and researchers to present their latest work.
 
-<b>The official langUage of the meeting is English.</b>
+The official language of the meeting is <b>English</b>.
 
 ## CONFIRMED KEYNOTE SPEAKERS
 
