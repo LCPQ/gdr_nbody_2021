@@ -26,9 +26,6 @@ This second general meeting is organized around 12 keynote speakers from quantum
 - Cyril Martins (LCPQ, Universite Paul Sabatier)
 - Michele Casula (IMPMC, Sorbonne Universite)
 - Valerie Vallet (PhLAM, Universite de Lilles)
-
-## TO BE CONFIRMED 
-
 - Roland Assaraf (LCT, Sorbonne Universite)
 - Vittorio Somà (CEA Universite Paris Saclay)
 

@@ -23,11 +23,15 @@ If you would like to register, please send an email with your full name and affi
 - Cyril Martins (LCPQ, Toulouse)
 - Michele Casula (IMPMC, Paris)
 - Valerie Vallet (PhLAM, Lilles)
+- Roland Assaraf (LCT, Paris)
+- Vittorio Somà (CEA Saclay)
 - Thomas Duguet (CEA, Saclay)
 - Emmanuel Fromager (LCQ, Strasbourg)
 - Eric Cances (CERMICS, Paris)
 - Andre Gomes (PhLAM, Lilles)
 - Ugo Ancarani (LPCT, Metz)
 - Paola Nava (iSm2, Marseille)
-
+- Jonas Feldt (LCT, Paris)
+- Antoine Bienvenu (LCT, Paris)
+- Wilken Misael (PhLAM, Lilles)
 
