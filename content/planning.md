@@ -119,3 +119,4 @@ draft: false
 | 11:50 - 12:10 | Contributed talk C122    |
 | 12:10 - 12:30 | Contributed talk C123    |
 |               |                          |
+| 12:30 - 12:45 | Closing remarks          |
