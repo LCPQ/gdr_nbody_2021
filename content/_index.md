@@ -31,6 +31,6 @@ The official language of the meeting is **English**.
 
 # NEWS
 
-* **Sep 2021:** Registration is now open!
+* **Sep 2021:** Registration is now open! The deadline for submission is December, 1st 2021.
 * **Aug 2021:** The GDR NBODY GENERAL MEETING 2022 website is up and running!
 
