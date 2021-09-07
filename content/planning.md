@@ -69,7 +69,7 @@ draft: false
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
 |               |                          |
-| SESSION 7     | Chair: Emmanuel Fromager |
+|**SESSION 7**  | Chair: Emmanuel Fromager |
 |  9:00 -  9:30 | K7: Valerie Vallet       |
 |  9:30 -  9:50 | Contributed talk C71     |
 |  9:50 - 10:10 | Contributed talk C72     |
@@ -77,7 +77,7 @@ draft: false
 |               |                          |
 | 10:30 - 11:00 | Coffee break             |
 |               |                          | 
-| SESSION 8     | Chair: Emmanuel Giner    |
+|**SESSION 8**  | Chair: Emmanuel Giner    |
 | 11:00 - 11:30 | K8: Antoine Levitt - Numerical methods for scattering and resonance properties in molecules and solids      |
 | 11:30 - 11:50 | Contributed talk C81     |
 | 11:50 - 12:10 | Contributed talk C82     |
@@ -85,7 +85,7 @@ draft: false
 |               |                          |
 | 12:30 - 14:00 | Lunch                    |
 |               |                          |
-| SESSION 9     | Chair: Andre Gomes       |
+|**SESSION 9**  | Chair: Andre Gomes       |
 | 14:00 - 14:30 | K9: Cyril Martins        |
 | 14:30 - 14:50 | Contributed talk C91     |
 | 14:50 - 15:10 | Contributed talk C92     |
@@ -93,7 +93,7 @@ draft: false
 |               |                          |
 | 15:30 - 16:00 | Coffee break             |
 |               |                          | 
-| SESSION 10    | Chair: Anthony Scemama   |
+|** SESSION 10**| Chair: Anthony Scemama   |
 | 16:00 - 16:30 | K10: Michele Casula      |
 | 16:30 - 16:50 | Contributed talk C101    |
 | 16:50 - 17:10 | Contributed talk C102    |
