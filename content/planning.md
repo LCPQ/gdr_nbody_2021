@@ -78,7 +78,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break             |
 |               |                          | 
 | SESSION 8     | Chair: Emmanuel Giner    |
-| 11:00 - 11:30 | K8: Antoine Levitt       |
+| 11:00 - 11:30 | K8: Antoine Levitt - Numerical methods for scattering and resonance properties in molecules and solids      |
 | 11:30 - 11:50 | Contributed talk C81     |
 | 11:50 - 12:10 | Contributed talk C82     |
 | 12:10 - 12:30 | Contributed talk C83     |
