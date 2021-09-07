@@ -42,7 +42,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break             |
 |               |                          | 
 | SESSION 4     | Chair: Eric Cances       |
-| 11:00 - 11:30 | K4: David Gontier        |
+| 11:00 - 11:30 | K4: David Gontier - DFT for two-dimensional homogeneous slabs       |
 | 11:30 - 11:50 | Contributed talk C41     |
 | 11:50 - 12:10 | Contributed talk C42     |
 | 12:10 - 12:30 | Contributed talk C43     |
