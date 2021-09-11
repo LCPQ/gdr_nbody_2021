@@ -5,6 +5,8 @@
     <link>https://lcpq.github.io/gdr_nbody_2021/tags/</link>
     <description>Recent content in Tags on GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lcpq.github.io/gdr_nbody_2021/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>gdrnbody@lct.jussieu.fr</managingEditor>
+    <webMaster>gdrnbody@lct.jussieu.fr</webMaster><atom:link href="https://lcpq.github.io/gdr_nbody_2021/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
