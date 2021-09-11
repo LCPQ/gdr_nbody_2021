@@ -17,12 +17,12 @@ title = "GDR NBODY MEETING (Toulouse, 10-13 Jan 2022)"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-#[Author]
-#  name = "Titou Loos"
-#  email = "loos@irsamc.ups-tlse.fr"
+ [Author]
+#  name = "GDR NBODY"
+   email = "gdrnbody@lct.jussieu.fr"
 #  github = "LCPQ"
-#  twitter = "PTEROSOR"
-#  youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
+   twitter = "GDR_NBODY"
+#   youtube = "channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
 
 [[menu.main]]
     name = "Home"
