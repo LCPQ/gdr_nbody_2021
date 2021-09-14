@@ -36,4 +36,5 @@ If you would like to register, please send an email with your full name and affi
 1. Wilken Misael (PhLAM, Lilles) <!-- wilken.misael@univ-lille.fr -->
 1. Yann Damour (LCPQ, Toulouse) <!-- yann.damour@hotmail.fr -->
 1. Fabris Kossoski (LCPQ, Toulouse) <!-- fkossoski@irsamc.ups-tlse.fr -->
-1. David Lauvergnat (LCP,Paris) <!-- david.lauvergnat@universite-paris-saclay.fr -->
+1. David Lauvergnat (LCP, Paris) <!-- david.lauvergnat@universite-paris-saclay.fr -->
+1. Clotilde Marut (LCPQ, Toulouse) <!-- cmarut@irsamc.ups-tlse.fr -->
