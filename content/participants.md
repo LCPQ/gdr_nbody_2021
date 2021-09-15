@@ -38,3 +38,4 @@ If you would like to register, please send an email with your full name and affi
 1. Fabris Kossoski (LCPQ, Toulouse) <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. David Lauvergnat (LCP, Paris) <!-- david.lauvergnat@universite-paris-saclay.fr -->
 1. Clotilde Marut (LCPQ, Toulouse) <!-- cmarut@irsamc.ups-tlse.fr -->
+1. 1. Louis Garrigue (CERMICS, Paris) <!-- louis.garrigue@enpc.fr -->
