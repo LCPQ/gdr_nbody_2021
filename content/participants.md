@@ -42,3 +42,4 @@ If you would like to register, please send an email with your full name and affi
 1. Benoit Braida (LCT, Paris) <!-- bbraida@icloud.com -->
 1. Derk Kooi (Vrije Universiteit, Amsterdam) <!-- derkkooi@gmail.com -->
 1. Rosa Maskri (LMSME, Marne-la-vallee) <!-- rosa.maskri@u-pem.fr -->
+1. Tim Daas (Vrije Universiteit, Amsterdam) <!-- t.j.daas@vu.nl -->
