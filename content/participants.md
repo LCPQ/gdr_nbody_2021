@@ -43,3 +43,4 @@ If you would like to register, please send an email with your full name and affi
 1. Derk Kooi (Vrije Universiteit, Amsterdam) <!-- derkkooi@gmail.com -->
 1. Rosa Maskri (LMSME, Marne-la-vallee) <!-- rosa.maskri@u-pem.fr -->
 1. Tim Daas (Vrije Universiteit, Amsterdam) <!-- t.j.daas@vu.nl -->
+1. Pepijn Demol (KU Leuven, Leuven) <!-- pepijn.demol@kuleuven.be -->
