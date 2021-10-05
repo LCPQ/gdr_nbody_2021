@@ -8,7 +8,7 @@ If you would like to register, please send an email with your full name and affi
 
 # List of registered participants
 
-1. Michel Caffarel (LCPQ, Toulouse, organiser) <!-- michel.caffarel@gmail.com) -->
+1. Michel Caffarel (LCPQ, Toulouse, organiser) <!-- michel.caffarel@gmail.com -->
 1. Pierre-Francois Loos	(LCPQ, Toulouse, organiser) <!-- loos@irsamc.ups-tlse.fr -->
 1. Pina Romaniello (LPT, Toulouse, organiser) <!-- pina.romaniello@gmail.com -->
 1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
@@ -46,3 +46,6 @@ If you would like to register, please send an email with your full name and affi
 1. Pepijn Demol (KU Leuven, Leuven) <!-- pepijn.demol@kuleuven.be -->
 1. Sajanthan Sekaran (LCQ, Strasbourg) <!-- s.sekaran@unistra.fr  POSTER -->
 1. Hugh Burton (Oxford, UK) <!-- hugh.burton@chem.ox.ac.uk -->
+1. Nadia Ben Amor (LCPQ, Toulouse) <!-- benamor@irsamc.ups-tlse.fr -->
+1. Mauricio Rodríguez Mayorga (Vrije Universiteit, Amsterdam) <!-- marm3.14@gmail.com -->
+1. Thi Phuc Tan NGuyen (ISCR, Rennes) <!-- tan.nguyen@univ-rennes1.fr -->
