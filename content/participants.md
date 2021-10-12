@@ -51,3 +51,4 @@ If you would like to register, please send an email with your full name and affi
 1. Thi Phuc Tan NGuyen (ISCR, Rennes) <!-- tan.nguyen@univ-rennes1.fr -->
 1. Antoine Marie (Oxford, UK) <!-- antoine.marie@ens-lyon.fr -->
 1. Arno Forster (Vrije Universiteit, Amsterdam) <!-- a.t.l.foerster@vu.nl -->
+1. Gaspard Kemlin (CERMICS, Paris) <!-- gaspard.kemlin@enpc.fr -->
