@@ -9,12 +9,13 @@
     <managingEditor>gdrnbody@lct.jussieu.fr</managingEditor>
     <webMaster>gdrnbody@lct.jussieu.fr</webMaster><atom:link href="https://lcpq.github.io/gdr_nbody_2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Map</title>
+      <title>Location</title>
       <link>https://lcpq.github.io/gdr_nbody_2021/map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gdrnbody@lct.jussieu.fr</author>
       <guid>https://lcpq.github.io/gdr_nbody_2021/map/</guid>
-      <description> Display larger map </description>
+      <description> Location  The conference will be held in the amphithéâtre Laurent Schwartz on the campus of the Universite Paul Sabatier
+ Map  Display larger map </description>
     </item>
     
     <item>
