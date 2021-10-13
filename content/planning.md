@@ -99,6 +99,8 @@ draft: false
 | 16:50 - 17:10 | Contributed talk C102    |
 | 17:10 - 17:30 | Contributed talk C103    |
 |               |                          |
+| 19:30 - 23:30 | Social dinner            |
+|               |                          |
 
 # Thursday, January 13, 2021
     
