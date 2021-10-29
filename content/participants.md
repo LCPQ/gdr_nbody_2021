@@ -54,3 +54,7 @@ If you would like to register, please send an email with your full name and affi
 1. Gaspard Kemlin (CERMICS, Paris) <!-- gaspard.kemlin@enpc.fr -->
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Diata Traore (LCT, Paris) <!-- diata.traore@sorbonne-universite.fr -->
+1. Robinson Outerovitch (CEA/DAM/DIF, Arpajon)  <!-- robinson.outerovitch@cea.fr -->
+1. Tarik Benyahia (Vrije Universiteit, Amsterdam) <!-- tarik.benyahia@ens-paris-saclay.fr -->
+1. Trond Saue (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
+1. Gregoire David (Nottingham, UK) <!-- g.david@nottingham.ac.uk -->
