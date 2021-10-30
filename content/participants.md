@@ -58,3 +58,4 @@ If you would like to register, please send an email with your full name and affi
 1. Tarik Benyahia (Vrije Universiteit, Amsterdam) <!-- tarik.benyahia@ens-paris-saclay.fr -->
 1. Trond Saue (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Gregoire David (Nottingham, UK) <!-- g.david@nottingham.ac.uk -->
+1. Nicolas Cartier (Vrije Universiteit, Amsterdam) <!-- cartier.nicolas.g@gmail.com -->
