@@ -22,18 +22,18 @@ If you would like to register, please send an email with your full name and affi
 1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr -->
 1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
 1. Michele Casula (IMPMC, Paris) <!-- michele.casula@gmail.com -->
-1. Valerie Vallet (PhLAM, Lilles) <!-- valerie.vallet@univ-lille.fr -->
+1. Valerie Vallet (PhLAM, Lille) <!-- valerie.vallet@univ-lille.fr -->
 1. Roland Assaraf (LCT, Paris) <!-- assaraf@lct.jussieu.fr -->
 1. Vittorio Somà (CEA Saclay) <!-- vittorio.soma@cea.fr -->
 1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
 1. Emmanuel Fromager (LCQ, Strasbourg) <!-- fromagere@unistra.fr -->
 1. Eric Cances (CERMICS, Paris) <!-- eric.cances@enpc.fr -->
-1. Andre Gomes (PhLAM, Lilles) <!-- andre.gomes@univ-lille.fr -->
+1. Andre Gomes (PhLAM, Lille) <!-- andre.gomes@univ-lille.fr -->
 1. Ugo Ancarani (LPCT, Metz) <!-- ugo.ancarani@univ-lorraine.fr -->
 1. Paola Nava (iSm2, Marseille) <!-- paola.nava@univ-amu.fr -->
 1. Jonas Feldt (LCT, Paris) <!-- jfeldt.theochem@gmail.com -->
 1. Antoine Bienvenu (LCT, Paris) <!-- anbienvenu@gmail.com -->
-1. Wilken Misael (PhLAM, Lilles) <!-- wilken.misael@univ-lille.fr -->
+1. Wilken Misael (PhLAM, Lille) <!-- wilken.misael@univ-lille.fr -->
 1. Yann Damour (LCPQ, Toulouse) <!-- yann.damour@hotmail.fr -->
 1. Fabris Kossoski (LCPQ, Toulouse) <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. David Lauvergnat (LCP, Paris) <!-- david.lauvergnat@universite-paris-saclay.fr -->
@@ -60,3 +60,4 @@ If you would like to register, please send an email with your full name and affi
 1. Gregoire David (Nottingham, UK) <!-- g.david@nottingham.ac.uk -->
 1. Nicolas Cartier (Vrije Universiteit, Amsterdam) <!-- cartier.nicolas.g@gmail.com -->
 1. Jean-Paul Malrieu (LCPQ, Toulouse) <!-- malrieu@irsamc.ups-tlse.fr -->
+1. Xiang Yuan (PhLAM, Lille) <!-- xiang.yuan@univ-lille.fr -->
