@@ -62,3 +62,5 @@ If you would like to register, please send an email with your full name and affi
 1. Jean-Paul Malrieu (LCPQ, Toulouse) <!-- malrieu@irsamc.ups-tlse.fr -->
 1. Xiang Yuan (PhLAM, Lille) <!-- xiang.yuan@univ-lille.fr -->
 1. Gabriele Riva (LCPQ, Toulouse) <!-- griva@irsamc.ups-tlse.fr -->
+1. Yann Damour (LCPQ, Toulouse) <!-- ydamour@irsamc.ups-tlse.fr -->
+1. Thierry Deutsch (CEA, Grenoble) <!-- Thierry.Deutsch@cea.fr -->
