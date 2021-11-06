@@ -65,3 +65,4 @@ If you would like to register, please send an email with your full name and affi
 1. Thierry Deutsch (CEA, Grenoble) <!-- Thierry.Deutsch@cea.fr -->
 1. Quentin Marécat (ICGM, Montpellier) <!-- quentin.marecat@etu.umontpellier.fr -->
 1. Matthieu Vladaj (ICGM, Montpellier) <!-- matthieu.vladaj@umontpellier.fr -->
+1. Saad Yalouz (LCQ, Strasbourg) <!-- yalouzsaad@gmail.com -->
