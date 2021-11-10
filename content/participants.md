@@ -31,6 +31,7 @@ If you would like to register, please send an email with your full name and affi
 1. Andre Gomes (PhLAM, Lille) <!-- andre.gomes@univ-lille.fr -->
 1. Ugo Ancarani (LPCT, Metz) <!-- ugo.ancarani@univ-lorraine.fr -->
 1. Paola Nava (iSm2, Marseille) <!-- paola.nava@univ-amu.fr -->
+1. Emmanuel Giner (LCT, Paris) <!-- emmanuel.giner@lct.jussieu.fr  -->
 1. Jonas Feldt (LCT, Paris) <!-- jfeldt.theochem@gmail.com -->
 1. Antoine Bienvenu (LCT, Paris) <!-- anbienvenu@gmail.com -->
 1. Wilken Misael (PhLAM, Lille) <!-- wilken.misael@univ-lille.fr -->
@@ -66,3 +67,4 @@ If you would like to register, please send an email with your full name and affi
 1. Quentin Marécat (ICGM, Montpellier) <!-- quentin.marecat@etu.umontpellier.fr -->
 1. Matthieu Vladaj (ICGM, Montpellier) <!-- matthieu.vladaj@umontpellier.fr -->
 1. Saad Yalouz (LCQ, Strasbourg) <!-- yalouzsaad@gmail.com -->
+1. Leo Chaussy (iSm2, Marseille) <!-- leo.chaussy@univ-amu.fr -->
