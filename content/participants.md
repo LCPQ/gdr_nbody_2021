@@ -70,3 +70,7 @@ If you would like to register, please send an email with your full name and affi
 1. Leo Chaussy (iSm2, Marseille) <!-- leo.chaussy@univ-amu.fr -->
 1. Franck Rabilloud (iLM, Lyon) <!-- franck.rabilloud@univ-lyon1.fr -->
 1. Guillaume Thiam (iLM, Lyon) <!-- guillaume.thiam@univ-lyon1.fr -->
+1. Fabris Kossoski (LCPQ, Toulouse) <!-- fkossoski@irsamc.ups-tlse.fr -->
+1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
+1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr -->
+
