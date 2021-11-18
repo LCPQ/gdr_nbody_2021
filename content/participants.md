@@ -74,3 +74,6 @@ If you would like to register, please send an email with your full name and affi
 1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
 1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr -->
+1. Michael F. Herbst (Aachen, Germany) <!-- herbst@acom.rwth-aachen.de -->
+1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr -->
+
