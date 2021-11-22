@@ -76,4 +76,11 @@ If you would like to register, please send an email with your full name and affi
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr -->
 1. Michael F. Herbst (Aachen, Germany) <!-- herbst@acom.rwth-aachen.de -->
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr -->
-1. Agnieszka Miedlar (U Kansas, US) <!-- ak.miedlar@gmail.com -->
+1. Agnieszka Miedlar (Kansas U, US) <!-- amiedlar@ku.edu -->
+1. Paul Cazeaux (Kansas U, US) <!-- pcazeaux@ku.edu -->
+
+# Waiting list
+
+1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
+1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
+
