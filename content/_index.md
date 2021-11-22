@@ -4,6 +4,12 @@ date: 2020-12-02 09:00
 draft: false
 ---
 
+# NEWS
+
+* **Nov 2021:** Sadly, due to COVID restrictions, we have reached our limit in terms of participants (70). A waiting list has been created.
+* **Sep 2021:** Registration is now open! The deadline for submission is December, 1st 2021.
+* **Aug 2021:** The GDR NBODY GENERAL MEETING 2022 website is up and running!
+
 # GDR NBODY
 
 The [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody) - problème quantique à N corps en chimie et physique - created in 2019, is a research network that aims to bring together the community working on the quantum N-body problem, mostly from the viewpoint of quantum chemistry, but also including the viewpoints of condensed-matter physics, nuclear physics, and mathematics. The idea is to foster the development of new computational methods in quantum mechanics, the transfer of these methods from one discipline to another, and their efficient computer implementations.
@@ -28,9 +34,4 @@ The official language of the meeting is **English**.
 * Valerie Vallet (PhLAM, Universite de Lilles)
 * Roland Assaraf (LCT, Sorbonne Universite)
 * Vittorio Somà (CEA Universite Paris Saclay)
-
-# NEWS
-
-* **Sep 2021:** Registration is now open! The deadline for submission is December, 1st 2021.
-* **Aug 2021:** The GDR NBODY GENERAL MEETING 2022 website is up and running!
 
