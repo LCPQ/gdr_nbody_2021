@@ -83,4 +83,5 @@ If you would like to register, please send an email with your full name and affi
 
 1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
 1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
+1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
 
