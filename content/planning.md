@@ -116,7 +116,7 @@ draft: false
 | 10:30 - 11:00 | Coffee break             |
 |               |                          | 
 | SESSION 12    | Chair: Julien Toulouse   |
-| 11:00 - 11:30 | K12: Xavier Blase        |
+| 11:00 - 11:30 | K12: Xavier Blase - Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths      |
 | 11:30 - 11:50 | Contributed talk C121    |
 | 11:50 - 12:10 | Contributed talk C122    |
 | 12:10 - 12:30 | Contributed talk C123    |
