@@ -12,7 +12,6 @@ If you would like to register, please send an email with your full name and affi
 1. Pierre-Francois Loos	(LCPQ, Toulouse, organiser) <!-- loos@irsamc.ups-tlse.fr -->
 1. Pina Romaniello (LPT, Toulouse, organiser) <!-- pina.romaniello@gmail.com -->
 1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
-1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
 1. Antoine Levitt (CERMICS, Paris) <!-- antoine.levitt@inria.fr -->
 1. Xavier Blase (Institut Neel, Grenoble) <!-- xavier.blase@neel.cnrs.fr -->
 1. Francesco Sottile (Laboratoire des Solides Irradies, Palaiseau) <!-- francesco.sottile@polytechnique.fr -->
@@ -53,7 +52,6 @@ If you would like to register, please send an email with your full name and affi
 1. Antoine Marie (Oxford, UK) <!-- antoine.marie@ens-lyon.fr -->
 1. Arno Forster (Vrije Universiteit, Amsterdam) <!-- a.t.l.foerster@vu.nl -->
 1. Gaspard Kemlin (CERMICS, Paris) <!-- gaspard.kemlin@enpc.fr -->
-1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Diata Traore (LCT, Paris) <!-- diata.traore@sorbonne-universite.fr -->
 1. Robinson Outerovitch (CEA/DAM/DIF, Arpajon)  <!-- robinson.outerovitch@cea.fr -->
 1. Tarik Benyahia (Vrije Universiteit, Amsterdam) <!-- tarik.benyahia@ens-paris-saclay.fr -->
@@ -78,15 +76,17 @@ If you would like to register, please send an email with your full name and affi
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr -->
 1. Agnieszka Miedlar (Kansas U, US) <!-- amiedlar@ku.edu -->
 1. Paul Cazeaux (Kansas U, US) <!-- pcazeaux@ku.edu -->
+1. Miguel Escobar Azor (LCPQ, Toulouse) <!-- mescobar@irsamc.ups-tlse.fr -->
+1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
 
 # Waiting list
 
-1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
 1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
 1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@outlook.fr -->
 1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Yannick Carissan (iSm2, Marseille) <!-- yannick.carissan@univ-amu.fr -->
-1. Miguel Escobar Azor (LCPQ, Toulouse) <!-- mescobar@irsamc.ups-tlse.fr -->
-
+1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
+1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
+1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
