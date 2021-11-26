@@ -87,4 +87,5 @@ If you would like to register, please send an email with your full name and affi
 1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@outlook.fr -->
 1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
+1. Yannick Carissan (iSm2, Marseille) <!-- yannick.carissan@univ-amu.fr -->
 
