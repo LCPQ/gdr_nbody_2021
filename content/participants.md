@@ -90,3 +90,4 @@ If you would like to register, please send an email with your full name and affi
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
 1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
+1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
