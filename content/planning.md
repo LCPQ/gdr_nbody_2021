@@ -22,7 +22,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break             |
 |               |                          | 
 | SESSION 2     | Chair: Thomas Duguet     |
-| 16:00 - 16:30 | K2: Vittorio Soma        |
+| 16:00 - 16:30 | K2: Vittorio Soma - Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory |
 | 16:30 - 16:50 | Contributed talk C21     |
 | 16:50 - 17:10 | Contributed talk C22     |
 | 17:10 - 17:30 | Contributed talk C23     |
@@ -50,7 +50,7 @@ draft: false
 | 12:30 - 14:00 | Lunch                    |
 |               |                          |
 | SESSION 5     | Chair: Paola Nava        |
-| 14:00 - 14:30 | K5: Elisa Rebolini       |
+| 14:00 - 14:30 | K5: Elisa Rebolini - Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE |
 | 14:30 - 14:50 | Contributed talk C51     |
 | 14:50 - 15:10 | Contributed talk C52     |
 | 15:10 - 15:30 | Contributed talk C53     |
@@ -62,6 +62,8 @@ draft: false
 | 16:30 - 16:50 | Contributed talk C61     |
 | 16:50 - 17:10 | Contributed talk C62     |
 | 17:10 - 17:30 | Contributed talk C63     |
+|               |                          | 
+| 17:30 - 18:30 | Meeting Bureau GDR       |
 |               |                          | 
 
 # Wednesday, January 12, 2021
