@@ -6,7 +6,8 @@ draft: false
 
 # NEWS
 
-* **Nov 2021:** Sadly, due to COVID restrictions, we have reached our limit in terms of participants (70). A waiting list has been created.
+* **Nov 2021:** Sadly, due to COVID restrictions, we have reached our limit in terms of participants (70). A waiting list has been created. 
+We are currently looking for solutions in order to accommodate more participants.
 * **Sep 2021:** Registration is now open! The deadline for submission is December, 1st 2021.
 * **Aug 2021:** The GDR NBODY GENERAL MEETING 2022 website is up and running!
 
