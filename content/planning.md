@@ -58,7 +58,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break             |
 |               |                          | 
 | SESSION 6     | Chair: Pina Romaniello   |
-| 16:00 - 16:30 | K6: Francesco Sottile    |
+| 16:00 - 16:30 | K6: Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
 | 16:30 - 16:50 | Contributed talk C61     |
 | 16:50 - 17:10 | Contributed talk C62     |
 | 17:10 - 17:30 | Contributed talk C63     |
