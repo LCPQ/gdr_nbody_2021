@@ -11,7 +11,7 @@ If you would like to register, please send an email with your full name and affi
 1. Michel Caffarel (LCPQ, Toulouse, organiser) <!-- michel.caffarel@gmail.com -->
 1. Pierre-Francois Loos	(LCPQ, Toulouse, organiser) <!-- loos@irsamc.ups-tlse.fr -->
 1. Pina Romaniello (LPT, Toulouse, organiser) <!-- pina.romaniello@gmail.com -->
-1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr -->
+1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr POSTER -->
 1. Antoine Levitt (CERMICS, Paris) <!-- antoine.levitt@inria.fr -->
 1. Xavier Blase (Institut Neel, Grenoble) <!-- xavier.blase@neel.cnrs.fr -->
 1. Francesco Sottile (Laboratoire des Solides Irradies, Palaiseau) <!-- francesco.sottile@polytechnique.fr -->
@@ -72,7 +72,7 @@ If you would like to register, please send an email with your full name and affi
 1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
 1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr -->
-1. Michael F. Herbst (Aachen, Germany) <!-- herbst@acom.rwth-aachen.de -->
+1. Michael Herbst (Aachen, Germany) <!-- herbst@acom.rwth-aachen.de -->
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr -->
 1. Agnieszka Miedlar (Kansas U, US) <!-- amiedlar@ku.edu -->
 1. Paul Cazeaux (Kansas U, US) <!-- pcazeaux@ku.edu -->
@@ -91,3 +91,4 @@ If you would like to register, please send an email with your full name and affi
 1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
 1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
+1. Karno Schwinn (LPT, Paris) <!-- karno.schwinn@googlemail.com POSTER --> 
