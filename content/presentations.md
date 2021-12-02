@@ -414,9 +414,9 @@ In a material’s phase diagram the types of realized long-range orders typicall
 
 **The inverse problem of Density Functional Theory**
 
- The map from electric potentials to the one-body density of the ground state is important in the quantum many-body theory, because of its injectivity. Considering Density Functional Theory as an inverse problem, we will present the mathematical specificities of its dual formulation, and show how to construct potentials producing some target one-body density, in ground and excited states cases.[1]
+ The map from electric potentials to the one-body density of the ground state is important in the quantum many-body theory, because of its injectivity. Considering Density Functional Theory as an inverse problem, we will present the mathematical specificities of its dual formulation, and show how to construct potentials producing some target one-body density, in ground and excited states cases [1].
 
-[1] https://arxiv.org/abs/2101.01127
+[1] Building Kohn-Sham potentials for ground and excited states, Louis Garrigue, arXiv:2101.01127 [math-ph]. 
 
 ***
 
@@ -553,7 +553,7 @@ This formalism should considerably reduce the computation time avoiding the expo
 Based on anti-commutativity relations, we show that we can construct a class of mathematical objects that are isomorphic to many-body wavefunctions but have the advantage of being compactable. Thanks to this new formalism, we show that the 2-RDM of the wavefunctions solutions of a two-body interaction Hamiltonian can be represented exactly thanks to this new set of mathematical objects. We will give also a new geometric interpretation of the 2-RDM in the space of these new mathematical objects.
 We will develop the Lagrangian, the corresponding Euler-Lagrange equations and illustrate with numerical examples.
 
-[1] Exact solution of the many-body problem with a O(n6) complexity, T. Deutsch, arXiv:2111.15281 [quant-ph]
+[1] Exact solution of the many-body problem with a $O(n^6)$ complexity, T. Deutsch, arXiv:2111.15281 [quant-ph]
 
 ***
 
