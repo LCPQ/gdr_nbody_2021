@@ -8,7 +8,7 @@ draft: false
 
 # Contributed talks
 
-## Derk Kooi (Vrije Universiteit, Amsterdam)
+### Derk Kooi (Vrije Universiteit, Amsterdam)
 
 Title: London dispersion forces without density distortion: The Fixed Diagonal Matrices method
 London dispersion forces without density distortion: The Fixed Diagonal Matrices method
@@ -32,13 +32,13 @@ References
 [7] D.P. Kooi, P. Gori-Giorgi, Faraday Discuss. 2020, 224, 145-165
 [8] D.P. Kooi, T. Weckman, P. Gori-Giorgi, J. Chem. Theo. Comput., 2021, 17, 4, 2283-2293
 
-## Gabriele Riva (LCPQ, Toulouse)
+### Gabriele Riva (LCPQ, Toulouse)
 
 Title: Photoemission spectroscopy from the three-body Green’s function 
 
 Abstract: We present an original approach for the calculation of direct and inverse photo-emission spectra from first principles. The main goal is to go beyond the standard Green’s function approaches, such as the GW method, in order to find a good description not only of the quasiparticles but also of the satellite structures, which are of particular importance in strongly correlated materials. Our method uses as a key quantity the three-body Green’s function, or, more precisely, its hole-hole- electron and electron-electron-hole parts. We show that, contrary to the one-body Green’s function, satellites are already present in the corresponding non-interacting Green’s function. Therefore, simple approximations to the three-body self-energy, which is defined by the Dyson equation for the three-body Green’s function and which contains many-body effects, can still yield accurate spectral functions. In particular, the self-energy can be chosen to be static which could simplify a self-consistent solution of the Dyson equation. We also show how the one-body Green’s function can be retrieved from the three-body Green’s function. We illustrate our approach by applying it to the symmetric Hubbard dimer.
 
-## Miguel Escobar Azor (LCPQ, Toulouse)
+### Miguel Escobar Azor (LCPQ, Toulouse)
 
 Title: Wigner localization in two and three dimensions: an ab initio approach
 
@@ -48,7 +48,7 @@ Abstract: We investigate Wigner localization at very low densities by means of t
 [2] M. Escobar Azor, E. Alves, S. Evangelisti, and J. A. Berger, Wigner localization in two and three dimensions: An ab initio approach, The Journal of Chemical Physics 155, 124114 (2021).
 
 
-## Gaspard Kemlin (CERMICS, Paris)
+### Gaspard Kemlin (CERMICS, Paris)
 
 Title: Practical error bounds for electronic structure calculations: energy, density matrices and forces
 
@@ -56,7 +56,7 @@ Abstract: In the field of quantum chemistry, solving electronic structure proble
 While such error bounds have been developed already some time ago for boundary value problems, the developments of such error bounds in electronic structure are still recent and incomplete. So far, no error bound has been proposed for the error estimation of QoI in electronic structure calculations, in particular for the forces of the system. This is what we are trying to achieve in this contribution, by developing new error estimators for nonlinear models, nonguaranted but valid asymptotically.
 These bounds are based on an estimation of the error in terms of the residual of the solved equations, which is then efficiently approximated with computable terms. We numerically show how accurate these bounds are on a few representative materials systems, namely silicon, gallium arsenide and titanium dioxide.
 
-## Wilken A. Misael (PhLAM, Lille)
+### Wilken A. Misael (PhLAM, Lille)
 
 Synergic effects concerning electronic structure and morphology in the PTB7-Th polymer and the non-fullerene acceptor ITIC molecule has resulted in state-of-art systems for organic solar cells (OSCs), achieving over 12% PCE values [1]. Furthermore, the substitution of harmful halogenated solvents to environmentally friendly solvents that do not compromise PCE values has become a subject of great interest in the literature [2].
 In this work, we employed sulfur K-edge Angle-Resolved Near-Edge X-ray Absorption Fine Structure (NEXAFS), Resonant Auger (RAS), and the Core-Hole Clock spectroscopies in an attempt to gain information on the effect of different processing methods on the elec- tronic and morphological properties of these systems. These spectroscopic measurements (NEXAFS, RAES and XPS) were carried out at the SXS beamline of the Brazilian Syn- chrotron Light Laboratory (LNLS).
@@ -67,7 +67,7 @@ We also explored different chemical descriptors (the Donor-Acceptor and Aromatic
 [1] Jianhui Hou et al. “Organic solar cells based on non-fullerene acceptors”. In: Nature materials 17.2 (2018), pp. 119–128.
 [2] Jingbo Zhao et al. “Efficient organic solar cells processed from hydrocarbon solvents”. In: Nature Energy 1.2 (2016), pp. 1–7.
 
-## Mauricio Rodríguez-Mayorga (VU University, Amsterdam)
+### Mauricio Rodríguez-Mayorga (VU University, Amsterdam)
 
 Title: Introducing Relativistic Reduced Density Matrix Functional Theory
 
@@ -85,7 +85,7 @@ B, 99(22), 224502.
 6.- Piris, M. (2013). Interpair electron correlation by second-order perturbative corrections to PNOF5. The Journal of chemical physics, 139(6), 064111.
 7.- Piris, M. (2017). Global method for electron correlation. Physical review letters, 119(6), 063002.
 
-## Guillaume Thiam (iLM, Lyon)
+### Guillaume Thiam (iLM, Lyon)
 
 Title: Multi-basis-set TDDFT methods for predicting electron attachment energies
 
@@ -108,14 +108,14 @@ Here, we propose an efficient approach to predict the resonance energies of the 
 [6] Thiam G., Rabilloud F., J. Phys. Chem. Lett, 12, 41, 9995–10001(2021)
 
 
-## Benoit Braida (LCT, Paris) 
+### Benoit Braida (LCT, Paris) 
 
 Calculating excited states properties and transition energies can be a tough task even for small molecules. If the ground and excited states are of different symmetries, state-specific calculations can be performed, but it is essential that the correlation energies be calculated in a balanced way for both states. This can be difficult when the two states have very different demands of dynamic electron correlation, for instance with ionic excited states displaying a lot of dynamic charge fluctuation. If the two states are of like symmetry, a state-averaged treatment can be used, but the accuracy is penalized by the necessity for both states to share the same orbital set, which is a compromise that cannot be optimal for either of the two states. 
 It will be shown that these two difficulties can be resolved by the breathing-orbital valence bond method (BOVB), which exerts a direct approach to both static and dynamic electron correlations, made possible by the freedom to deal with non-orthogonal orbitals. The dynamic correlation is fully included right at the orbital optimization step, by allowing each VB structure to have its specific set of orbitals, and, in the newly developed state-averaged BOVB method, by also having the unique advantage to be free from the constraint for the different states to share the same unique set of orbitals. 
 This approach is tested on the challenging 11B1u ionic state of ethylene, and to the five lowest-lying singlet states of ozone and sulfur dioxide, among which the challenging 11B2 and 21A1 states. In all cases, it will be shown that the calculated vertical energies are close to the experimental values when available, and at par with the most sophisticated calculations in the molecular orbital framework, despite the extreme compactness of the BOVB wave functions (no more than 4-9 valence bond structures in all cases). Finally, the description of the excited states also come out to be insightful, and displays some important, albeit unexpected, Lewis structures. 
 
 
-## Pepijn Demol (KU Leuven, Leuven)
+### Pepijn Demol (KU Leuven, Leuven)
 
 Title: Bogoliubov coupled cluster theory for open-shell nuclei
 
@@ -129,7 +129,7 @@ Once fully implemented, the non-perturbative (equation-of-motion) BCC method wil
 [4] A. Signoracci, T. Duguet, G. Hagen, G. Jansen, Phys. Rev. C 91, 064320 (2015)
 
 
-## David Lauvergnat (ICP, Orsay)
+### David Lauvergnat (ICP, Orsay)
 
 Title: Quantum Dynamics with a Smolyak scheme: numerical developments and applications
 
@@ -145,14 +145,14 @@ In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneer
 [8] A. Powers, Y. Scribano, D. Lauvergnat, E. Mebe, D.M. Benoit, Z. Bačić, J. Chem. Phys. 148 (2018).
 [9] Lucien Dupuy, David Lauvergnat, and Yohann Scribano, Chem. Phys. Letter, to be published
 
-## Antoine Bienvenu (LCT, Paris) 
+### Antoine Bienvenu (LCT, Paris) 
 
 Title: Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems
 
 Abstract: For an ab-initio calculation on a N-particle electronic system, Variational Monte Carlo methods provide a result with a time scaling O(N³). However, they suffer from numerical uncertainties increasing with system size, caracterised by their variance which generally scales as O(N). The traditional compensation method transfers the uncertainties onto the simulation time, in order to obtain a given level of accuracy, resulting in an effective O(N⁴) scaling. We present a new control variate method employing the zero-variance principle and a partition of the system which allows us to reduce the variance for a limited increase in computation time, by O(N) on metallic systems and up to O(N²) on systems with a finite correlation length, and will present results on the example of the Hubbard model.
 
 
-## Fabris Kossoski (LCPQ, Toulouse)
+### Fabris Kossoski (LCPQ, Toulouse)
 
 Title: Exploiting the seniority number in calculations of molecular excited states
 
@@ -181,7 +181,7 @@ both the excitation degree and the seniority number, as well as initial
 results for ground state potential energy curves and excitation 
 energies.
 
-## Timothy Daas (Vrije Universiteit, Amsterdam)
+### Timothy Daas (Vrije Universiteit, Amsterdam)
 
 Title: Noncovalent interactions from models for the Møller-Plesset adiabatic connection
 
@@ -193,14 +193,14 @@ Reference
 [4]S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett., 9, 3137-3142 (2018)
 
 
-## Diata Traore (LCT, Paris)
+### Diata Traore (LCT, Paris)
 
 The density-based basis-set correction method [1], consisting in correcting the basis-set incompleteness error of wave-function calculations using a density functional, has proved its efficiency to speed up the convergence of ground-state energies [2, 3]. Here, we extend the basis-set correction method to calculations of molecular properties, starting with dipole moments. We develop two strategies: (1) configuration-interaction calculations where the basis-set correction is included self-consistently [4], and (2) coupled-cluster calculations where the basis-set correction is estimated non-self-consistently using numerical differentiation of the energy with respect to an electric field. Systematic tests have been performed on a set of molecules.
 [1] E. Giner, B. Pradines, A. Ferte, R. Assaraf, A. Savin and J. Toulouse, J. Chem. Phys. 149, 194301 (2018).
 [2] P.-F. Loos, B. Pradines, A. Scemama, J. Toulouse and E. Giner, The Journal of Physical Chemistry Letters 10, 2931 (2019). [3] E. Giner, A. Scemama, P.-F. Loos and J. Toulouse, The Journal of Chemical Physics 152, 174104 (2020).
 [4] E. Giner, D. Traore, B. Pradines and J. Toulouse, The Journal of Chemical Physics 155, 044109 (2021).
 
-## Jonas Feldt (LCT, Paris)
+### Jonas Feldt (LCT, Paris)
 
 Title: Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers
 
@@ -227,7 +227,7 @@ References:
 2. M. Dash, J. Feldt, M. Saverio, A. Scemama, C. Filippi, JCTC 2020, 15, 48964906.
 3. J. Feldt, R. Assaraf, JCTC 2021, 17, 13801389.
 
-## Leo Chaussy (iSm2, Marseille)
+### Leo Chaussy (iSm2, Marseille)
 
 Title: Benchmark on cobalt systems relevant for reactivity
 
@@ -240,13 +240,13 @@ References
 (4) M. Radon ́, Phys. Chem. Chem. Phys., 2019, 21, 4854–4870.
 (5) G. Drabik, J. Szklarzewicz and M. Radon ́, Phys. Chem. Chem. Phys., 2021, 23, 151–172.
 
-## Leo Gaspard (LCPQ, Toulouse)
+### Leo Gaspard (LCPQ, Toulouse)
 
 Title: Timescale of local moment screening across and above the Mott transition 
 
 Abstract: In a material’s phase diagram the types of realized long-range orders typically correspond to instabilities in static response functions. In correlated systems, however, key phenomena crucially depend on dynamical processes too: In a Mott insulator, the electrons’ spin moment fluctuates in time, while it is dynamically screened in Kondo systems. Here, we introduce a timescale tm characteristic for the screening of the local spin moment and demonstrate that it fully characterizes the dynamical mean-field phase diagram of the Hubbard model: The retarded magnetic response delineates the Mott transition and provides a new perspective on its signatures in the supercritical region above. We show that tm has knowledge of the Widom line and that it can be used to demarcate the Fermi liquid from the bad metal regime. Additionally, it reveals new structures inside the Fermi liquid phase: First, we identify a region with preformed local moments that we suggest to have a thermodynamic signature. Second, approaching the Mott transition from weak coupling, we discover a regime in which the spin dynamics becomes adiabatic, in the sense that it is much slower than valence fluctuations. Our findings provide resolution limits for magnetic measurements and may build a bridge to the relaxation dynamics of non-equilibrium states 
 
-## Louis Garrigue (CERMICS, Paris)
+### Louis Garrigue (CERMICS, Paris)
 
 Title: The inverse problem of Density Functional Theory
 
@@ -255,7 +255,7 @@ Abstract: The map from electric potentials to the one-body density of the ground
 [1] https://arxiv.org/abs/2101.01127
 
 
-## Michael Herbst (Aachen, Germany)
+### Michael Herbst (Aachen, Germany)
 
 Title: A robust and efficient line search for self-consistent field iterations
 
@@ -281,7 +281,7 @@ transition-metal alloys. This includes cases where we deliberately
 select algorithmic parameters in a suboptimal way demonstrating our
 adaptive damping approach to overall increase SCF robustness.
 
-## Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
+### Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
 
 Title: Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2
 
@@ -295,7 +295,7 @@ References
 [4] J.-B. Mor ́ee, R. Outerovitch, and B. Amadon, “First-principles calculation of the Coulomb interaction parameters U and J for actinide dioxides,” Phys. Rev. B, vol. 103, p. 045113, Jan. 2021.
 [5] P. Seth, P. Hansmann, A. van Roekeghem, L. Vaugier, and S. Biermann, “Towards a First-Principles Determination of Effective Coulomb Interactions in Correlated Elec- tron Materials: Role of Intershell Interactions,” Phys. Rev. Lett., vol. 119, p. 056401, Aug. 2017.
 
-## Tan Nguyen  (ISCR, Rennes)
+### Tan Nguyen  (ISCR, Rennes)
 
 Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in the field of colloidal synthesis owing to their superior photoluminescence quantum yield and blinking-free properties, which make them promising materials for both classical [1,2] and quantum light sources [3,4]. Their brightness and sub-nanosecond radiative decay originates from the inherent correlation effects [5,6]. The many-body Coulomb interaction has generally been studied for semiconductor quantum dots [7,8]. Perovskites, as a consequence of the unique properties of their dielectric functions, possess enhanced Coulomb interaction between the charge carriers [9]. This leads to large binding energies of multi-exciton systems such as trion and biexciton in these NCs or the sizable splitting in the fine structure of single exciton states. Considering each NC as an artificial atom under the envelope function approximation, this problem of correlation effects can be approached at first by using second-order many-body techniques as outlined in Ref. [10]. This offers an elegant and efficient method that provides qualitative results for the trion and biexciton binding energies [11]. In going beyond the second-order description, configuration interaction can be employed to include the correlation energies between the various charge carriers in a more holistic manner.
 
@@ -311,7 +311,7 @@ Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in t
 [10] I. Lindgren and J. Morrison, Atomic Many-Body Theory. Springer-Verlag, 1982.
 [11] Nguyen et al., Calculation of the biexciton shift in nanocrystals of inorganic perovskites. Phys. Rev. B, 101. 125424, 2020.
 
-## Abdallah Ammar (LCPQ, Toulouse)
+### Abdallah Ammar (LCPQ, Toulouse)
 
 Realizing full Configuration Interaction (CI) for a one-electron basis sets is, in general, not possible
 in practice. One needs to truncate the CI wavefunction according to some protocol. To recover the
@@ -333,7 +333,7 @@ Moreover, the non-hermeticity of the transcorrelated Hamiltonian is dressed by a
 dressing of the Hamiltonian. The dressing elements, which contain two- and three-electrons integrals,
 are sampled in a Variational Monte Carlo (VMC) calculation.
 
-## Saad Yalouz (LCQ, Strasbourg)
+### Saad Yalouz (LCQ, Strasbourg)
 
 Title: Describing conical intersections with near term quantum computers
 
@@ -343,7 +343,7 @@ Motivated by this problem, we recently introduced a new quantum algorithm [1] ca
 [1] S. Yalouz, B. Senjean, J. Gu ̈nther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).
 [2] S. Yalouz, E. Koridon, B. Senjean, B. Lasorne, F. Buda, and L. Visscher, Analytical nonadiabatic couplings and gradients within the state-averaged orbital-optimized variational quantum eigensolver, arXiv preprint arXiv:2109.04576 (2021).
 
-## Thierry Deutsch (CEA, Grenoble)
+### Thierry Deutsch (CEA, Grenoble)
 
 Title: New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity n^4
 
@@ -353,7 +353,7 @@ This formalism should considerably reduce the computation time avoiding the expo
 Based on anti-commutativity relations, we show that we can construct a class of mathematical objects that are isomorphic to many-body wavefunctions but have the advantage of being compactable. Thanks to this new formalism, we show that the 2-RDM of the wavefunctions solutions of a two-body interaction Hamiltonian can be represented exactly thanks to this new set of mathematical objects. We will give also a new geometric interpretation of the 2-RDM in the space of these new mathematical objects.
 We will develop the Lagrangian, the corresponding Euler-Lagrange equations and illustrate with numerical examples.
 
-## Xiang Yuan (PhLAM, Lille) 
+### Xiang Yuan (PhLAM, Lille) 
 
 Title: Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure 
 
