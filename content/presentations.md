@@ -238,7 +238,7 @@ With the Smolyak scheme,[1] the exponential scaling is avoided for both basis se
 $$ | \Psi \rangle  = \sum_{\mathbf{\ell}} D_{\mathbf{\ell}} | \Psi^{\mathbf{\ell}} \rangle $$
 In this sum, each term, $| \Psi^{\mathbf{\ell}} \rangle$, parametrized by $\mathbf{\ell}$ ($\mathbf{\ell} = [\ell_1,\ell_2,\ldots,\ell_n])$, is expanded on a small
 direct-product (basis set and/or grid). The number of terms in the sum is constrained
-through a relation on $|\ell|$ ($|\ell| = \sum_{i=1}^{n})$) such as: $|\ell|$ \le L$ (other constraints are possible), 
+through a relation on $|\ell|$ ($|\ell| = \sum_{i=1}^{n})$) such as: $|\ell| \le L$ (other constraints are possible), 
 hence, this limits the overall grid and basis set sizes. The scaling as function of $n$ becomes polynomials of degree $L$.
 
 
