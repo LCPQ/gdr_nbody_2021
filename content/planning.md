@@ -57,10 +57,12 @@ draft: false
 | 16:00 - 16:40 | Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
 | 16:40 - 17:05 | Antoine Bienvenu - Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems     |
 | 17:05 - 17:30 | Xiang Yuan - Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculation |
-| 17:30 - 17:55 | Clotilde Marut - Ensemble density-functional theory |
+<!-- | 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | ) -->
 |               |                          | 
-| 18:00 - 19:00 | Meeting Bureau GDR       |
+| 17:30 - 18:30 | Meeting Bureau GDR       |
 |               |                          | 
+| 19:30 - 23:30 | Social dinner (35 people max) |
+|               |                          |
 
 # Wednesday, January 12, 2021
     
@@ -92,9 +94,7 @@ draft: false
 | 16:00 - 16:40 | Michele Casula - TBA |
 | 16:40 - 17:05 | Louis Garrigue - The inverse problem of Density Functional Theory    |
 | 17:05 - 17:30 | Robinson Outerovitch - Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2    |
-[//]: # (| 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | )
-|               |                          |
-| 19:30 - 23:30 | Social dinner            |
+| 17:30 - 17:55 | Clotilde Marut - Ensemble density-functional theory |
 |               |                          |
 
 # Thursday, January 13, 2021
