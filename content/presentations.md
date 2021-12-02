@@ -233,7 +233,15 @@ Once fully implemented, the non-perturbative (equation-of-motion) BCC method wil
 
 **Quantum Dynamics with a Smolyak scheme: numerical developments and applications**
 
-When solving the time-dependent or time-independent Schrödinger equations associated to the atomic motions, the major bottleneck is the size of the direct-product basis set or grid which increases exponentially as a function of the number of degrees of freedom, n. All the usual numerical techniques (use of symmetry, clever selection of coordinates, separation of motions, basis set and grids adapted to model Hamiltonians, contraction of basis set and grids ...) fail to attenuate this exponential scaling. A way to overcome this difficulty is to perform a multidimensional basis function selection in terms of excitations as for vibrational-SCF or VSCF methods. However, when a multidimensional grid is required, the exponential scaling is still present.
+When solving the time-dependent or time-independent Schrödinger equations associated to the atomic motions, the major bottleneck is the size of the direct-product basis set or grid which increases exponentially as a function of the number of degrees of freedom, $n$. All the usual numerical techniques (use of symmetry, clever selection of coordinates, separation of motions, basis set and grids adapted to model Hamiltonians, contraction of basis set and grids ...) fail to attenuate this exponential scaling. A way to overcome this difficulty is to perform a multidimensional basis function selection in terms of excitations as for vibrational-SCF or VSCF methods. However, when a multidimensional grid is required, the exponential scaling is still present.
+With the Smolyak scheme,[1] the exponential scaling is avoided for both basis set and grid and a wave function can be represented as follows:
+$$ | \Psi \rangle  = \sum_{\mathbf{\ell}} D_{\mathbf{\ell}} | \Psi^{\mathbf{\ell}} \rangle $$
+In this sum, each term, $| \Psi^{\mathbf{\ell}} \rangle$, parametrized by $\mathbf{\ell}$ ($\mathbf{\ell} = [\ell_1,\ell_2,\ldots,\ell_n])$, is expanded on a small
+direct-product (basis set and/or grid). The number of terms in the sum is constrained
+through a relation on $|\ell|$ ($|\ell| = \sum_{i=1}^{n})) such as: $|\ell|$ \le L$ (other constraints are possible), 
+hence, this limits the overall grid and basis set sizes. The scaling as function of $n$ becomes polynomials of degree $L$.
+
+
 In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneers in developing efficient implementations to study the vibrational energy levels of molecules [6- 9] or reactive collisions. [9] Here, we will show that it is possible to apply this Smolyak scheme to large molecule (n>20) and also to extend it to wave packet propagation. Furthermore, with a system/bath separation, one can deal with about 100 degrees of freedom.
 
 [1] S. A. Smolyak Soviet Mathematics Doklady, 4 (1963) 240
