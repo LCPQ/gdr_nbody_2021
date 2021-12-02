@@ -258,7 +258,7 @@ In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneer
 
 **Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems**
 
- For an ab-initio calculation on a N-particle electronic system, Variational Monte Carlo methods provide a result with a time scaling O(N³). However, they suffer from numerical uncertainties increasing with system size, caracterised by their variance which generally scales as O(N). The traditional compensation method transfers the uncertainties onto the simulation time, in order to obtain a given level of accuracy, resulting in an effective O(N⁴) scaling. We present a new control variate method employing the zero-variance principle and a partition of the system which allows us to reduce the variance for a limited increase in computation time, by O(N) on metallic systems and up to O(N²) on systems with a finite correlation length, and will present results on the example of the Hubbard model.
+For an ab-initio calculation on a $N$-particle electronic system, Variational Monte Carlo methods provide a result with a time scaling $O(N^3)$. However, they suffer from numerical uncertainties increasing with system size, caracterised by their variance which generally scales as $O(N)$. The traditional compensation method transfers the uncertainties onto the simulation time, in order to obtain a given level of accuracy, resulting in an effective $O(N^4)$ scaling. We present a new control variate method employing the zero-variance principle and a partition of the system which allows us to reduce the variance for a limited increase in computation time, by $O(N)$ on metallic systems and up to $O(N^2)$ on systems with a finite correlation length, and will present results on the example of the Hubbard model.
 
 ### Fabris Kossoski (LCPQ, Toulouse)
 
@@ -318,13 +318,13 @@ Quantum Monte Carlo (QMC) methods use a stochastic approach to solve the Schröd
 equation. Their scaling with the system size considering the computational costs is very
 favourable and a great flexibility in the choice of the wave function allows to efficiently treat
 both dynamical as well as static correlation. This makes QMC methods for instance particu-
-larly useful for the description of excited states.1;2
-However, the steep scaling with the atomic number Z is a remaining challenge. Different
+larly useful for the description of excited states. [1,2]
+However, the steep scaling with the atomic number $Z$ is a remaining challenge. Different
 regions in space exhibit different time scales and contribute to a varying degree to the overall
 variance in a Variational Monte Carlo algorithm. This leads to large inefficiencies as the
 same computational effort is spend on all regions. We propose a Monte Carlo scheme which
 exploits that core regions are physically independent in a molecule to almost remove their high
-variance contribution to the numerical cost.3 The method relies on efficiently subsampling the
+variance contribution to the numerical cost. [3] The method relies on efficiently subsampling the
 core regions using independent sidewalks which can be understood as constructing on the fly
 an exact stochastic effective core potential. Results are presented on atoms, alkane chains and
 clusters of silicons which display a gain in numerical efficiency between one and two orders of
@@ -474,7 +474,7 @@ In quantum computing, solving the electronic structure problem is considered as 
 In nature, conical intersections play a keyrole in many prominent reactions. For instance, in the process of vision: the retinal molecule is known to undergo a photoisomerisation mediated by a non-radiative relaxation through a conical intersection. In such a situation, characterizing the phenomenon requires to precisely describe the shape of the conical intersection, with both qualitative and quantitative high-level treatments. This makes it a difficult target to current quantum algorithms, such as VQE.
 Motivated by this problem, we recently introduced a new quantum algorithm [1] called the “State-Averaged Orbital-Optimized VQE” (SA-OO-VQE) designed to treat on an equal footing degenerate states on near term quantum computers. In this talk, we introduce the theory of SA- OO-VQE and illustrate how it works on the formaldimine molecule (a minimal model for the retinal with a similar conical intersection). Furthermore, we will introduce new extensions to the SA-OO- VQE algorithm recently developed to estimate nuclear gradients and non-adiabatic couplings out of the quantum algorithm [2]. We show that SA-OO-VQE is able to qualitatively and quantitatively reproduce the molecule’s conical intersection. We will also show that the algorithm can be used in a geometry optimization process to find the minimal energy conical intersection of the molecule.
 
-[1] S. Yalouz, B. Senjean, J. Gu ̈nther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).
+[1] S. Yalouz, B. Senjean, J. Gunther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).
 [2] S. Yalouz, E. Koridon, B. Senjean, B. Lasorne, F. Buda, and L. Visscher, Analytical nonadiabatic couplings and gradients within the state-averaged orbital-optimized variational quantum eigensolver, arXiv preprint arXiv:2109.04576 (2021).
 
 ### Thierry Deutsch (CEA, Grenoble)
@@ -494,7 +494,7 @@ We will develop the Lagrangian, the corresponding Euler-Lagrange equations and i
 
 **Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure**
 
-The O(N6) high computational cost is a bottleneck preventing performing Coupled-Cluster (CC) on large systems, particularly when employing 4-component based relativistic Hamiltonians, for which in practice one often uses uncontracted basis set generating large virtual molecular orbital (VMO) spaces.
+The $O(N^6)$ high computational cost is a bottleneck preventing performing Coupled-Cluster (CC) on large systems, particularly when employing 4-component based relativistic Hamiltonians, for which in practice one often uses uncontracted basis set generating large virtual molecular orbital (VMO) spaces.
 The canonical Hartree-Fock (HF) orbitals are not the most compact representation for post HF method. Alternative, using natural orbitals is an efficient way to reduce the orbital space while retaining accuracy. We therefore implemented the MP2 frozen natural orbital (FNO) method [1] in the Exacorr code [2], with the particularity that our implementation can generate both complex and quaternion FNOs, and also express these in AO basis. It also allows us to obtain CCSD natural orbitals on AO basis, which can be subsequently used in analysis.
 We have investigated the orbital truncation errors for both correlation energy (at CCSD(T) level) and molecular properties (at CCSD level) such as the electric field gradients at the nuclei (EFGs ), dipole and quadrupole moments for hydrogen halides HX (X=F, Cl, Br, I, At, Ts), and parity violation energy shift for the H2X2 systems (X= O, S, Se, Te, Po). We find that using FNOs accelerates the convergence of the correlation energy in a roughly uniform manner across the periodic table and that, with VMO spaces truncated to around half of the complete ones, we obtain reliable estimates for both energies and molecular properties in the complete VMO spaces.
 
