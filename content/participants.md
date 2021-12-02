@@ -19,7 +19,7 @@ If you would like to register, please send an email with your full name and affi
 1. Elisa Rebolini (Institut Laue Langevin, Grenoble) <!-- rebolini@ill.fr -->
 1. Paola Gori-Giorgi (Vrije Universiteit, Amsterdam) <!-- paolagorigiorgi@gmail.com -->
 1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr -->
-1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
+1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@outlook.fr -->
 1. Michele Casula (IMPMC, Paris) <!-- michele.casula@gmail.com -->
 1. Valerie Vallet (PhLAM, Lille) <!-- valerie.vallet@univ-lille.fr -->
 1. Roland Assaraf (LCT, Paris) <!-- assaraf@lct.jussieu.fr -->
@@ -83,7 +83,6 @@ If you would like to register, please send an email with your full name and affi
 
 1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
-1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@outlook.fr -->
 1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Yannick Carissan (iSm2, Marseille) <!-- yannick.carissan@univ-amu.fr -->
