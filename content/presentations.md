@@ -244,10 +244,10 @@ energies.
 
 The adiabatic connection (AC) that has as weak-interaction expansion the Møller-Plesset (MP) perturbation series has been recently shown to have a large coupling-strength expansion in terms of functionals of the Hartree-Fock density [1,2]. Based on these findings, in this work [3] we introduce a new class of functionals that approximate directly the MP AC by interpolating between MP2 and the large-coupling strength limit, which is size consistent for fragments with a non-degenerate ground state [4]. These functionals have the same cost as double hybrids and greatly reduce the large MP2 errors for typical pi-stacking complexes (e.g., benzene-pyridine dimers) and for the L7 dataset. Furthermore, they are also competitive with state-of-the-art dispersion enhanced functionals and can even significantly outperform them for a variety of datasets, such as CT7, DI6 and L7.
 
-[1]M. Seidl, S. Giarrusso, S. Vuckovic, E. Fabiano, P. Gori-Giorgi, J. Chem. Phys., 149, 241101 (2018)
-[2]T. Daas, J. Grossi, S. Vuckovic, Z. Musslimani, D. Kooi, M. Seidl, K. Giesbertz, P. Gori-Giorgi, J. Chem. Phys., 153, 214112 (2020)
-[3]T. Daas, E. Fabiano, F. Della Sala, P. Gori-Giorgi, S. Vuckovic, J. Phys. Chem. Lett., 12, 4867-4875 (2021)
-[4]S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett., 9, 3137-3142 (2018)
+[1] M. Seidl, S. Giarrusso, S. Vuckovic, E. Fabiano, P. Gori-Giorgi, J. Chem. Phys., 149, 241101 (2018)
+[2] T. Daas, J. Grossi, S. Vuckovic, Z. Musslimani, D. Kooi, M. Seidl, K. Giesbertz, P. Gori-Giorgi, J. Chem. Phys., 153, 214112 (2020)
+[3] T. Daas, E. Fabiano, F. Della Sala, P. Gori-Giorgi, S. Vuckovic, J. Phys. Chem. Lett., 12, 4867-4875 (2021)
+[4] S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett., 9, 3137-3142 (2018)
 
 ### Diata Traore (LCT, Paris)
 
