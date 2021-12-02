@@ -59,7 +59,7 @@ In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, an
   "headline": "Presentations",
   "description" : "Keynote speakers David Gontier (CEREMADE, Paris) DFT for two-dimensional homogeneous slabs\nIn this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab.",
   "inLanguage" : "en",
-  "wordCount":  8244 ,
+  "wordCount":  8647 ,
   "datePublished" : "0001-01-01T00:00:00",
   "dateModified" : "0001-01-01T00:00:00",
   "image" : "https:\/\/lcpq.github.io\/gdr_nbody_2021\/img\/CNRS.png",
@@ -533,6 +533,20 @@ challenging systems, including elongated supercells, surfaces and
 transition-metal alloys. This includes cases where we deliberately
 select algorithmic parameters in a suboptimal way demonstrating our
 adaptive damping approach to overall increase SCF robustness.</p>
+<h3 id="clotilde-marut-lcpq-toulouse">Clotilde Marut (LCPQ, Toulouse)</h3>
+<p><strong>Ensemble DFT for charged and neutral excitations</strong></p>
+<p>Density-functional theory (DFT) and its time-dependent extension (TD-DFT) are known to possess deficiencies when it comes to computing charged and neutral excitations.
+Indeed, one would usually turn to TD-DFT to get accurate transition energies for low-lying excited states with a relatively moderate computational cost.
+However, within this formalism, double excitations are completely absent from the spectra of TD-DFT and the quality of the excitation energies highly depends on the choice of the exchange-correlation functional which is usually treated in the standard adiabatic approximation.
+In ensemble DFT (eDFT), it is possible to extract any excitation energies from a single calculation through a Gross-Oliveira-Kohn (GOK) ensemble with a similar computational cost and level of approximation for the exchange-correlation functional than in an usual pure-state DFT calculation [1]. There also exists a similar formalism from which one can extract charged excitations like ionization potentials, electron affinities or even fundamental gaps in a single eDFT calculation, the Perdew-Parr-Levy and Balduz (PPLB) ensemble formalism [2].
+In DFT it is known that the Kohn-Sham gap can be a very poor estimation of the fundamental gap of the physical system but, in an ensemble picture, it is possible to considerably improve this estimation through the well-known derivative discontinuity which can be directly connected to the weight-dependence of the xc-functional. While this improvement can be quite consequent for small finite systems, it is still problematic when it comes to large periodic systems like cristalline solids. Indeed, for such systems, extracting charged excitations will require to induce a same small variation of the number of electrons in every unit cell of the system which will inexorably lead to an infinitely large charge for the whole system.
+Very recently, a new grand canonical eDFT formalism has been developed, the N-centered formalism, which allows the extraction of charged excitation energies without changing the number of electrons [3].
+We will discuss and present those various eDFT formalisms through their applications to very simple systems [4,5].</p>
+<p>[1] F. Cernatic, B. Senjean, V. Robert, and E. Fromager, arXiv:2109.04943 (2021).
+[2] J.P. Perdew, R.G. Parr, M. Levy, J.L. Balduz Jr, Phys. Rev. Lett. 49(23), 1691 (1982).
+[3] B. Senjean and E. Fromager, Phys. Rev. A 98, 022513 (2018).
+[4] P. F. Loos, and E. Fromager, J. Chem. Phys. 152, 214101 (2020)
+[5] C. Marut, B. Senjean, E. Fromager, and P. F. Loos, Faraday Discuss. 224, 402 (2020).</p>
 <h3 id="robinson-outerovitch-ceadamdif-arpajon">Robinson Outerovitch (CEA/DAM/DIF, Arpajon)</h3>
 <p><strong>Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2</strong></p>
 <p>The standard method for solid state physics ab initio calculation is the Density Functional Theory (DFT). However, the most used functionals such as LDA or GGA fail to give a correct description of the density of states and structural parameters of strongly correlated systems. The DFT+U improves this description by explicitly applying electronic interaction inside specific orbitals.
