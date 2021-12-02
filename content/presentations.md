@@ -514,20 +514,16 @@ in practice. One needs to truncate the CI wavefunction according to some protoco
 remaining correlation energy, one can explicitly include correlations in the wavefunction or in the
 Hamiltonian.
 In the framework of the transcorrelated approach, the similarity-transformed Hamiltonian is given
-by eH
-\begin{equation}
-	H \Psi = E \Psi
-\end{equation}
-  J 􀀀1HJ where J is a correlation operator. Although eH
-is not Hermitian, it allows to
-e ectively incorporate dynamical correlation e ects, with relatively small one-electron basis sets.
-Formally, we can write the wavefunction as     J   where   =
-PNdet
-I=1 DI . The Schrdinger
+by $\tilde{\mathcal{H}} = \mathcal{J} \mathcal{H} \mathcal{J}$ where $\mathcal{J}$ is a correlation operator. Although
+$\tilde{\mathcal{H}}$ is not Hermitian, it allows to effectively incorporate dynamical correlation effects, with relatively small one-electron basis sets.
+Formally, we can write the wavefunction as $\Psi \equiv \mathcal{J} \Phi$ where $\Phi = \sum_{I=1}^{N_\text{det}} c_I D_I$ The Schroedinger 
 equation in this case is written as
+\begin{equation}
+	\mathcal{H} \Psi = E \Psi \Leftrightarrow \tilde{\mathcal{H}} \Phi = E \Phi
+\end{equation}
 In this work, we develop an iterative method to optimize large CI wavefunctions in the presence
-of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part   is
-modi ed at each iteration by a symmetric dressing of H with the dressing elements
+of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part is
+modified at each iteration by a symmetric dressing of $\tilde{\mathcal{H}}$ with the dressing elements $\langle D_I | \tilde{\mathcal{H}} - \mathcal{H} | \Phi \rangle$
 Moreover, the non-hermeticity of the transcorrelated Hamiltonian is dressed by applying a symmetric
 dressing of the Hamiltonian. The dressing elements, which contain two- and three-electrons integrals,
 are sampled in a Variational Monte Carlo (VMC) calculation.
