@@ -26,6 +26,8 @@ Dupuy) and numerical methods to compute these properties efficiently
 (with I. Duchemin, L. Genovese, E. Letournel and S. Ruget), with example
 applications in condensed matter physics and chemistry.
 
+***
+
 ### Xavier Blase (Institut Neel, Grenoble)
 
 **Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths**
