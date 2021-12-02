@@ -14,17 +14,17 @@ draft: false
 | 13:45 - 14:15 | Kick-off                 | 
 |               |                          |
 | **SESSION 1**     | Chair: PF Loos           |
-| 14:00 - 14:40 | K1: Paola Gori-Giorgi - TBA |
-| 14:40 - 15:05 | C11: Gabriele Riva - Photoemission spectroscopy from the three-body Green's function |
-| 15:05 - 15:30 | C12: Gaspard Kemlin - Practical error bounds for electronic structure calculations: energy, density matrices and forces     |
+| 14:00 - 14:40 | Paola Gori-Giorgi - TBA |
+| 14:40 - 15:05 | Gabriele Riva - Photoemission spectroscopy from the three-body Green's function |
+| 15:05 - 15:30 | Gaspard Kemlin - Practical error bounds for electronic structure calculations: energy, density matrices and forces     |
 |               |                          |
 | 15:30 - 16:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 2**     | Chair: Thomas Duguet     |
-| 16:00 - 16:40 | K2: Vittorio Soma - Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory |
-| 16:40 - 16:05 | C21: Derk Kooi - London dispersion forces without density distortion: The Fixed Diagonal Matrices method     |
-| 16:05 - 17:30 | C22: Guillaume Thiam - Multi-basis-set TDDFT methods for predicting electron attachment energies     |
-| 17:30 - 17:55 | C23: Thierry Deutsch - New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity n⁴ |
+| 16:00 - 16:40 | Vittorio Soma - Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory |
+| 16:40 - 16:05 | Derk Kooi - London dispersion forces without density distortion: The Fixed Diagonal Matrices method     |
+| 16:05 - 17:30 | Guillaume Thiam - Multi-basis-set TDDFT methods for predicting electron attachment energies     |
+| 17:30 - 17:55 | Thierry Deutsch - New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity n⁴ |
 |               |                          |
 
 # Tuesday, January 11, 2021
@@ -33,31 +33,31 @@ draft: false
 | ------------- | -------------------------|
 |               |                          |
 | **SESSION 3**     | Chair: Michel Caffarel   |
-|  9:00 -  9:40 | K3: Roland Assaraf - TBA |
-|  9:40 - 10:05 | C31: Miguel Escobar Azor - Wigner localization in two and three dimensions: an ab initio approach     |
-| 10:05 - 10:30 | C32: Wilken Misael - Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory     |
+|  9:00 -  9:40 | Roland Assaraf - TBA |
+|  9:40 - 10:05 | Miguel Escobar Azor - Wigner localization in two and three dimensions: an ab initio approach     |
+| 10:05 - 10:30 | Wilken Misael - Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory     |
 |               |                          |
 | 10:30 - 11:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 4**     | Chair: Eric Cances       |
-| 11:00 - 11:40 | K4: David Gontier - DFT for two-dimensional homogeneous slabs |
-| 11:40 - 12:05 | C41: Mauricio Rodriguez-Mayorga - Introducing Relativistic Reduced Density Matrix Functional Theory |
-| 12:05 - 12:30 | C42: Pepijn Demol - Bogoliubov coupled cluster theory for open-shell nuclei |
+| 11:00 - 11:40 | David Gontier - DFT for two-dimensional homogeneous slabs |
+| 11:40 - 12:05 | Mauricio Rodriguez-Mayorga - Introducing Relativistic Reduced Density Matrix Functional Theory |
+| 12:05 - 12:30 | Pepijn Demol - Bogoliubov coupled cluster theory for open-shell nuclei |
 |               |                          |
 | 12:30 - 14:00 | Lunch                    |
 |               |                          |
 | **SESSION 5**     | Chair: Paola Nava        |
-| 14:00 - 14:40 | K5: Elisa Rebolini - Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE |
-| 14:40 - 15:05 | C51: Benoit Braida - Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide     |
-| 15:05 - 15:30 | C52: David Lauvergnat - Quantum Dynamics with a Smolyak scheme: numerical developments and applications    |
+| 14:00 - 14:40 | Elisa Rebolini - Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE |
+| 14:40 - 15:05 | Benoit Braida - Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide     |
+| 15:05 - 15:30 | David Lauvergnat - Quantum Dynamics with a Smolyak scheme: numerical developments and applications    |
 |               |                          |
 | 15:30 - 16:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 6**     | Chair: Pina Romaniello   |
-| 16:00 - 16:40 | K6: Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
-| 16:40 - 17:05 | C61: Antoine Bienvenu - Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems     |
-| 17:05 - 17:30 | C62: Xiang Yuan - Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculation |
-| 17:30 - 17:55 | C63: Clotilde Marut - Ensemble density-functional theory |
+| 16:00 - 16:40 | Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
+| 16:40 - 17:05 | Antoine Bienvenu - Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems     |
+| 17:05 - 17:30 | Xiang Yuan - Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculation |
+| 17:30 - 17:55 | Clotilde Marut - Ensemble density-functional theory |
 |               |                          | 
 | 18:00 - 19:00 | Meeting Bureau GDR       |
 |               |                          | 
@@ -68,30 +68,30 @@ draft: false
 | ------------- | -------------------------|
 |               |                          |
 | **SESSION 7**     | Chair: Emmanuel Fromager |
-|  9:00 -  9:40 | K7: Valerie Vallet - TBA |
-|  9:40 - 10:05 | C71: Fabris Kossoski - Exploiting the seniority number in calculations of molecular excited states     |
-| 10:05 - 10:30 | C72: Timothy Daas  - Noncovalent interactions from models for the Møller-Plesset adiabatic connection     |
+|  9:00 -  9:40 | Valerie Vallet - TBA |
+|  9:40 - 10:05 | Fabris Kossoski - Exploiting the seniority number in calculations of molecular excited states     |
+| 10:05 - 10:30 | Timothy Daas  - Noncovalent interactions from models for the Møller-Plesset adiabatic connection     |
 |               |                          |
 | 10:30 - 11:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 8**     | Chair: Emmanuel Giner    |
-| 11:00 - 11:40 | K8: Antoine Levitt - Numerical methods for scattering and resonance properties in molecules and solids |
-| 11:40 - 12:05 | C81: Jonas Feldt - Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers     |
-| 12:05 - 12:30 | C82: Leo Chaussy - Benchmark on cobalt systems relevant for reactivity     |
+| 11:00 - 11:40 | Antoine Levitt - Numerical methods for scattering and resonance properties in molecules and solids |
+| 11:40 - 12:05 | Jonas Feldt - Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers     |
+| 12:05 - 12:30 | Leo Chaussy - Benchmark on cobalt systems relevant for reactivity     |
 |               |                          |
 | 12:30 - 14:00 | Lunch                    |
 |               |                          |
 | **SESSION 9**     | Chair: Andre Gomes       |
-| 14:00 - 14:40 | K9: Xavier Blase - Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths 
-| 14:40 - 15:05 | C91: Diata Traore - Density-based basis set correction method for molecular properties     |
-| 15:05 - 15:30 | C92: Leo Gaspard - Timescale of local moment screening across and above the Mott transition     |
+| 14:00 - 14:40 | Xavier Blase - Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths 
+| 14:40 - 15:05 | Diata Traore - Density-based basis set correction method for molecular properties     |
+| 15:05 - 15:30 | Leo Gaspard - Timescale of local moment screening across and above the Mott transition     |
 |               |                          |
 | 15:30 - 16:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 10**    | Chair: Anthony Scemama   |
-| 16:00 - 16:40 | K10: Michele Casula - TBA |
-| 16:40 - 17:05 | C101: Louis Garrigue - The inverse problem of Density Functional Theory    |
-| 17:05 - 17:30 | C102: Robinson Outerovitch - Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2    |
+| 16:00 - 16:40 | Michele Casula - TBA |
+| 16:40 - 17:05 | Louis Garrigue - The inverse problem of Density Functional Theory    |
+| 17:05 - 17:30 | Robinson Outerovitch - Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2    |
 //]: # (| 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | )
 |               |                          |
 | 19:30 - 23:30 | Social dinner            |
@@ -103,16 +103,16 @@ draft: false
 | ------------- | -------------------------|
 |               |                          |
 | **SESSION 11**    | Chair: Ugo Ancarani      |
-|  9:00 -  9:40 | K11: Nathalie Pillet - TBA |
-|  9:40 - 10:05 | C111: Abdallah Ammar - Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo    |
-| 10:05 - 10:30 | C112: Tan Nguyen - Many-body perturbative calculations for multi-excitons in perovskite nanocrystals  |
+|  9:00 -  9:40 | Nathalie Pillet - TBA |
+|  9:40 - 10:05 | Abdallah Ammar - Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo    |
+| 10:05 - 10:30 | Tan Nguyen - Many-body perturbative calculations for multi-excitons in perovskite nanocrystals  |
 |               |                          |
 | 10:30 - 11:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 12**    | Chair: Julien Toulouse   |
-| 11:00 - 11:40 | K12: Arjan Berger - TBA  |
-| 11:40 - 12:05 | C121: Saad Yalouz - Describing conical intersections with near term quantum computers    |
-| 12:05 - 12:30 | C122: Michael Herbst - A robust and efficient line search for self-consistent field    |
+| 11:00 - 11:40 | Arjan Berger - TBA  |
+| 11:40 - 12:05 | Saad Yalouz - Describing conical intersections with near term quantum computers    |
+| 12:05 - 12:30 | Michael Herbst - A robust and efficient line search for self-consistent field    |
 |               |                          |
 | 12:30 - 12:45 | Closing remarks          |
 |               |                          |
