@@ -55,7 +55,7 @@ If you would like to register, please send an email with your full name and affi
 1. Diata Traore (LCT, Paris) <!-- diata.traore@sorbonne-universite.fr -->
 1. Robinson Outerovitch (CEA/DAM/DIF, Arpajon)  <!-- robinson.outerovitch@cea.fr -->
 1. Tarik Benyahia (Vrije Universiteit, Amsterdam) <!-- tarik.benyahia@ens-paris-saclay.fr -->
-1. Trond Saue (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
+1. Trond Saue (LCPQ, Toulouse) <!-- trond.saue@irsamc.ups-tlse.fr -->
 1. Gregoire David (Nottingham, UK) <!-- g.david@nottingham.ac.uk -->
 1. Nicolas Cartier (Vrije Universiteit, Amsterdam) <!-- cartier.nicolas.g@gmail.com -->
 1. Jean-Paul Malrieu (LCPQ, Toulouse) <!-- malrieu@irsamc.ups-tlse.fr -->
@@ -68,7 +68,6 @@ If you would like to register, please send an email with your full name and affi
 1. Leo Chaussy (iSm2, Marseille) <!-- leo.chaussy@univ-amu.fr -->
 1. Franck Rabilloud (iLM, Lyon) <!-- franck.rabilloud@univ-lyon1.fr -->
 1. Guillaume Thiam (iLM, Lyon) <!-- guillaume.thiam@univ-lyon1.fr -->
-1. Fabris Kossoski (LCPQ, Toulouse) <!-- fkossoski@irsamc.ups-tlse.fr -->
 1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
 1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr -->
@@ -78,10 +77,10 @@ If you would like to register, please send an email with your full name and affi
 1. Paul Cazeaux (Kansas U, US) <!-- pcazeaux@ku.edu -->
 1. Miguel Escobar Azor (LCPQ, Toulouse) <!-- mescobar@irsamc.ups-tlse.fr -->
 1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
+1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 
 # Waiting list
 
-1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
 1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
