@@ -441,6 +441,9 @@ remaining correlation energy, one can explicitly include correlations in the wav
 Hamiltonian.
 In the framework of the transcorrelated approach, the similarity-transformed Hamiltonian is given
 by eH
+\begin{equation}
+	H \Psi = E \Psi
+\end{equation}
   J 􀀀1HJ where J is a correlation operator. Although eH
 is not Hermitian, it allows to
 e ectively incorporate dynamical correlation e ects, with relatively small one-electron basis sets.
