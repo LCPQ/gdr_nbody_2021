@@ -522,7 +522,7 @@ equation in this case is written as
 	\mathcal{H} \Psi = E \Psi \Leftrightarrow \tilde{\mathcal{H}} \Phi = E \Phi
 \end{equation}
 In this work, we develop an iterative method to optimize large CI wavefunctions in the presence
-of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part is
+of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part $\Phi$ is
 modified at each iteration by a symmetric dressing of $\tilde{\mathcal{H}}$ with the dressing elements $\langle D_I | \tilde{\mathcal{H}} - \mathcal{H} | \Phi \rangle$
 Moreover, the non-hermeticity of the transcorrelated Hamiltonian is dressed by applying a symmetric
 dressing of the Hamiltonian. The dressing elements, which contain two- and three-electrons integrals,
