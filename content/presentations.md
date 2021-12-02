@@ -238,11 +238,11 @@ With the Smolyak scheme,[1] the exponential scaling is avoided for both basis se
 $$ | \Psi \rangle  = \sum_{\mathbf{\ell}} D_{\mathbf{\ell}} | \Psi^{\mathbf{\ell}} \rangle $$
 In this sum, each term, $| \Psi^{\mathbf{\ell}} \rangle$, parametrized by $\mathbf{\ell}$ ($\mathbf{\ell} = [\ell_1,\ell_2,\ldots,\ell_n])$, is expanded on a small
 direct-product (basis set and/or grid). The number of terms in the sum is constrained
-through a relation on $|\ell|$ ($|\ell| = \sum_{i=1}^{n})) such as: $|\ell|$ \le L$ (other constraints are possible), 
+through a relation on $|\ell|$ ($|\ell| = \sum_{i=1}^{n})$) such as: $|\ell|$ \le L$ (other constraints are possible), 
 hence, this limits the overall grid and basis set sizes. The scaling as function of $n$ becomes polynomials of degree $L$.
 
 
-In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneers in developing efficient implementations to study the vibrational energy levels of molecules [6- 9] or reactive collisions. [9] Here, we will show that it is possible to apply this Smolyak scheme to large molecule (n>20) and also to extend it to wave packet propagation. Furthermore, with a system/bath separation, one can deal with about 100 degrees of freedom.
+In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneers in developing efficient implementations to study the vibrational energy levels of molecules [6- 9] or reactive collisions. [9] Here, we will show that it is possible to apply this Smolyak scheme to large molecule ($n>20$) and also to extend it to wave packet propagation. Furthermore, with a system/bath separation, one can deal with about 100 degrees of freedom.
 
 [1] S. A. Smolyak Soviet Mathematics Doklady, 4 (1963) 240
 [2] G. Avila and T. Carrington, J. Chem. Phys., 131 (2009) 174103
@@ -479,15 +479,15 @@ Motivated by this problem, we recently introduced a new quantum algorithm [1] ca
 
 ### Thierry Deutsch (CEA, Grenoble)
 
-**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity n^4**
+**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^4$**
 
-In this talk, I intend to show a new formalism that solves the famous many-body problem of quantum mechanics with a complexity varying as a function of n⁴ where n is the number of states. There was already an object, the reduced two-body density matrix (2-RDM) that had this complexity but for it to be a quantum state with N electrons, a gigantic number of conditions must be taken into account.
+In this talk, I intend to show a new formalism that solves the famous many-body problem of quantum mechanics with a complexity varying as a function of $n^4$ where $n$ is the number of states. There was already an object, the reduced two-body density matrix (2-RDM) that had this complexity but for it to be a quantum state with $N$ electrons, a gigantic number of conditions must be taken into account.
 This formalism should considerably reduce the computation time avoiding the exponential complexity of the current exact methods.
 
 Based on anti-commutativity relations, we show that we can construct a class of mathematical objects that are isomorphic to many-body wavefunctions but have the advantage of being compactable. Thanks to this new formalism, we show that the 2-RDM of the wavefunctions solutions of a two-body interaction Hamiltonian can be represented exactly thanks to this new set of mathematical objects. We will give also a new geometric interpretation of the 2-RDM in the space of these new mathematical objects.
 We will develop the Lagrangian, the corresponding Euler-Lagrange equations and illustrate with numerical examples.
 
-[1] Exact solution of the many-body problem with a O(n6) complexity, arXiv:2111.15281 [quant-ph]
+[1] Exact solution of the many-body problem with a O(n6) complexity, T. Deutsch, arXiv:2111.15281 [quant-ph]
 
 
 ### Xiang Yuan (PhLAM, Lille) 
