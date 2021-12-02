@@ -42,8 +42,8 @@ Map Display larger map </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gdrnbody@lct.jussieu.fr</author>
       <guid>https://lcpq.github.io/gdr_nbody_2021/presentations/</guid>
-      <description>Keynote speakers Contributed talks Derk Kooi (Vrije Universiteit, Amsterdam) Title: London dispersion forces without density distortion: The Fixed Diagonal Matrices method London dispersion forces without density distortion: The Fixed Diagonal Matrices method
-Abstract The development of Density Functional Theory (DFT) has allowed for the routine use of calculations to support and explain experimental findings in chemistry at a reasonable computational cost. DFT, however, is not without its limitations. In particular there are two phenomena that remain its Achilles heel, strong correlation and London dispersion interactions.</description>
+      <description>Keynote speakers David Gontier (CEREMADE, Paris) DFT for two-dimensional homogeneous slabs
+In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab.</description>
     </item>
     
     <item>
