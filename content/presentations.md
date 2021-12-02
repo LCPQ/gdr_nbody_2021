@@ -516,7 +516,7 @@ Hamiltonian.
 In the framework of the transcorrelated approach, the similarity-transformed Hamiltonian is given
 by $\tilde{\mathcal{H}} = \mathcal{J}^{-1} \mathcal{H} \mathcal{J}$ where $\mathcal{J}$ is a correlation operator. Although
 $\tilde{\mathcal{H}}$ is not Hermitian, it allows to effectively incorporate dynamical correlation effects, with relatively small one-electron basis sets.
-Formally, we can write the wavefunction as $\Psi \equiv \mathcal{J} \Phi$ where $\Phi = \sum_{I=1}^{N_\text{det}} c_I D_I$ The Schroedinger 
+Formally, we can write the wavefunction as $\Psi \equiv \mathcal{J} \Phi$ where $\Phi = \sum_{I=1}^{N_\text{det}} c_I D_I$. The Schroedinger 
 equation in this case is written as
 \begin{equation}
 	\mathcal{H} \Psi = E \Psi \Leftrightarrow \tilde{\mathcal{H}} \Phi = E \Phi
