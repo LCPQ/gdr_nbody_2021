@@ -31,7 +31,7 @@ The official language of the meeting is **English** and it is an **in-person mee
 * Elisa Rebolini (Institut Laue Langevin, Grenoble)
 * Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
 * David Gontier (CEREMADE, University of Paris-Dauphine)
-* Cyril Martins (LCPQ, Universite Paul Sabatier)
+* Arjan Berger (LCPQ, Universite Paul Sabatier)
 * Michele Casula (IMPMC, Sorbonne Universite)
 * Valerie Vallet (PhLAM, Universite de Lilles)
 * Roland Assaraf (LCT, Sorbonne Universite)
