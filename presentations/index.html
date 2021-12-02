@@ -59,7 +59,7 @@ In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, an
   "headline": "Presentations",
   "description" : "Keynote speakers David Gontier (CEREMADE, Paris) DFT for two-dimensional homogeneous slabs\nIn this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab.",
   "inLanguage" : "en",
-  "wordCount":  8763 ,
+  "wordCount":  8780 ,
   "datePublished" : "0001-01-01T00:00:00",
   "dateModified" : "0001-01-01T00:00:00",
   "image" : "https:\/\/lcpq.github.io\/gdr_nbody_2021\/img\/CNRS.png",
@@ -616,20 +616,16 @@ in practice. One needs to truncate the CI wavefunction according to some protoco
 remaining correlation energy, one can explicitly include correlations in the wavefunction or in the
 Hamiltonian.
 In the framework of the transcorrelated approach, the similarity-transformed Hamiltonian is given
-by eH
-\begin{equation}
-H \Psi = E \Psi
-\end{equation}
-  J 􀀀1HJ where J is a correlation operator. Although eH
-is not Hermitian, it allows to
-e ectively incorporate dynamical correlation e ects, with relatively small one-electron basis sets.
-Formally, we can write the wavefunction as     J   where   =
-PNdet
-I=1 DI . The Schrdinger
+by $\tilde{\mathcal{H}} = \mathcal{J} \mathcal{H} \mathcal{J}$ where $\mathcal{J}$ is a correlation operator. Although
+$\tilde{\mathcal{H}}$ is not Hermitian, it allows to effectively incorporate dynamical correlation effects, with relatively small one-electron basis sets.
+Formally, we can write the wavefunction as $\Psi \equiv \mathcal{J} \Phi$ where $\Phi = \sum_{I=1}^{N_\text{det}} c_I D_I$ The Schroedinger
 equation in this case is written as
+\begin{equation}
+\mathcal{H} \Psi = E \Psi \Leftrightarrow \tilde{\mathcal{H}} \Phi = E \Phi
+\end{equation}
 In this work, we develop an iterative method to optimize large CI wavefunctions in the presence
-of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part   is
-modi ed at each iteration by a symmetric dressing of H with the dressing elements
+of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part is
+modified at each iteration by a symmetric dressing of $\tilde{\mathcal{H}}$ with the dressing elements $\langle D_I | \tilde{\mathcal{H}} - \mathcal{H} | \Phi \rangle$
 Moreover, the non-hermeticity of the transcorrelated Hamiltonian is dressed by applying a symmetric
 dressing of the Hamiltonian. The dressing elements, which contain two- and three-electrons integrals,
 are sampled in a Variational Monte Carlo (VMC) calculation.</p>
