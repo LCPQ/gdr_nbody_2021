@@ -36,11 +36,11 @@ applications in condensed matter physics and chemistry.
 
 Among a large spectrum of methods targeting the calculation of electronic energy levels, as given e.g. by photoemission experiments, the many-body Green's function GW formalism [1], originally developed in condensed matter physics for a better description of the band structure of inorganic semiconductors and insulators, has recently gained much visibility in quantum chemistry for its ability to offer an excellent accuracy to cost ratio, allowing the study of systems comprising a few hundred atoms. Very early in the history of GW, the so-called "space-time" approach [2] was proposed for cubic-scaling GW calculations, but such an approach was hardly ever used. We will present an effective reformulation of this technique in the quantum chemistry framework of all electron-calculations with atomic orbitals basis sets, using the Laplace transform approach, a novel analytic continuation technique adapted to the GW problem [3], and a real-space-grid separable-resolution-of-the-identity formalism that walks in the footstep of previous real-space grid techniques for Coulomb integrals calculations (chain-of-sphere, tensor-hyper-contraction, etc.) [4,5] We show that cubic scaling RPA and GW calculations on up to a thousand atoms can be achieved within a few thousand hours with hardly any loss of accuracy, offering a crossover with traditional calculations taking place at small system sizes.
 
-[1] Lars Hedin, Phys. Rev. 139, A796 (1965).
-[2]  H. N. Rojas, R. W. Godby, and R. J. Needs Phys. Rev. Lett. 74, 1827 (1995)
-[3] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2020, 16,   1742.
-[4] Ivan Duchemin  and Xavier Blase, J. Chem. Phys. 150, 174120 (2019)
-[5] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2021, 17,   2383.
+[1] Lars Hedin, Phys. Rev. 139, A796 (1965).  
+[2]  H. N. Rojas, R. W. Godby, and R. J. Needs Phys. Rev. Lett. 74, 1827 (1995).  
+[3] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2020, 16, 1742.  
+[4] Ivan Duchemin  and Xavier Blase, J. Chem. Phys. 150, 174120 (2019).  
+[5] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2021, 17, 2383.  
 
 ***
 
@@ -51,9 +51,9 @@ Among a large spectrum of methods targeting the calculation of electronic energy
 Recent developments in many-body theory and in the modelling of nuclear Hamiltonians have enabled the ab initio description of a considerable fraction of atomic nuclei up to mass A~100. In this context, one of the main challenges consists in devising a method that can tackle doubly open-shell systems and at the same time scales gently with mass number. This would allow both to access all systems below A~100 and to open up perspectives for extending ab initio calculations to the whole nuclear chart.
 Here I present a recently proposed many-body approach that aims towards this objective. After introducing the formalism based on a multi-reference perturbation theory [1], I will discuss the first numerical applications [2,3] together with considerations on the state of the art and future perspective in ab initio nuclear structure.
 
-[1] M. Frosini et al., arXiv:2110.15737
-[2] M. Frosini et al., arXiv:2111.00797
-[3] M. Frosini et al., arXiv:2111.01461
+[1] M. Frosini et al., arXiv:2110.15737  
+[2] M. Frosini et al., arXiv:2111.00797  
+[3] M. Frosini et al., arXiv:2111.01461  
 
 ***
 
@@ -64,9 +64,9 @@ Here I present a recently proposed many-body approach that aims towards this obj
 Strongly-correlated systems present the peculiar characteristic that their low- energy physical and chemical properties are not driven by the kinetic energy of their Fermi-level electrons. In these systems, the electron-electron correlation, sub-dominant or even negligible in most systems, is much larger than the kinetic energy. As a consequence, they cannot be properly described by a single Slater determinant and such methods usually give poor results for the ground state as well as the low-lying magnetic states.
 Accurate calculation of this kind of excitation requires specifically-designed methods. The CAS+DDCI (Complete Active Space + Difference Dedicated Con- figurations Interaction) [1] method has been proved successful for systems with a small number of magnetic orbitals per atom. However it quickly reaches a com- putational wall when the number of magnetic orbitals increases. The SAS+S (Selected Active Space + Single) [2] method which has been developed in our group a few years ago, is able to go beyond the CAS+DDCI limitations. After a brief introduction on the problem at stake, I will recall the principle of the SAS+S method and present the new RelaxSE [3] software which we developed in order to treat these excitations.
 
-[1] J. Miralles, J. P. Daudey and R. Caballol, Chem. Phys. Lett., 198, 555, (1992) ; V. M. Garc`ıa et al., Chem. Phys. Lett., 238, 222 (1995) ; Garcıa, V. M., Reguero, M. and Caballol, R., Theor. Chem. Acc., 98, 50, (1997).
-[2] A. Gelle, J. Varignon and M.-B. Lepetit, EPL, 88, 37003 (2009).
-[3] E. Rebolini and M.-B. Lepetit, J. Chem. Phys., 154, 164116 (2021).
+[1] J. Miralles, J. P. Daudey and R. Caballol, Chem. Phys. Lett., 198, 555, (1992) ; V. M. Garc`ıa et al., Chem. Phys. Lett., 238, 222 (1995) ; Garcıa, V. M., Reguero, M. and Caballol, R., Theor. Chem. Acc., 98, 50, (1997).  
+[2] A. Gelle, J. Varignon and M.-B. Lepetit, EPL, 88, 37003 (2009).  
+[3] E. Rebolini and M.-B. Lepetit, J. Chem. Phys., 154, 164116 (2021).  
 
 ***
 
@@ -86,12 +86,12 @@ spectroscopies (like electron and photon scattering [3-5]), ii) unconventional p
 evolution). In this seminar I will illustrate the achievements and problems 
 of the BSE in tackling these new spectroscopies and tools.
 
-[1] Rev. Mod. Phys. 74, 601 (2002)
-[2] Phys. Rev. B 95, 155121 (2017)
-[3] Phys. Rev. B 92, 165122 (2015)
-[4] Phys. Rev. Research 2, 042003 (2020)
-[5] Phys. Rev. Research 1, 032010 (2019)
-[6] Electronic Structure 3, 014005 (2021)
+[1] Rev. Mod. Phys. 74, 601 (2002)  
+[2] Phys. Rev. B 95, 155121 (2017)  
+[3] Phys. Rev. B 92, 165122 (2015)  
+[4] Phys. Rev. Research 2, 042003 (2020)  
+[5] Phys. Rev. Research 1, 032010 (2019)  
+[6] Electronic Structure 3, 014005 (2021)  
 
 ***
 
