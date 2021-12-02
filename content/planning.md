@@ -92,7 +92,7 @@ draft: false
 | 16:00 - 16:40 | Michele Casula - TBA |
 | 16:40 - 17:05 | Louis Garrigue - The inverse problem of Density Functional Theory    |
 | 17:05 - 17:30 | Robinson Outerovitch - Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2    |
-//]: # (| 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | )
+[//]: # (| 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | )
 |               |                          |
 | 19:30 - 23:30 | Social dinner            |
 |               |                          |
