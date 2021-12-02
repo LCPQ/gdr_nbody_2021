@@ -573,5 +573,6 @@ The canonical Hartree-Fock (HF) orbitals are not the most compact representation
 We have investigated the orbital truncation errors for both correlation energy (at CCSD(T) level) and molecular properties (at CCSD level) such as the electric field gradients at the nuclei (EFGs ), dipole and quadrupole moments for hydrogen halides HX (X=F, Cl, Br, I, At, Ts), and parity violation energy shift for the H2X2 systems (X= O, S, Se, Te, Po). We find that using FNOs accelerates the convergence of the correlation energy in a roughly uniform manner across the periodic table and that, with VMO spaces truncated to around half of the complete ones, we obtain reliable estimates for both energies and molecular properties in the complete VMO spaces.
 
 [1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101
+
 [2] J. V. Pototschnig, A. Papadopoulos, D. I. Lyakh, M. Repisky, L. Halbert, A. S. P. Gomes, H- J Aa. Jensen, L. Visscher, J. Chem. Theory. Comput. 2021, 17, 5509
 
