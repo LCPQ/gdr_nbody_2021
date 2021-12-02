@@ -91,7 +91,7 @@ draft: false
 | 15:30 - 16:00 | Coffee break + poster session |
 |               |                          | 
 | **SESSION 10**    | Chair: Anthony Scemama   |
-| 16:00 - 16:40 | Michele Casula - TBA |
+| 16:00 - 16:40 | Michele Casula - Phase diagram of high-pressure hydrogen including nuclear quantum effects |
 | 16:40 - 17:05 | Louis Garrigue - The inverse problem of Density Functional Theory    |
 | 17:05 - 17:30 | Robinson Outerovitch - Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2    |
 | 17:30 - 17:55 | Clotilde Marut - Ensemble density-functional theory |
