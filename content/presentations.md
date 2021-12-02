@@ -203,7 +203,7 @@ We also explored different chemical descriptors (the Donor-Acceptor and Aromatic
 
 ***
 
-### Mauricio Rodríguez-Mayorga (VU University, Amsterdam)
+### Mauricio Rodríguez-Mayorga (Vrije Universiteit, Amsterdam)
 
 **Introducing Relativistic Reduced Density Matrix Functional Theory**
 
