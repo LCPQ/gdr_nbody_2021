@@ -33,7 +33,7 @@ draft: false
 | ------------- | -------------------------|
 |               |                          |
 | SESSION 3     | Chair: Michel Caffarel   |
-|  9:00 -  9:40 | K3: Roland Assaraf       |
+|  9:00 -  9:40 | K3: Roland Assaraf - TBA |
 |  9:40 - 10:05 | C31: Miguel Escobar Azor - Wigner localization in two and three dimensions: an ab initio approach     |
 | 10:05 - 10:30 | C32: Wilken Misael - Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory     |
 |               |                          |
@@ -103,7 +103,7 @@ draft: false
 | ------------- | -------------------------|
 |               |                          |
 | SESSION 11    | Chair: Ugo Ancarani      |
-|  9:00 -  9:40 | K11: Nathalie Pillet     |
+|  9:00 -  9:40 | K11: Nathalie Pillet - TBA |
 |  9:40 - 10:05 | C111: Abdallah Ammar - Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo    |
 | 10:05 - 10:30 | C112: Tan Nguyen - Many-body perturbative calculations for multi-excitons in perovskite nanocrystals  |
 |               |                          |
