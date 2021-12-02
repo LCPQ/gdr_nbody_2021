@@ -8,7 +8,7 @@ draft: false
 # Monday, January 10, 2021
     
 | TIME          | EVENT                    |
-| ------------------------- | -------------------------|
+| ------------- | -------------------------|
 |               |                          |
 | 13:00 - 13:45 | Welcome                  |
 | 13:45 - 14:15 | Kick-off                 | 
@@ -57,12 +57,13 @@ draft: false
 | 16:00 - 16:40 | Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
 | 16:40 - 17:05 | Antoine Bienvenu - Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems     |
 | 17:05 - 17:30 | Xiang Yuan - Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculation |
-<!-- | 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | ) -->
 |               |                          | 
 | 17:30 - 18:30 | Meeting Bureau GDR       |
 |               |                          | 
 | 19:30 - 23:30 | Social dinner (35 people max) |
 |               |                          |
+
+<!-- | 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | ) -->
 
 # Wednesday, January 12, 2021
     
