@@ -34,13 +34,13 @@ Here I present a recently proposed many-body approach that aims towards this obj
 
 ### Elisa Rebolini (Institut Laue Langevin, Grenoble)
 
-**Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE**
+`Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE`
 
 Strongly-correlated systems present the peculiar characteristic that their low- energy physical and chemical properties are not driven by the kinetic energy of their Fermi-level electrons. In these systems, the electron-electron correlation, sub-dominant or even negligible in most systems, is much larger than the kinetic energy. As a consequence, they cannot be properly described by a single Slater determinant and such methods usually give poor results for the ground state as well as the low-lying magnetic states.
 Accurate calculation of this kind of excitation requires specifically-designed methods. The CAS+DDCI (Complete Active Space + Difference Dedicated Con- figurations Interaction) [1] method has been proved successful for systems with a small number of magnetic orbitals per atom. However it quickly reaches a com- putational wall when the number of magnetic orbitals increases. The SAS+S (Selected Active Space + Single) [2] method which has been developed in our group a few years ago, is able to go beyond the CAS+DDCI limitations. After a brief introduction on the problem at stake, I will recall the principle of the SAS+S method and present the new RelaxSE [3] software which we developed in order to treat these excitations.
 
-[1] J. Miralles, J. P. Daudey and R. Caballol, Chem. Phys. Lett., 198, 555, (1992) ; V. M. Garc`ıa et al., Chem. Phys. Lett., 238, 222 (1995) ; Garc`ıa, V. M., Reguero, M. and Caballol, R., Theor. Chem. Acc., 98, 50, (1997).
-[2] A. Gell ́e, J. Varignon and M.-B. Lepetit, EPL, 88, 37003 (2009).
+[1] J. Miralles, J. P. Daudey and R. Caballol, Chem. Phys. Lett., 198, 555, (1992) ; V. M. Garc`ıa et al., Chem. Phys. Lett., 238, 222 (1995) ; Garcıa, V. M., Reguero, M. and Caballol, R., Theor. Chem. Acc., 98, 50, (1997).
+[2] A. Gelle, J. Varignon and M.-B. Lepetit, EPL, 88, 37003 (2009).
 [3] E. Rebolini and M.-B. Lepetit, J. Chem. Phys., 154, 164116 (2021).
 
 ### Francesco Sottile (Laboratoire des Solides Irradies, Palaiseau)
