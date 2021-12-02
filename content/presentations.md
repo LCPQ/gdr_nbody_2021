@@ -471,7 +471,7 @@ We will discuss and present those various eDFT formalisms through their applicat
 
 ### Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
 
-**Calculation and effect of interaction parameters on oxygen p orbitals in oxides, examples of UO2 and TiO2**
+**Calculation and effect of interaction parameters on oxygen $p$ orbitals in oxides, examples of UO$_2$ and TiO$_2$**
 
 The standard method for solid state physics ab initio calculation is the Density Functional Theory (DFT). However, the most used functionals such as LDA or GGA fail to give a correct description of the density of states and structural parameters of strongly correlated systems. The DFT+U improves this description by explicitly applying electronic interaction inside specific orbitals.
 This method is extensively used in f and d orbitals of transition metals, lanthanides, actinides and their oxides compounds. However, the interaction effects occurring in the p orbitals of the oxide have been shown to play an important role in the density of states and structural parameters of some of those systems. [1, 2, 3]
