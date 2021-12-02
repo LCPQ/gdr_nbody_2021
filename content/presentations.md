@@ -572,7 +572,6 @@ The $O(N^6)$ high computational cost is a bottleneck preventing performing Coupl
 The canonical Hartree-Fock (HF) orbitals are not the most compact representation for post HF method. Alternative, using natural orbitals is an efficient way to reduce the orbital space while retaining accuracy. We therefore implemented the MP2 frozen natural orbital (FNO) method [1] in the Exacorr code [2], with the particularity that our implementation can generate both complex and quaternion FNOs, and also express these in AO basis. It also allows us to obtain CCSD natural orbitals on AO basis, which can be subsequently used in analysis.
 We have investigated the orbital truncation errors for both correlation energy (at CCSD(T) level) and molecular properties (at CCSD level) such as the electric field gradients at the nuclei (EFGs ), dipole and quadrupole moments for hydrogen halides HX (X=F, Cl, Br, I, At, Ts), and parity violation energy shift for the H2X2 systems (X= O, S, Se, Te, Po). We find that using FNOs accelerates the convergence of the correlation energy in a roughly uniform manner across the periodic table and that, with VMO spaces truncated to around half of the complete ones, we obtain reliable estimates for both energies and molecular properties in the complete VMO spaces.
 
-[1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101
-
+[1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101  
 [2] J. V. Pototschnig, A. Papadopoulos, D. I. Lyakh, M. Repisky, L. Halbert, A. S. P. Gomes, H- J Aa. Jensen, L. Visscher, J. Chem. Theory. Comput. 2021, 17, 5509
 
