@@ -37,6 +37,16 @@ Map Display larger map </description>
     </item>
     
     <item>
+      <title>Presentations</title>
+      <link>https://lcpq.github.io/gdr_nbody_2021/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gdrnbody@lct.jussieu.fr</author>
+      <guid>https://lcpq.github.io/gdr_nbody_2021/presentations/</guid>
+      <description>Keynote speakers Contributed talks Derk Kooi (Vrije Universiteit, Amsterdam) Title: London dispersion forces without density distortion: The Fixed Diagonal Matrices method London dispersion forces without density distortion: The Fixed Diagonal Matrices method
+Abstract The development of Density Functional Theory (DFT) has allowed for the routine use of calculations to support and explain experimental findings in chemistry at a reasonable computational cost. DFT, however, is not without its limitations. In particular there are two phenomena that remain its Achilles heel, strong correlation and London dispersion interactions.</description>
+    </item>
+    
+    <item>
       <title>Registration</title>
       <link>https://lcpq.github.io/gdr_nbody_2021/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,15 +62,6 @@ Map Display larger map </description>
       <author>gdrnbody@lct.jussieu.fr</author>
       <guid>https://lcpq.github.io/gdr_nbody_2021/sponsors/</guid>
       <description>          CNRS    LCPQ    FERMI    NEXT    NanoX    UPS        </description>
-    </item>
-    
-    <item>
-      <title>Submission</title>
-      <link>https://lcpq.github.io/gdr_nbody_2021/submission/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>gdrnbody@lct.jussieu.fr</author>
-      <guid>https://lcpq.github.io/gdr_nbody_2021/submission/</guid>
-      <description>New submission </description>
     </item>
     
   </channel>
