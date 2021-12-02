@@ -147,14 +147,14 @@ In our recent work[6-8] we have introduced a class of variational wavefunctions 
 
 In benchmarks our so called Fixed Diagonal Matrices (FDM) method performs satisfactorily for closed-shell atoms and molecules when used with accurate (CCSD) pair densities, producing a Mean Average Percentage Error (MAPE) and Max Absolute Error (AMAX) of 7.1% and 18.2% for isotropic dispersion coefficients C6, respectively.[8] The method performs as well for anisotropic dispersion coefficients and can in principle be incorporated self-consistently.[7] For open-shell atoms improvements must still be made, by improving the wavefunction and/or the dispersal basisset. 
 
-[1] D.C. Langreth, M. Dion, H. Rydberg, E. Schroder, P. Hyldgaard, and B.I. Lundqvist, Int. J. Quantum Chem. 2005, 101, 599
-[2] O.A. Vydrov and T. Van Voorhis, Phys. Rev. Lett. 2009, 103, 063004
-[3] T. Björkman, Phys. Rev. B. 2012, 86, 165109
-[4] L.A. Burns, A.V. Mayagoitia, B.G. Sumpter, and C.D. Sherrill, J. Chem. Phys. 2011, 134(8), 084107.
-[5] A.D. Becke, E.R. Johnson, J. Chem. Phys. 2007, 127, 154108.
-[6] D.P. Kooi, P. Gori-Giorgi, J. Phys. Chem. Lett. 2019, 10, 7, 1537-1541
-[7] D.P. Kooi, P. Gori-Giorgi, Faraday Discuss. 2020, 224, 145-165
-[8] D.P. Kooi, T. Weckman, P. Gori-Giorgi, J. Chem. Theo. Comput., 2021, 17, 4, 2283-2293
+[1] D.C. Langreth, M. Dion, H. Rydberg, E. Schroder, P. Hyldgaard, and B.I. Lundqvist, Int. J. Quantum Chem. 2005, 101, 599.  
+[2] O.A. Vydrov and T. Van Voorhis, Phys. Rev. Lett. 2009, 103, 063004.  
+[3] T. Björkman, Phys. Rev. B. 2012, 86, 165109.  
+[4] L.A. Burns, A.V. Mayagoitia, B.G. Sumpter, and C.D. Sherrill, J. Chem. Phys. 2011, 134(8), 084107.  
+[5] A.D. Becke, E.R. Johnson, J. Chem. Phys. 2007, 127, 154108.  
+[6] D.P. Kooi, P. Gori-Giorgi, J. Phys. Chem. Lett. 2019, 10, 7, 1537-1541.  
+[7] D.P. Kooi, P. Gori-Giorgi, Faraday Discuss. 2020, 224, 145-165.  
+[8] D.P. Kooi, T. Weckman, P. Gori-Giorgi, J. Chem. Theo. Comput., 2021, 17, 4, 2283-2293.  
 
 ***
 
@@ -172,8 +172,8 @@ We present an original approach for the calculation of direct and inverse photo-
 
 We investigate Wigner localization at very low densities by means of the exact diagonalization of the Hamiltonian. This yields numerically exact results. In particular, we study a system of two electrons in one, two and three dimensions. Our approach consists of three main principles: (i) the creation of a supercell that has the topology of a d-dimensional Clifford torus, which is a flat, finite, and borderless manifold; (ii) the renormalization of the distance between two points on the Clifford torus by defining it as the Euclidean distance in the embedding space of the d- Clifford torus; (iii) we use a grid of equidistant spherical gaussians as a basis for the Hamiltonian.[1] We have extended the approach to two and three dimensions by using the translational symmetry of the system to efficiently calculate the electronic wave function. We have validated our approach by comparing our results to a semi-classical model that becomes exact in the low-density limit. With our approach we are able to observe the Wigner localization by means of the two-body reduced density matrix without ambiguity.[2] We have recently generalised our approach to electron gases with more than 2 electrons and we have obtained promising preliminary results.
 
-[1] M. Escobar Azor, L. Brooke, S. Evangelisti, T. Leininger, P.-F. Loos, N. Suaud, and J. A. Berger, A wigner molecule at extremely low densities: a numerically exact study, SciPost Phys. Core 1, 001 (2019).
-[2] M. Escobar Azor, E. Alves, S. Evangelisti, and J. A. Berger, Wigner localization in two and three dimensions: An ab initio approach, The Journal of Chemical Physics 155, 124114 (2021).
+[1] M. Escobar Azor, L. Brooke, S. Evangelisti, T. Leininger, P.-F. Loos, N. Suaud, and J. A. Berger, A wigner molecule at extremely low densities: a numerically exact study, SciPost Phys. Core 1, 001 (2019).  
+[2] M. Escobar Azor, E. Alves, S. Evangelisti, and J. A. Berger, Wigner localization in two and three dimensions: An ab initio approach, The Journal of Chemical Physics 155, 124114 (2021).  
 
 ***
 
@@ -198,8 +198,8 @@ In order to compare the use of an conventional acceptor molecule, we have perfor
 To a better comprehension of the sulfur excited states involved in the electronic tran- sitions probed by the synchrotron-based-spectroscopic methods, theoretical calculations were performed utilizing Restricted-Excitation-Window Time-Dependent Density Functional Theory (REW-TD-DFT). In order to probe the extent of relativistic effects present in these transitions, we employed different Hamiltonians (ZORA, DKH, X2C) in our calculations.
 We also explored different chemical descriptors (the Donor-Acceptor and Aromatic- Quinoid approaches) to obtain information at valence level in both ground and low-lying excited states. All calculations were performed in NWChem 7.0, Gaussian16 and Amsterdam Density Functional (ADF).
 
-[1] Jianhui Hou et al. “Organic solar cells based on non-fullerene acceptors”. In: Nature materials 17.2 (2018), pp. 119–128.
-[2] Jingbo Zhao et al. “Efficient organic solar cells processed from hydrocarbon solvents”. In: Nature Energy 1.2 (2016), pp. 1–7.
+[1] Jianhui Hou et al. “Organic solar cells based on non-fullerene acceptors”. In: Nature materials 17.2 (2018), pp. 119–128.  
+[2] Jingbo Zhao et al. “Efficient organic solar cells processed from hydrocarbon solvents”. In: Nature Energy 1.2 (2016), pp. 1–7.  
 
 ***
 
@@ -211,15 +211,13 @@ The applicability of reduced density matrix functional theory (RDMFT) is increas
 To further extend RDMFT applicability, we introduce in this work its relativistic version. Relativistic RDMFT is presented using the Dirac 4-component Hamiltonian and including the effects of creation and annihilation of electron-positron pairs. To this end, we have properly adapted the recent work of Toulouse[4], where relativistic density functional theory including effective quantum electron dynamics was established. Then, considering the so-called no-pair approximation[4] we also present the relativistic version of some of the most accurate RDMFT functional approximations[6-7]. Finally, we analyze some properties of these functional approximations.
 
 [1] Mitxelena, I., & Piris, M. (2020). An efficient method for strongly correlated electrons in one dimension. Journal of Physics: Condensed Matter,
-32(17), 17LT01.
-[2] Mitxelena, I., & Piris, M. (2020). An efficient method for strongly correlated electrons in two-dimensions. The Journal of chemical physics,
-152(6), 064108.
-[3] Schmidt, J., Benavides-Riveros, C. L., & Marques, M. A. (2019). Reduced density matrix functional theory for superconductors. Physical Review
-B, 99(22), 224502.
-[4] Toulouse, J. (2021). Relativistic density-functional theory based on effective quantum electrodynamics. arXiv preprint arXiv:2102.10465.
-[5] Mittleman, M. H. (1981). Theory of relativistic effects on atoms: Configuration-space Hamiltonian. Physical Review A, 24(3), 1167.
-[6] Piris, M. (2013). Interpair electron correlation by second-order perturbative corrections to PNOF5. The Journal of chemical physics, 139(6), 064111.
-[7] Piris, M. (2017). Global method for electron correlation. Physical review letters, 119(6), 063002.
+32(17), 17LT01.  
+[2] Mitxelena, I., & Piris, M. (2020). An efficient method for strongly correlated electrons in two-dimensions. The Journal of chemical physics, 152(6), 064108.  
+[3] Schmidt, J., Benavides-Riveros, C. L., & Marques, M. A. (2019). Reduced density matrix functional theory for superconductors. Physical Review B, 99(22), 224502.  
+[4] Toulouse, J. (2021). Relativistic density-functional theory based on effective quantum electrodynamics. arXiv preprint arXiv:2102.10465.  
+[5] Mittleman, M. H. (1981). Theory of relativistic effects on atoms: Configuration-space Hamiltonian. Physical Review A, 24(3), 1167.  
+[6] Piris, M. (2013). Interpair electron correlation by second-order perturbative corrections to PNOF5. The Journal of chemical physics, 139(6), 064111.  
+[7] Piris, M. (2017). Global method for electron correlation. Physical review letters, 119(6), 063002.  
 
 ***
 
@@ -234,12 +232,12 @@ Among the most popular computational methods for describing temporary anions , o
 calculations or on empirical methods.
 Here, we propose an efficient approach to predict the resonance energies of the electron attachment using a TDDFT calculation and two different atomic basis sets6: a large basis set to compute the vertical electron affinity, and a smaller one to calculate the excitation energy of the anion. Doing so one computes the relevant resonant attachment energies of the electron without intruder states from the continuum discretized due to the finite size of the simulation box. Benchmarks have been performed over 18 molecules and 53 resonances and show good agreement with experimental data.
 
-[1] Sommerfeld T. et al, J. Phys. Chem. A 115 6675-6682 (2011) 
-[2] Gorfinkiel J. D. et al, J. Phys. B. 35 543 (2002)
-[3] Modelli A. et al, Chem. Phys. 286 165-172 (2003)
-[4] Takatsuka K. et al, Phys. Rev. A 24 2473 (1981)
-[5] Falcetta M. F. et al, Chem. Phys. 482 239-243 (2017)
-[6] Thiam G., Rabilloud F., J. Phys. Chem. Lett, 12, 41, 9995–10001(2021)
+[1] Sommerfeld T. et al, J. Phys. Chem. A 115 6675-6682 (2011).  
+[2] Gorfinkiel J. D. et al, J. Phys. B. 35 543 (2002).  
+[3] Modelli A. et al, Chem. Phys. 286 165-172 (2003).  
+[4] Takatsuka K. et al, Phys. Rev. A 24 2473 (1981).  
+[5] Falcetta M. F. et al, Chem. Phys. 482 239-243 (2017).  
+[6] Thiam G., Rabilloud F., J. Phys. Chem. Lett, 12, 41, 9995–10001(2021).  
 
 ***
 
@@ -263,10 +261,10 @@ The objective of the so-called ab initio approach to nuclear structure is to pro
 Only very recently, a novel many-body method coined as Bogoliubov coupled cluster (BCC) theory [4] has been formulated that extends the standard coupled cluster scheme to singly open-shell nuclei. This is achieved by breaking particle-number symmetry of the unperturbed state as a way to already incorporate crucial static correlations into it. In my talk I will present recent results obtained for the ground-state of oxygen isotopes based on nuclear interaction models derived from chiral effective field theory. 
 Once fully implemented, the non-perturbative (equation-of-motion) BCC method will allow for high-precision ab initio calculations of ground and excited states in medium-mass nuclei. 
 
-[1] H. Hergert, Front. Phys. 8, 379 (2020)
-[2] A. Tichai, R. Roth, T. Duguet, Front Phys. 8, 164 (2020)
-[3] G. Hagen, T. Papenbrock, M. Hjort-Jensen, D. J. Dean, Rep. Prog. Phys. 77, 9 (2014)
-[4] A. Signoracci, T. Duguet, G. Hagen, G. Jansen, Phys. Rev. C 91, 064320 (2015)
+[1] H. Hergert, Front. Phys. 8, 379 (2020).  
+[2] A. Tichai, R. Roth, T. Duguet, Front Phys. 8, 164 (2020).  
+[3] G. Hagen, T. Papenbrock, M. Hjort-Jensen, D. J. Dean, Rep. Prog. Phys. 77, 9 (2014).  
+[4] A. Signoracci, T. Duguet, G. Hagen, G. Jansen, Phys. Rev. C 91, 064320 (2015).  
 
 ***
 
@@ -286,15 +284,15 @@ hence, this limits the overall grid and basis set sizes. The scaling as function
 
 In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneers in developing efficient implementations to study the vibrational energy levels of molecules [6- 9] or reactive collisions. [9] Here, we will show that it is possible to apply this Smolyak scheme to large molecule ($n>20$) and also to extend it to wave packet propagation. Furthermore, with a system/bath separation, one can deal with about 100 degrees of freedom.
 
-[1] S. A. Smolyak Soviet Mathematics Doklady, 4 (1963) 240
-[2] G. Avila and T. Carrington, J. Chem. Phys., 131 (2009) 174103
-[3] G. Avila and T. Carrington, J. Chem. Phys. 134 (2011) 054126
-[4] G. Avila and T. Carrington, J. Chem. Phys. 135 (2011) 064101
-[5] G. Avila and T. Carrington, J. Chem. Phys. 139 (2013) 134114
-[6] D. Lauvergnat and A. Nauts, PCCP 12 (2010) 8405
-[7] D. Lauvergnat and A. Nauts, Spectrochim. Acta Part A 119 (2014) 18
-[8] A. Powers, Y. Scribano, D. Lauvergnat, E. Mebe, D.M. Benoit, Z. Bačić, J. Chem. Phys. 148 (2018).
-[9] Lucien Dupuy, David Lauvergnat, and Yohann Scribano, Chem. Phys. Letter, to be published
+[1] S. A. Smolyak Soviet Mathematics Doklady, 4 (1963) 240.  
+[2] G. Avila and T. Carrington, J. Chem. Phys., 131 (2009) 174103.  
+[3] G. Avila and T. Carrington, J. Chem. Phys. 134 (2011) 054126.  
+[4] G. Avila and T. Carrington, J. Chem. Phys. 135 (2011) 064101.  
+[5] G. Avila and T. Carrington, J. Chem. Phys. 139 (2013) 134114.  
+[6] D. Lauvergnat and A. Nauts, PCCP 12 (2010) 8405.  
+[7] D. Lauvergnat and A. Nauts, Spectrochim. Acta Part A 119 (2014) 18.  
+[8] A. Powers, Y. Scribano, D. Lauvergnat, E. Mebe, D.M. Benoit, Z. Bačić, J. Chem. Phys. 148 (2018).  
+[9] Lucien Dupuy, David Lauvergnat, and Yohann Scribano, Chem. Phys. Letter, to be published  
 
 ***
 
@@ -343,10 +341,10 @@ energies.
 
 The adiabatic connection (AC) that has as weak-interaction expansion the Møller-Plesset (MP) perturbation series has been recently shown to have a large coupling-strength expansion in terms of functionals of the Hartree-Fock density [1,2]. Based on these findings, in this work [3] we introduce a new class of functionals that approximate directly the MP AC by interpolating between MP2 and the large-coupling strength limit, which is size consistent for fragments with a non-degenerate ground state [4]. These functionals have the same cost as double hybrids and greatly reduce the large MP2 errors for typical pi-stacking complexes (e.g., benzene-pyridine dimers) and for the L7 dataset. Furthermore, they are also competitive with state-of-the-art dispersion enhanced functionals and can even significantly outperform them for a variety of datasets, such as CT7, DI6 and L7.
 
-[1] M. Seidl, S. Giarrusso, S. Vuckovic, E. Fabiano, P. Gori-Giorgi, J. Chem. Phys., 149, 241101 (2018)
-[2] T. Daas, J. Grossi, S. Vuckovic, Z. Musslimani, D. Kooi, M. Seidl, K. Giesbertz, P. Gori-Giorgi, J. Chem. Phys., 153, 214112 (2020)
-[3] T. Daas, E. Fabiano, F. Della Sala, P. Gori-Giorgi, S. Vuckovic, J. Phys. Chem. Lett., 12, 4867-4875 (2021)
-[4] S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett., 9, 3137-3142 (2018)
+[1] M. Seidl, S. Giarrusso, S. Vuckovic, E. Fabiano, P. Gori-Giorgi, J. Chem. Phys., 149, 241101 (2018).  
+[2] T. Daas, J. Grossi, S. Vuckovic, Z. Musslimani, D. Kooi, M. Seidl, K. Giesbertz, P. Gori-Giorgi, J. Chem. Phys., 153, 214112 (2020).  
+[3] T. Daas, E. Fabiano, F. Della Sala, P. Gori-Giorgi, S. Vuckovic, J. Phys. Chem. Lett., 12, 4867-4875 (2021).  
+[4] S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett., 9, 3137-3142 (2018).  
 
 ***
 
@@ -356,9 +354,9 @@ The adiabatic connection (AC) that has as weak-interaction expansion the Møller
 
 The density-based basis-set correction method [1], consisting in correcting the basis-set incompleteness error of wave-function calculations using a density functional, has proved its efficiency to speed up the convergence of ground-state energies [2, 3]. Here, we extend the basis-set correction method to calculations of molecular properties, starting with dipole moments. We develop two strategies: (1) configuration-interaction calculations where the basis-set correction is included self-consistently [4], and (2) coupled-cluster calculations where the basis-set correction is estimated non-self-consistently using numerical differentiation of the energy with respect to an electric field. Systematic tests have been performed on a set of molecules.
 
-[1] E. Giner, B. Pradines, A. Ferte, R. Assaraf, A. Savin and J. Toulouse, J. Chem. Phys. 149, 194301 (2018).
-[2] P.-F. Loos, B. Pradines, A. Scemama, J. Toulouse and E. Giner, The Journal of Physical Chemistry Letters 10, 2931 (2019). [3] E. Giner, A. Scemama, P.-F. Loos and J. Toulouse, The Journal of Chemical Physics 152, 174104 (2020).
-[4] E. Giner, D. Traore, B. Pradines and J. Toulouse, The Journal of Chemical Physics 155, 044109 (2021).
+[1] E. Giner, B. Pradines, A. Ferte, R. Assaraf, A. Savin and J. Toulouse, J. Chem. Phys. 149, 194301 (2018).  
+[2] P.-F. Loos, B. Pradines, A. Scemama, J. Toulouse and E. Giner, The Journal of Physical Chemistry Letters 10, 2931 (2019). [3] E. Giner, A. Scemama, P.-F. Loos and J. Toulouse, The Journal of Chemical Physics 152, 174104 (2020).  
+[4] E. Giner, D. Traore, B. Pradines and J. Toulouse, The Journal of Chemical Physics 155, 044109 (2021).  
 
 ***
 
@@ -383,9 +381,9 @@ clusters of silicons which display a gain in numerical efficiency between one an
 magnitude.
 The extension to more advanced projector Monte Carlo methods is being explored.
 
-[1] J. Feldt, C. Filippi in Quantum chemistry and dynamics of excited states methods and applications, Wiley 2020, 247276.
-[2] M. Dash, J. Feldt, M. Saverio, A. Scemama, C. Filippi, JCTC 2020, 15, 48964906.
-[3] J. Feldt, R. Assaraf, JCTC 2021, 17, 13801389.
+[1] J. Feldt, C. Filippi in Quantum chemistry and dynamics of excited states methods and applications, Wiley 2020, 247276.  
+[2] M. Dash, J. Feldt, M. Saverio, A. Scemama, C. Filippi, JCTC 2020, 15, 48964906.  
+[3] J. Feldt, R. Assaraf, JCTC 2021, 17, 13801389.  
 
 ***
 
@@ -396,11 +394,11 @@ The extension to more advanced projector Monte Carlo methods is being explored.
 The high cost and low availability of second- and third-row transition metals push more and more researchers to explore the chemistry of the first-row transition metals. Their use in catalysis needs a fine understanding of their electron properties, which could be achieved by theoretical approaches. Nevertheless, the computational study of first-row transition complexes and their reactivity rises nu- merous questions, as several electronic states could be accessible.
 Among known reactivities, cobalt complexes have been used for more than ten years to perform cycloaddition reactions. Recently, in our group, a [CpCo] mediated chemodivergent cycloaddition has been studied.[1] General mechanisms proposed for this kind of reactivity usually rely on den- sity functional theory calculations (employing hybrid functionals) and involve a two-state reactivity. However, and as expected, for some of the key intermediates, a pure density functional would predict a more stable singlet state, while a hybrid functional, such as B3LYP, would predict a more stable triplet state. We used wavefunction based methods on a series of model cobalt and rhodium sys- tems to compute singlet-triplet splittings in order to benchmark the performances of common density functionals in our mechanistic studies. This also represents an opportunity to gain methodological insights on the computational treatment of organometallic catalysts. Using correlated wavefunction methods such as MRCI and CASPT2/RASPT2 on systems of increasing size, we assess the influence of basis set selection, active space and restrictions to the CI expansion or semi-core correlation on the relative spin state energetics.[2, 3] CCSD(T) and BCCD(T) calculations were also performed to check the extent of their reliability in treating transition metal complexes with a possibly multicon- figurational wavefunction. [4, 5] In the process, we aim at finding a suitable cost/accuracy balance to treat systems of chemical interest, select the appropriate density functional and assess the validity of proposed mechanisms.
 
-[1] M. Delorme, A. Punter, R. Oliveira, C. Aubert, Y. Carissan, J.-L. Parrain, M. Amatore, P. Nava and L. Commeiras, Dalton Trans., 2019, 48, 15767–15771.
-[2] K. Pierloot, Q. M. Phung and A. Domingo, J. Chem. Theory Comput., 2017, 13, 537–553.
-[3] Q. M. Phung, M. Feldt, J. N. Harvey and K. Pierloot, J. Chem. Theory Comput., 2018, 14, 2446–2455.
-[4] M. Radon ́, Phys. Chem. Chem. Phys., 2019, 21, 4854–4870.
-[5] G. Drabik, J. Szklarzewicz and M. Radon ́, Phys. Chem. Chem. Phys., 2021, 23, 151–172.
+[1] M. Delorme, A. Punter, R. Oliveira, C. Aubert, Y. Carissan, J.-L. Parrain, M. Amatore, P. Nava and L. Commeiras, Dalton Trans., 2019, 48, 15767–15771.  
+[2] K. Pierloot, Q. M. Phung and A. Domingo, J. Chem. Theory Comput., 2017, 13, 537–553.  
+[3] Q. M. Phung, M. Feldt, J. N. Harvey and K. Pierloot, J. Chem. Theory Comput., 2018, 14, 2446–2455.  
+[4] M. Radon ́, Phys. Chem. Chem. Phys., 2019, 21, 4854–4870.  
+[5] G. Drabik, J. Szklarzewicz and M. Radon ́, Phys. Chem. Chem. Phys., 2021, 23, 151–172.  
 
 ***
 
@@ -463,11 +461,11 @@ In DFT it is known that the Kohn-Sham gap can be a very poor estimation of the f
 Very recently, a new grand canonical eDFT formalism has been developed, the N-centered formalism, which allows the extraction of charged excitation energies without changing the number of electrons [3].
 We will discuss and present those various eDFT formalisms through their applications to very simple systems [4,5].
 
-[1] F. Cernatic, B. Senjean, V. Robert, and E. Fromager, arXiv:2109.04943 (2021).
-[2] J.P. Perdew, R.G. Parr, M. Levy, J.L. Balduz Jr, Phys. Rev. Lett. 49(23), 1691 (1982).
-[3] B. Senjean and E. Fromager, Phys. Rev. A 98, 022513 (2018).
-[4] P. F. Loos, and E. Fromager, J. Chem. Phys. 152, 214101 (2020) 
-[5] C. Marut, B. Senjean, E. Fromager, and P. F. Loos, Faraday Discuss. 224, 402 (2020).
+[1] F. Cernatic, B. Senjean, V. Robert, and E. Fromager, arXiv:2109.04943 (2021).  
+[2] J.P. Perdew, R.G. Parr, M. Levy, J.L. Balduz Jr, Phys. Rev. Lett. 49(23), 1691 (1982).  
+[3] B. Senjean and E. Fromager, Phys. Rev. A 98, 022513 (2018).  
+[4] P. F. Loos, and E. Fromager, J. Chem. Phys. 152, 214101 (2020).  
+[5] C. Marut, B. Senjean, E. Fromager, and P. F. Loos, Faraday Discuss. 224, 402 (2020).  
 
 ***
 
@@ -479,11 +477,11 @@ The standard method for solid state physics ab initio calculation is the Density
 This method is extensively used in f and d orbitals of transition metals, lanthanides, actinides and their oxides compounds. However, the interaction effects occurring in the p orbitals of the oxide have been shown to play an important role in the density of states and structural parameters of some of those systems. [1, 2, 3]
 In this presentation, we use our generalized cRPA implementation (as described in [4] and based on [5]), to calculate the screened interaction on both metal (d or f) and oxygen (p) orbitals . We also discuss the influence of those interactions on density of state and structural parameters on two widely studied systems, UO2 and TiO2. We show that due to the hybridization of p electrons the electronic occupations have to be carefully calculated in order to ensure physical results.
 
-[1] I. A. Nekrasov, M. A. Korotin, and V. I. Anisimov, “Coulomb interaction in oxygen p-shell in LDA+U method and its influence on calculated spectral and magnetic properties of transition metal oxides,” arxiv, 2000.
-[2] L. A. Agapito, S. Curtarolo, and M. Buongiorno Nardelli, “Reformulation of DFT + U as a Pseudohybrid Hubbard Density Functional for Accelerated Mate- rials Discovery,” Phys. Rev. X, vol. 5, p. 011006, Jan. 2015.
-[3] O. K. Orhan and D. D. O’Regan, “First-principles Hubbard U and Hund’s J cor- rected approximate density functional theory predicts an accurate fundamental gap in rutile and anatase TiO2,” Phys. Rev. B, vol. 101, p. 245137, June 2020.
-[4] J.-B. Mor ́ee, R. Outerovitch, and B. Amadon, “First-principles calculation of the Coulomb interaction parameters U and J for actinide dioxides,” Phys. Rev. B, vol. 103, p. 045113, Jan. 2021.
-[5] P. Seth, P. Hansmann, A. van Roekeghem, L. Vaugier, and S. Biermann, “Towards a First-Principles Determination of Effective Coulomb Interactions in Correlated Elec- tron Materials: Role of Intershell Interactions,” Phys. Rev. Lett., vol. 119, p. 056401, Aug. 2017.
+[1] I. A. Nekrasov, M. A. Korotin, and V. I. Anisimov, “Coulomb interaction in oxygen p-shell in LDA+U method and its influence on calculated spectral and magnetic properties of transition metal oxides,” arxiv, 2000.  
+[2] L. A. Agapito, S. Curtarolo, and M. Buongiorno Nardelli, “Reformulation of DFT + U as a Pseudohybrid Hubbard Density Functional for Accelerated Mate- rials Discovery,” Phys. Rev. X, vol. 5, p. 011006, Jan. 2015.  
+[3] O. K. Orhan and D. D. O’Regan, “First-principles Hubbard U and Hund’s J cor- rected approximate density functional theory predicts an accurate fundamental gap in rutile and anatase TiO2,” Phys. Rev. B, vol. 101, p. 245137, June 2020.  
+[4] J.-B. Mor ́ee, R. Outerovitch, and B. Amadon, “First-principles calculation of the Coulomb interaction parameters U and J for actinide dioxides,” Phys. Rev. B, vol. 103, p. 045113, Jan. 2021.  
+[5] P. Seth, P. Hansmann, A. van Roekeghem, L. Vaugier, and S. Biermann, “Towards a First-Principles Determination of Effective Coulomb Interactions in Correlated Elec- tron Materials: Role of Intershell Interactions,” Phys. Rev. Lett., vol. 119, p. 056401, Aug. 2017.  
 
 ***
 
@@ -493,17 +491,17 @@ In this presentation, we use our generalized cRPA implementation (as described i
 
 Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in the field of colloidal synthesis owing to their superior photoluminescence quantum yield and blinking-free properties, which make them promising materials for both classical [1,2] and quantum light sources [3,4]. Their brightness and sub-nanosecond radiative decay originates from the inherent correlation effects [5,6]. The many-body Coulomb interaction has generally been studied for semiconductor quantum dots [7,8]. Perovskites, as a consequence of the unique properties of their dielectric functions, possess enhanced Coulomb interaction between the charge carriers [9]. This leads to large binding energies of multi-exciton systems such as trion and biexciton in these NCs or the sizable splitting in the fine structure of single exciton states. Considering each NC as an artificial atom under the envelope function approximation, this problem of correlation effects can be approached at first by using second-order many-body techniques as outlined in Ref. [10]. This offers an elegant and efficient method that provides qualitative results for the trion and biexciton binding energies [11]. In going beyond the second-order description, configuration interaction can be employed to include the correlation energies between the various charge carriers in a more holistic manner.
 
-[1] Kovalenko et al., Properties and potential optoelectronic applications of lead halide perovskite nanocrystals.  Science 358, 6364, 745-750, 2017.
-[2] Raino et al., Single Cesium Lead Halide Perovskite Nanocrystals at Low Temperature: Fast Single-Photon Emission, Reduced Blinking, and Exciton Fine Structure. ACS Nano 10, 2, 2485–2490, 2016.
-[3] Utzat et al., Coherent single-photon emission from colloidal lead halide perovskite quantum dots. Science, 363(6431):1068–1072, 2019.
-[4] Tamarat et al., The dark exciton ground state promotes photon-pair emission in individual perovskite nanocrystals. Nature Communications. 11, 6001, 2020.
-[5] Becker et al., Bright triplet excitons in caesium lead halide perovskites. Nature, 553(1):189–193, 2018.
-[6] Tamarat et al., The ground exciton state of formamidinium lead bromide perovskite nanocrystals is a singlet dark state. Nature Materials 18, 717–724, 2019.
-[7] M. Combescot and R. Combescot, Optical stark effect of the exciton: Biexcitonic origin of the shift. Phys. Rev. B, 40:3788–3801, 1989.
-[8] Rontani et al., Coulomb correlation effects in semiconductor quantum dots: The role of dimensionali-ty. Phys. Rev. B 59, 10165, 1999.
-[9] Even et al., Analysis of Multivalley and Multibandgap Absorption and Enhancement of Free Carriers Related to Exciton Screening in Hybrid Perovskites. J. Phys. Chem. C, 118, 11566−11572, 2014.
-[10] I. Lindgren and J. Morrison, Atomic Many-Body Theory. Springer-Verlag, 1982.
-[11] Nguyen et al., Calculation of the biexciton shift in nanocrystals of inorganic perovskites. Phys. Rev. B, 101. 125424, 2020.
+[1] Kovalenko et al., Properties and potential optoelectronic applications of lead halide perovskite nanocrystals.  Science 358, 6364, 745-750, 2017.  
+[2] Raino et al., Single Cesium Lead Halide Perovskite Nanocrystals at Low Temperature: Fast Single-Photon Emission, Reduced Blinking, and Exciton Fine Structure. ACS Nano 10, 2, 2485–2490, 2016.  
+[3] Utzat et al., Coherent single-photon emission from colloidal lead halide perovskite quantum dots. Science, 363(6431):1068–1072, 2019.  
+[4] Tamarat et al., The dark exciton ground state promotes photon-pair emission in individual perovskite nanocrystals. Nature Communications. 11, 6001, 2020.  
+[5] Becker et al., Bright triplet excitons in caesium lead halide perovskites. Nature, 553(1):189–193, 2018.  
+[6] Tamarat et al., The ground exciton state of formamidinium lead bromide perovskite nanocrystals is a singlet dark state. Nature Materials 18, 717–724, 2019.  
+[7] M. Combescot and R. Combescot, Optical stark effect of the exciton: Biexcitonic origin of the shift. Phys. Rev. B, 40:3788–3801, 1989.  
+[8] Rontani et al., Coulomb correlation effects in semiconductor quantum dots: The role of dimensionali-ty. Phys. Rev. B 59, 10165, 1999.  
+[9] Even et al., Analysis of Multivalley and Multibandgap Absorption and Enhancement of Free Carriers Related to Exciton Screening in Hybrid Perovskites. J. Phys. Chem. C, 118, 11566−11572, 2014.  
+[10] I. Lindgren and J. Morrison, Atomic Many-Body Theory. Springer-Verlag, 1982.  
+[11] Nguyen et al., Calculation of the biexciton shift in nanocrystals of inorganic perovskites. Phys. Rev. B, 101. 125424, 2020.  
 
 ***
 
@@ -544,7 +542,7 @@ In quantum computing, solving the electronic structure problem is considered as 
 In nature, conical intersections play a keyrole in many prominent reactions. For instance, in the process of vision: the retinal molecule is known to undergo a photoisomerisation mediated by a non-radiative relaxation through a conical intersection. In such a situation, characterizing the phenomenon requires to precisely describe the shape of the conical intersection, with both qualitative and quantitative high-level treatments. This makes it a difficult target to current quantum algorithms, such as VQE.
 Motivated by this problem, we recently introduced a new quantum algorithm [1] called the “State-Averaged Orbital-Optimized VQE” (SA-OO-VQE) designed to treat on an equal footing degenerate states on near term quantum computers. In this talk, we introduce the theory of SA- OO-VQE and illustrate how it works on the formaldimine molecule (a minimal model for the retinal with a similar conical intersection). Furthermore, we will introduce new extensions to the SA-OO- VQE algorithm recently developed to estimate nuclear gradients and non-adiabatic couplings out of the quantum algorithm [2]. We show that SA-OO-VQE is able to qualitatively and quantitatively reproduce the molecule’s conical intersection. We will also show that the algorithm can be used in a geometry optimization process to find the minimal energy conical intersection of the molecule.
 
-[1] S. Yalouz, B. Senjean, J. Gunther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).
+[1] S. Yalouz, B. Senjean, J. Gunther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).  
 [2] S. Yalouz, E. Koridon, B. Senjean, B. Lasorne, F. Buda, and L. Visscher, Analytical nonadiabatic couplings and gradients within the state-averaged orbital-optimized variational quantum eigensolver, arXiv preprint arXiv:2109.04576 (2021).
 
 ***
@@ -562,7 +560,6 @@ We will develop the Lagrangian, the corresponding Euler-Lagrange equations and i
 [1] Exact solution of the many-body problem with a O(n6) complexity, T. Deutsch, arXiv:2111.15281 [quant-ph]
 
 ***
-
 
 ### Xiang Yuan (PhLAM, Lille) 
 
