@@ -397,7 +397,7 @@ Among known reactivities, cobalt complexes have been used for more than ten year
 [1] M. Delorme, A. Punter, R. Oliveira, C. Aubert, Y. Carissan, J.-L. Parrain, M. Amatore, P. Nava and L. Commeiras, Dalton Trans., 2019, 48, 15767–15771.  
 [2] K. Pierloot, Q. M. Phung and A. Domingo, J. Chem. Theory Comput., 2017, 13, 537–553.  
 [3] Q. M. Phung, M. Feldt, J. N. Harvey and K. Pierloot, J. Chem. Theory Comput., 2018, 14, 2446–2455.  
-[4] M. Radon ́, Phys. Chem. Chem. Phys., 2019, 21, 4854–4870.  
+[4] M. Radon, Phys. Chem. Chem. Phys., 2019, 21, 4854–4870.  
 [5] G. Drabik, J. Szklarzewicz and M. Radon ́, Phys. Chem. Chem. Phys., 2021, 23, 151–172.  
 
 ***
