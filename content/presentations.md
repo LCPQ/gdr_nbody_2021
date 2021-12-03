@@ -105,7 +105,11 @@ We compute the phase diagram of hydrogen and deuterium at low temperatures and h
 
 ### Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
 
-**TBA**
+**A Multi-Configuration Self-Consistent Field approach for nuclei**
+
+In my presentation, I will speak about the development of MCSCF approach in nuclear physics,
+the state of the art and the challenges. I will show some applications related to nuclear spectroscopy and reactions
+as well as quantum entanglement.
 
 ***
 
