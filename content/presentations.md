@@ -151,7 +151,28 @@ In this talk I will review and put into perspective several results on the large
 
 ### Roland Assaraf (LCT, Sorbonne Universite)
 
-**TBA**
+**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**
+
+Response properties or cumulants are usually size-extensive (O(N)) but are
+computed in  Monte Carlo with fluctuations growing like N^p with p>1 as a
+function of the system size N.
+The limit of this problem is the sign problem where the ferminonic energy
+can be written as an infinite expansion of cumulants and the fluctuations
+are growing exponentially with the system size.
+
+We propose a  method that selects clusters of variables belonging to two
+independent replicas of the system. These clusters behave as if they were
+independent,  enabling a factorization of correlation functions.
+The algorithm generalizes cluster algorithms (usually applied to spin
+problems, like the Wolf algorithm or the exchange cluster algorithm) but
+can be applied  to any model  of interacting particles with any $p$-body
+interactions ($p=1,2,3 \dots $).
+An improved estimator of the heat capacity (a covariance)  is then
+proposed and tested on the Lennard Jones Model.
+ In practice the  scaling of the statistical fluctuations as a function of
+the number of degrees of freedom $N$ is reduced  from $O(N^2)$ to $O(N)$
+above the critical temperature.
+Generalization to higher cumulants will be discussed.
 
 ***
 
