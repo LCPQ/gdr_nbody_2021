@@ -153,9 +153,9 @@ In this talk I will review and put into perspective several results on the large
 
 **Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**
 
-Response properties or cumulants are usually size-extensive (O(N)) but are
-computed in  Monte Carlo with fluctuations growing like N^p with p>1 as a
-function of the system size N.
+Response properties or cumulants are usually size-extensive ($O(N)$) but are
+computed in  Monte Carlo with fluctuations growing like $N^p$ with $p>1$ as a
+function of the system size $N$.
 The limit of this problem is the sign problem where the ferminonic energy
 can be written as an infinite expansion of cumulants and the fluctuations
 are growing exponentially with the system size.
