@@ -145,7 +145,18 @@ In this talk I will review and put into perspective several results on the large
 
 ### Valerie Vallet (PhLAM, Universite de Lilles)
 
-**TBA**
+**Incorporating many-body and environment effects on core and luminescence properties**
+
+X-ray photoelectron spectrometry (XPS), X-ray absorption spectroscopy (XAS) and luminescence time-resolved laser induced fluorescence spectroscopy (TRLFS) are all spectroscopic techniques that can probe the coordination and local environment around a given complex. 
+The first part of the talk will be devoted to the interpretation of luminescence spectra of uranium(VI), since its speciation is a key challenge in the context of the nuclear fuel cycle. Owing to its high sensitivity and selectivity time-resolved laser induced fluorescence spectroscopy (TRLFS) is particularly suited for such studies. However, most of the relevant systems have complex chemical composition in solution and the identification of each species from spectroscopic data is challenging. We will detail our efforts in developing an ab initio-based interpretation of TRLFS data. We will illustrate that TD-DFT with the CAM-B3LYP functional is able to remedy the flaws  that plagued previous applications of DFT in the determination of vertical excitation and emission energies for these systems. We will illustrate how one can predict vibrationally resolved spectra useful it is to assign the recorded TRLFS data [1, 2, 3].
+
+The second part of this presentation will focus on core spectra of hydrated halides, owing to their relevance to atmospheric chemistry. We resort to quantum chemical methods in the framework of quantum embedding approaches [4] since these, at the same time, allow for the halogen can in principle be treated at a sufficiently high level of theory (to account, for example, for both correlation and relaxation effects [5] due to the creation of the core hole), while still retaining a quantum description for the whole system (so that we can obtain information from, or couplings to, the environment) and achieving an overall reduction of computational effort. We will present the recent implementation (in the non-relativistic framework) and carry out a first assessment of the performance of two quantum embedding approaches, frozen density embedding (FDE) and the block-orthogonalized Manby-Miller embedding (BOMME), for the calculation of XAS for model systems, employing real-time time-dependent density functional theory (rt-TDDFT) [6].
+
+[1] H. Oher, F. Réal, T. Vercouter, V. Vallet, Inorg. Chem. 59, 5896 (2020).  
+[2] H. Oher, T. Vercouter, F. Réal, C. Shang, P. E. Reiller, V. Vallet, Inorg. Chem. 59, 15036 (2020).  
+[3] H. Oher, G. Ferru, L. Couston, L. Berthon, D. Guillaumont, F. Réal, T. Vercouter, V Vallet, ChemRxiv (2021), 10.33774/chemrxiv-2021-9sjjh, preprint.  
+[4] A. S. P. Gomes and C. R. Jacob, Annu. Rep. Prog. Chem., Sect. C: Phys. Chem. 108, 222 (2012).  
+[5] L. Halbert, M.L. Vidal, A. Shee, S. Coriani, A.S.P. Gomes, J. Chem. Theory Comput. 17, 3583 (2021) [6] M. De Santis, V. Vallet, A.S.P. Gomes, https://arxiv.org/abs/2111.13947  
 
 ***
 
