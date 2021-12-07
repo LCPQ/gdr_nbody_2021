@@ -139,7 +139,12 @@ In this talk I will review and put into perspective several results on the large
 
 ### Arjan Berger (LCPQ, Universite Paul Sabatier)
 
-**TBA**
+**New approaches for treating correlation in molecule and solids**
+
+In this work I will give an overview of recent progress made on various topics related to (strong) electron correlation.
+1) We propose an original approach for the study of periodic Coulomb systems. We use a Clifford torus with a renormalized distance in the Coulomb potential. We have successfully applied this strategy to the calculation of Madelung constants and Wigner crystals. We also propose a new position operator that is compatible with periodic boundary conditions.
+2) To capture satellites or shake-up excitations in photo-emission spectra we propose to use the three-body Green’s function instead of the usual one-body Green’s function, i.e. we increase the size of the excitation space from the quasi-particle energies to include also electron-hole pairs. In our approach static effective many-body potentials can capture satellite structures in the spectral function.
+3) We show that the extended Koopmans’ theorem (EKT), from which charged excitations can be obtained, is linked to the many-body effective energy theory (MEET) that we derived to calculate the spectral function. Using this link we have extended the EKT to the calculation of the spectral function.
 
 ***
 
