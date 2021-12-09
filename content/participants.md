@@ -22,7 +22,6 @@ draft: false
 1. Valerie Vallet (PhLAM, Lille) <!-- valerie.vallet@univ-lille.fr -->
 1. Roland Assaraf (LCT, Paris) <!-- assaraf@lct.jussieu.fr -->
 1. Vittorio Somà (CEA Saclay) <!-- vittorio.soma@cea.fr -->
-1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
 1. Emmanuel Fromager (LCQ, Strasbourg) <!-- fromagere@unistra.fr -->
 1. Eric Cances (CERMICS, Paris) <!-- eric.cances@enpc.fr -->
 1. Andre Gomes (PhLAM, Lille) <!-- andre.gomes@univ-lille.fr -->
@@ -76,15 +75,16 @@ draft: false
 1. Miguel Escobar Azor (LCPQ, Toulouse) <!-- mescobar@irsamc.ups-tlse.fr -->
 1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
 1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
+1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
 
 # Waiting list
 
-1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
 1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Yannick Carissan (iSm2, Marseille) <!-- yannick.carissan@univ-amu.fr -->
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
-1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
 1. Karno Schwinn (LPT, Paris) <!-- karno.schwinn@googlemail.com POSTER --> 
+1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
+1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
