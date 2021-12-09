@@ -87,4 +87,5 @@ draft: false
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
 1. Karno Schwinn (LPT, Paris) <!-- karno.schwinn@googlemail.com POSTER --> 
 1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
+1. Stefano Evangelisti (LCPQ, Toulouse) <!-- stefano.lcpq@gmail.com -->
 1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
