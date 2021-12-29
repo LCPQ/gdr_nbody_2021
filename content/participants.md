@@ -53,7 +53,6 @@ draft: false
 1. Robinson Outerovitch (CEA/DAM/DIF, Arpajon)  <!-- robinson.outerovitch@cea.fr -->
 1. Tarik Benyahia (Vrije Universiteit, Amsterdam) <!-- tarik.benyahia@ens-paris-saclay.fr -->
 1. Trond Saue (LCPQ, Toulouse) <!-- trond.saue@irsamc.ups-tlse.fr -->
-1. Gregoire David (Nottingham, UK) <!-- g.david@nottingham.ac.uk -->
 1. Nicolas Cartier (Vrije Universiteit, Amsterdam) <!-- cartier.nicolas.g@gmail.com -->
 1. Jean-Paul Malrieu (LCPQ, Toulouse) <!-- malrieu@irsamc.ups-tlse.fr -->
 1. Xiang Yuan (PhLAM, Lille) <!-- xiang.yuan@univ-lille.fr -->
@@ -76,16 +75,20 @@ draft: false
 1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
 1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
+1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 
 # Waiting list
 
-1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
 1. Yannick Carissan (iSm2, Marseille) <!-- yannick.carissan@univ-amu.fr -->
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
 1. Karno Schwinn (LPT, Paris) <!-- karno.schwinn@googlemail.com POSTER --> 
+<!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
+
+# Online participants
+
+1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
 1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
 1. Stefano Evangelisti (LCPQ, Toulouse) <!-- stefano.lcpq@gmail.com -->
-1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
