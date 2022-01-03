@@ -103,6 +103,7 @@ draft: false
 1. Peter Schuck (Institut Neel, Grenoble) <!-- Peter.Schuck@grenoble.cnrs.fr -->
 1. Jean-Paul Ebran (CEA, Saclay) <!-- Jean-Paul.Ebran@cea.fr -->
 1. Michal Jex (Ceremade, Paris Dauphine) <!-- jex@ceremade.dauphine.fr -->
+1. Cyrille Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
 
 <!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
 
