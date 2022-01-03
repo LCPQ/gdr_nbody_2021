@@ -88,5 +88,19 @@ draft: false
 1. Andreas Savin (LPT, Paris) <!-- andreas.savin.as@gmail.com --> 
 1. Mathieu Lewin (Universite Paris-Dauphine, Paris) <!-- mathieu.lewin@math.cnrs.fr -->
 1. Peter Reinhardt (LPT, Paris) <!-- Peter.Reinhardt@Sorbonne-Universite.fr -->
+1. Miquel Huix-Rotllant <!-- miquel.huixrotllant@univ-amu.fr -->
+1. Julie Puyo <!-- puyo.julie@outlook.fr -->
+1. Karima Boukair <!-- karima.boukair@gmail.com -->
+1. Georg Michelitsch <!-- georg.michelitsch@polytechnique.edu -->
+1. Denis Lacroix <!-- lacroix@ipno.in2p3.fr -->
+1. Philip Hoggan <!-- pehoggan@yahoo.com -->
+1. Patrick Cassam-Chenai <!-- Patrick.Cassam-Chenai@unice.fr -->
+1. Félix Werner <!-- werner@lkb.ens.fr -->
+1. Boris Le Guennic <!-- boris.leguennic@univ-rennes1.fr -->
+
+
+
+
+
 <!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
 
