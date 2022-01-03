@@ -38,6 +38,15 @@ Map Display larger map </description>
     
     <item>
       <title>Presentations</title>
+      <link>https://lcpq.github.io/gdr_nbody_2021/posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>gdrnbody@lct.jussieu.fr</author>
+      <guid>https://lcpq.github.io/gdr_nbody_2021/posters/</guid>
+      <description>Posters  Julien Toulouse (LCT, Paris): Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model Sajanthan Sekaran (LCQ, Strasbourg): Local potential functional embedding theory Karno Schwinn (LPT, Paris): Effects of Range-Separated Hybrid Schemes on Atomic Photoionization Cross Sections Using Sternheimer TDDFT Yann Damour (LCPQ, Toulouse): Orbital optimization in selected configuration interaction Andrea Porro (CEA, Saclay): Ab-initio description of the monopole resonance in light- and medium-mass nuclei Enzo Monino (LCPQ, Toulouse): TBA  </description>
+    </item>
+    
+    <item>
+      <title>Presentations</title>
       <link>https://lcpq.github.io/gdr_nbody_2021/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gdrnbody@lct.jussieu.fr</author>
