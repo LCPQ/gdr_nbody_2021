@@ -85,5 +85,8 @@ draft: false
 1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
 1. Karno Schwinn (LPT, Paris) <!-- karno.schwinn@googlemail.com POSTER --> 
+1. Andreas Savin (LPT, Paris) <!-- andreas.savin.as@gmail.com --> 
+1. Mathieu Lewin (Universite Paris-Dauphine, Paris) <!-- mathieu.lewin@math.cnrs.fr -->
+1. Peter Reinhardt <!-- Peter.Reinhardt@Sorbonne-Universite.fr -->
 <!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
 
