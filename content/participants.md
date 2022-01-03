@@ -98,7 +98,7 @@ draft: false
 1. Félix Werner <!-- werner@lkb.ens.fr -->
 1. Boris Le Guennic <!-- boris.leguennic@univ-rennes1.fr -->
 1. Yorgos Volonakis <!-- yorgos.volonakis@univ-rennes1.fr -->
-
+1. Lorenzo Sponza <!-- lorenzo.sponza@onera.fr -->
 
 
 
