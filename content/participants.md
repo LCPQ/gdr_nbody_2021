@@ -98,7 +98,7 @@ draft: false
 1. Félix Werner (LKB, Paris) <!-- werner@lkb.ens.fr -->
 1. Boris Le Guennic (Institut des Sciences Chimiques, Rennes) <!-- boris.leguennic@univ-rennes1.fr -->
 1. Yorgos Volonakis (Institut des Sciences Chimiques, Rennes) <!-- yorgos.volonakis@univ-rennes1.fr -->
-1. Lorenzo Sponza <!-- lorenzo.sponza@onera.fr -->
+1. Lorenzo Sponza (ONERA, Palaiseau) <!-- lorenzo.sponza@onera.fr -->
 1. Alex Chin (INSP, Paris) <!-- alex.chin@insp.upmc.fr -->
 1. Peter Schuck (Institut Neel, Grenoble) <!-- Peter.Schuck@grenoble.cnrs.fr -->
 1. Jean-Paul Ebran (CEA, Saclay) <!-- Jean-Paul.Ebran@cea.fr -->
