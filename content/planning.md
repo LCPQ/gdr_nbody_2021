@@ -43,7 +43,7 @@ draft: false
 | 11:40 - 12:05 | Mauricio Rodriguez-Mayorga - Introducing Relativistic Reduced Density Matrix Functional Theory |
 | 12:05 - 12:30 | Pepijn Demol - Bogoliubov coupled cluster theory for open-shell nuclei |
 |               |                          |
-| 12:30 - 14:00 | Lunch                    |
+| 12:30 - 14:00 | Lunch break              |
 |               |                          |
 | **SESSION 5** | Chair: Paola Nava        |
 | 14:00 - 14:40 | Elisa Rebolini - Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE |
@@ -79,7 +79,7 @@ draft: false
 | 11:40 - 12:05 | Jonas Feldt - Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers     |
 | 12:05 - 12:30 | Leo Chaussy - Benchmark on cobalt systems relevant for reactivity     |
 |               |                          |
-| 12:30 - 14:00 | Lunch                    |
+| 12:30 - 14:00 | Lunch break              |
 |               |                          |
 | **SESSION 9** | Chair: Andre Gomes       |
 | 14:00 - 14:40 | Xavier Blase - Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths 
@@ -113,6 +113,4 @@ draft: false
 | 12:05 - 12:30 | Michael Herbst - A robust and efficient line search for self-consistent field    |
 |               |                          |
 | 12:30 - 12:45 | Closing remarks          |
-|               |                          |
-| 12:45 - 14:00 | Lunch                    |
 |               |                          |
