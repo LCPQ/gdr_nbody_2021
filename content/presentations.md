@@ -627,16 +627,3 @@ We have investigated the orbital truncation errors for both correlation energy (
 [1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101  
 [2] J. V. Pototschnig, A. Papadopoulos, D. I. Lyakh, M. Repisky, L. Halbert, A. S. P. Gomes, H- J Aa. Jensen, L. Visscher, J. Chem. Theory. Comput. 2021, 17, 5509
 
-***
-
-# Posters
-
-* Julien Toulouse (LCT, Paris): Basis-set correction based on density-functional theory: Rigorous
-framework for a one-dimensional model  
-* Sajanthan Sekaran (LCQ, Strasbourg): Local potential functional embedding theory  
-* Karno Schwinn (LPT, Paris):  Effects of Range-Separated Hybrid Schemes on Atomic Photoionization Cross Sections Using Sternheimer TDDFT  
-* Yann Damour (LCPQ, Toulouse): Orbital optimization in selected configuration interaction  
-* Andrea Porro (CEA, Saclay): Ab-initio description of the monopole resonance in light- and medium-mass nuclei  
-* Enzo Monino (LCPQ, Toulouse): TBA  
-
-

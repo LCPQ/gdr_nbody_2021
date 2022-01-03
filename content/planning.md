@@ -17,7 +17,7 @@ draft: false
 | 14:40 - 15:05 | Gabriele Riva - Photoemission spectroscopy from the three-body Green's function |
 | 15:05 - 15:30 | Gaspard Kemlin - Practical error bounds for electronic structure calculations: energy, density matrices and forces     |
 |               |                          |
-| 15:30 - 16:00 | Coffee break + poster session |
+| 15:30 - 16:00 | Coffee break + poster flash presentations |
 |               |                          | 
 | **SESSION 2** | Chair: Thomas Duguet     |
 | 16:00 - 16:40 | Vittorio Soma - Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory |
@@ -36,7 +36,7 @@ draft: false
 |  9:40 - 10:05 | Miguel Escobar Azor - Wigner localization in two and three dimensions: an ab initio approach     |
 | 10:05 - 10:30 | Wilken Misael - Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory     |
 |               |                          |
-| 10:30 - 11:00 | Coffee break + poster session |
+| 10:30 - 11:00 | Coffee break + poster flash presentations |
 |               |                          | 
 | **SESSION 4** | Chair: Eric Cances       |
 | 11:00 - 11:40 | David Gontier - DFT for two-dimensional homogeneous slabs |
@@ -50,14 +50,12 @@ draft: false
 | 14:40 - 15:05 | Benoit Braida - Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide     |
 | 15:05 - 15:30 | David Lauvergnat - Quantum Dynamics with a Smolyak scheme: numerical developments and applications    |
 |               |                          |
-| 15:30 - 16:00 | Coffee break + poster session |
+| 15:30 - 16:00 | Coffee break + poster flash presentations |
 |               |                          | 
 | **SESSION 6** | Chair: Pina Romaniello   |
 | 16:00 - 16:40 | Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
 | 16:40 - 17:05 | Antoine Bienvenu - Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems     |
 | 17:05 - 17:30 | Xiang Yuan - Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculation |
-|               |                          | 
-| 17:30 - 18:30 | Meeting Bureau GDR       |
 |               |                          |
 
 <!-- | 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | ) -->
@@ -72,7 +70,7 @@ draft: false
 |  9:40 - 10:05 | Fabris Kossoski - Exploiting the seniority number in calculations of molecular excited states     |
 | 10:05 - 10:30 | Timothy Daas  - Noncovalent interactions from models for the Møller-Plesset adiabatic connection     |
 |               |                          |
-| 10:30 - 11:00 | Coffee break + poster session |
+| 10:30 - 11:00 | Coffee break + poster flash presentations |
 |               |                          | 
 | **SESSION 8** | Chair: Emmanuel Giner    |
 | 11:00 - 11:40 | Antoine Levitt - Numerical methods for scattering and resonance properties in molecules and solids |
@@ -86,7 +84,7 @@ draft: false
 | 14:40 - 15:05 | Diata Traore - Density-based basis set correction method for molecular properties     |
 | 15:05 - 15:30 | Leo Gaspard - Timescale of local moment screening across and above the Mott transition     |
 |               |                          |
-| 15:30 - 16:00 | Coffee break + poster session |
+| 15:30 - 16:00 | Coffee break + poster flash presentations |
 |               |                          | 
 | **SESSION 10**| Chair: Anthony Scemama   |
 | 16:00 - 16:40 | Michele Casula - Phase diagram of high-pressure hydrogen including nuclear quantum effects |
@@ -105,7 +103,7 @@ draft: false
 |  9:40 - 10:05 | Abdallah Ammar - Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo    |
 | 10:05 - 10:30 | Tan Nguyen - Many-body perturbative calculations for multi-excitons in perovskite nanocrystals  |
 |               |                          |
-| 10:30 - 11:00 | Coffee break + poster session |
+| 10:30 - 11:00 | Coffee break + poster flash presentations |
 |               |                          | 
 | **SESSION 12**| Chair: Julien Toulouse   |
 | 11:00 - 11:40 | Arjan Berger - New approaches for treating correlation in molecule and solids  |
