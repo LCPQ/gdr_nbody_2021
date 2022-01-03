@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# Monday, January 10, 2021
+# Monday, January 10, 2022
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
@@ -26,7 +26,7 @@ draft: false
 | 17:30 - 17:55 | Thierry Deutsch - New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity n⁴ |
 |               |                          |
 
-# Tuesday, January 11, 2021
+# Tuesday, January 11, 2022
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
@@ -62,7 +62,7 @@ draft: false
 
 <!-- | 17:30 - 17:55 | C103: Andrea Porro - Ab-initio description of the monopole resonance in light- and medium-mass nuclei | ) -->
 
-# Wednesday, January 12, 2021
+# Wednesday, January 12, 2022
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
@@ -95,7 +95,7 @@ draft: false
 | 17:30 - 17:55 | Clotilde Marut - Ensemble density-functional theory |
 |               |                          |
 
-# Thursday, January 13, 2021
+# Thursday, January 13, 2022
     
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
