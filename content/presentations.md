@@ -508,6 +508,7 @@ adaptive damping approach to overall increase SCF robustness.
 
 ***
 
+<!-- 
 ### Clotilde Marut (LCPQ, Toulouse)
 
 **Ensemble DFT for charged and neutral excitations**
@@ -527,6 +528,7 @@ We will discuss and present those various eDFT formalisms through their applicat
 [5] C. Marut, B. Senjean, E. Fromager, and P. F. Loos, Faraday Discuss. 224, 402 (2020).  
 
 ***
+-->
 
 ### Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
 
