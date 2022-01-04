@@ -26,7 +26,7 @@ draft: false
 1. Eric Cances (CERMICS, Paris) <!-- eric.cances@enpc.fr -->
 1. Andre Gomes (PhLAM, Lille) <!-- andre.gomes@univ-lille.fr -->
 1. Ugo Ancarani (LPCT, Metz) <!-- ugo.ancarani@univ-lorraine.fr -->
-1. Paola Nava (iSm2, Marseille) <!-- paola.nava@univ-amu.fr -->
+1. Paola Nava (iSm2, Aix-Marseille) <!-- paola.nava@univ-amu.fr -->
 1. Emmanuel Giner (LCT, Paris) <!-- emmanuel.giner@lct.jussieu.fr POSTER -->
 1. Jonas Feldt (LCT, Paris) <!-- jfeldt.theochem@gmail.com -->
 1. Antoine Bienvenu (LCT, Paris) <!-- anbienvenu@gmail.com -->
@@ -61,7 +61,7 @@ draft: false
 1. Quentin Marécat (ICGM, Montpellier) <!-- quentin.marecat@etu.umontpellier.fr -->
 1. Matthieu Vladaj (ICGM, Montpellier) <!-- matthieu.vladaj@umontpellier.fr -->
 1. Saad Yalouz (LCQ, Strasbourg) <!-- yalouzsaad@gmail.com -->
-1. Leo Chaussy (iSm2, Marseille) <!-- leo.chaussy@univ-amu.fr -->
+1. Leo Chaussy (iSm2, Aix-Marseille) <!-- leo.chaussy@univ-amu.fr -->
 1. Franck Rabilloud (iLM, Lyon) <!-- franck.rabilloud@univ-lyon1.fr -->
 1. Guillaume Thiam (iLM, Lyon) <!-- guillaume.thiam@univ-lyon1.fr -->
 1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
@@ -80,7 +80,7 @@ draft: false
 1. Anthony Scemama (LCPQ, Toulouse) <!-- scemama@gmail.com -->
 1. Stefano Evangelisti (LCPQ, Toulouse) <!-- stefano.lcpq@gmail.com -->
 1. Matthieu Saubanère (ICGM, Montpellier) <!-- matthieu.saubanere@umontpellier.fr -->
-1. Yannick Carissan (iSm2, Marseille) <!-- yannick.carissan@univ-amu.fr -->
+1. Yannick Carissan (iSm2, Aix-Marseille) <!-- yannick.carissan@univ-amu.fr -->
 1. Arjan Berger (LCPQ, Toulouse) <!-- arjan.berger@irsamc.ups-tlse.fr -->
 1. Thibaud Etienne (LPCT, Nancy) <!-- thibaud.etienne@univ-lorraine.fr -->
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
@@ -105,6 +105,7 @@ draft: false
 1. Michal Jex (CEREMADE, Paris Dauphine) <!-- jex@ceremade.dauphine.fr -->
 1. Cyrille Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
 1. Isabelle Navizet (MSME, Champs-sur-Marne) <!-- isabelle.navizet@univ-eiffel.fr -->
-1. Vitaly Gorelov (LSI, Palaiseau) <vitaly.gorelov@polytechnique.edu>
+1. Vitaly Gorelov (LSI, Palaiseau) <!-- vitaly.gorelov@polytechnique.edu -->
+1. Pierre Lechifflart (CINAM, Aix-Marseille) <!-- lechifflart@cinam.univ-mrs.fr -->
 <!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
 

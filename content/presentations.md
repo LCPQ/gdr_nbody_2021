@@ -627,3 +627,19 @@ We have investigated the orbital truncation errors for both correlation energy (
 [1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101  
 [2] J. V. Pototschnig, A. Papadopoulos, D. I. Lyakh, M. Repisky, L. Halbert, A. S. P. Gomes, H- J Aa. Jensen, L. Visscher, J. Chem. Theory. Comput. 2021, 17, 5509
 
+***
+
+### Andrea Porro (CEA, Saclay)
+
+**Ab-initio description of the monopole resonance in light- and medium-mass nuclei**
+
+Giant monopole resonances have a long-standing theoretical importance in nuclear structure. The interest resides notably in the so-called breathing mode that has been established as a standard observable to constrain the nuclear incompressibility [1]. The Random Phase Approximation (RPA) within the frame of phenomenological Energy Density Functionals (EDF) has become the standard tool to address (monopole) giant resonances and extensive studies, mostly in doubly-closed-shell systems, have been performed throughout the years, including via the use of so-called sum rules [2]. A proper study of collective excitations in the ab-initio context is, however, missing.
+In this perspective, the first systematic ab-initio predictions of (giant) monopole resonances will be presented [3]. Ab-initio Quasiparticle-RPA (QRPA) [4] and Projected Generator Coordinate Method (P-GCM) [5] calculations of monopole resonances are compared in light- and mid-mass closed- and open- shell nuclei, which allows in particular to investigate the role of superfluidity from an ab-initio standpoint. Sum rules are also employed within both many-body schemes to characterize the fragmentation of the monopole strength. The study further focuses on the dependence of the results on the starting nuclear Hamiltonian derived within the frame of chiral effective field theory.
+Monopole resonance represents, thus, the first step towards the investigation of higher multipolarities. Eventually, the mid-term goal to establish P-GCM as a new method to study resonances in the light- and medium-mass region of the nuclide chart will be discussed: interpretation and analysis of resonance data in lighter nuclei is a very demanding task on which ab-initio P-GCM could shed new promising light.
+
+[1] J. P. Blaizot, D. Gogny, and B. Grammaticos, “Nuclear compressibility and monopole resonances,” Nuclear Physics A, vol. 265, pp. 315–336, July 1976.  
+[2] O. Bohigas, A. Lane, and J. Martorell, “Sum rules for nuclear collective excitations,” Physics Reports, vol. 51, pp. 267–316, Apr. 1979.  
+[3] A. Porro, M. Frosini, T. Duguet, V. Som ́a, Y. Beaujeault-Taudi`ere, J.-P. Ebran, and R. Roth To be published, 2021.  
+[4] Y. Beaujeault-Taudi`ere and J.-P. Ebran To be published, 2021.  
+[5] M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, T. Mongelli, T. R. Rodr ́ıguez, R. Roth, and V. Som`a, “Multi-reference many-body perturbation theory for nuclei: II–Ab initio study of neon isotopes via PGCM and IM-NCSM calculations,” arXiv preprint arXiv:2111.00797, 2021.  
+
