@@ -107,5 +107,6 @@ draft: false
 1. Isabelle Navizet (MSME, Champs-sur-Marne) <!-- isabelle.navizet@univ-eiffel.fr -->
 1. Vitaly Gorelov (LSI, Palaiseau) <!-- vitaly.gorelov@polytechnique.edu -->
 1. Pierre Lechifflart (CINAM, Aix-Marseille) <!-- lechifflart@cinam.univ-mrs.fr -->
+1. Vijay Chilkuri (LCPQ, Toulouse) <!-- vijay.gopal.c@gmail.com -->
 <!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
 
