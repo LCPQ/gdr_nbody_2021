@@ -12,9 +12,9 @@ draft: false
 1. Julien Toulouse (LCT, Paris, organiser) <!-- toulouse@lct.jussieu.fr POSTER -->
 1. Antoine Levitt (CERMICS, Paris) <!-- antoine.levitt@inria.fr -->
 1. Xavier Blase (Institut Neel, Grenoble) <!-- xavier.blase@neel.cnrs.fr -->
-1. Francesco Sottile (Laboratoire des Solides Irradies, Palaiseau) <!-- francesco.sottile@polytechnique.fr -->
+1. Francesco Sottile (LSI, Palaiseau) <!-- francesco.sottile@polytechnique.fr -->
 1. Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel) <!-- nathalie.pillet@cea.fr -->
-1. Elisa Rebolini (Institut Laue Langevin, Grenoble) <!-- rebolini@ill.fr -->
+1. Elisa Rebolini (ILL, Grenoble) <!-- rebolini@ill.fr -->
 1. Paola Gori-Giorgi (Vrije Universiteit, Amsterdam) <!-- paolagorigiorgi@gmail.com -->
 1. David Gontier (CEREMADE, Paris) <!-- gontier@ceremade.dauphine.fr -->
 1. Leo Gaspard (LCPQ, Toulouse) <!-- leo.gaspard@outlook.fr -->
@@ -27,7 +27,7 @@ draft: false
 1. Andre Gomes (PhLAM, Lille) <!-- andre.gomes@univ-lille.fr -->
 1. Ugo Ancarani (LPCT, Metz) <!-- ugo.ancarani@univ-lorraine.fr -->
 1. Paola Nava (iSm2, Marseille) <!-- paola.nava@univ-amu.fr -->
-1. Emmanuel Giner (LCT, Paris) <!-- emmanuel.giner@lct.jussieu.fr  -->
+1. Emmanuel Giner (LCT, Paris) <!-- emmanuel.giner@lct.jussieu.fr POSTER -->
 1. Jonas Feldt (LCT, Paris) <!-- jfeldt.theochem@gmail.com -->
 1. Antoine Bienvenu (LCT, Paris) <!-- anbienvenu@gmail.com -->
 1. Wilken Misael (PhLAM, Lille) <!-- wilken.misael@univ-lille.fr -->
@@ -65,7 +65,7 @@ draft: false
 1. Franck Rabilloud (iLM, Lyon) <!-- franck.rabilloud@univ-lyon1.fr -->
 1. Guillaume Thiam (iLM, Lyon) <!-- guillaume.thiam@univ-lyon1.fr -->
 1. Raul Quintero (LCPQ, Toulouse) <!-- raul.quintero@irsamc.ups-tlse.fr -->
-1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr -->
+1. Enzo Monino (LCPQ, Toulouse) <!-- enzo.monino@irsamc.ups-tlse.fr POSTER -->
 1. Bruno Senjean (ICGM, Montpellier) <!-- bruno.senjean@umontpellier.fr -->
 1. Michael Herbst (Aachen, Germany) <!-- herbst@acom.rwth-aachen.de -->
 1. Abdallah Ammar (LCPQ, Toulouse) <!-- aammar@irsamc.ups-tlse.fr -->
@@ -73,7 +73,7 @@ draft: false
 1. Paul Cazeaux (Kansas U, US) <!-- pcazeaux@ku.edu -->
 1. Miguel Escobar Azor (LCPQ, Toulouse) <!-- mescobar@irsamc.ups-tlse.fr -->
 1. Mikael Frosini (CEA, Cadarache) <!-- mikael.frosini@cea.fr -->
-1. Mi-Song Dupuy (Sorbonne Université, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
+1. Mi-Song Dupuy (LJLL, Paris) <!-- mi-song.dupuy@sorbonne-universite.fr -->
 1. Andrea Porro (CEA, Saclay) <!-- andrea.porro@cea.fr -->
 1. Rodrigue Lelotte (CEREMADE, Paris) <!-- lelotte@ceremade.dauphine.fr -->
 1. Thomas Duguet (CEA, Saclay) <!-- thomas.duguet@cea.fr -->
@@ -86,24 +86,25 @@ draft: false
 1. Laurent Vidal (CERMICS, Paris) <!-- laurent.vidal@enpc.fr -->
 1. Karno Schwinn (LPT, Paris) <!-- karno.schwinn@googlemail.com POSTER --> 
 1. Andreas Savin (LPT, Paris) <!-- andreas.savin.as@gmail.com --> 
-1. Mathieu Lewin (Universite Paris-Dauphine, Paris) <!-- mathieu.lewin@math.cnrs.fr -->
+1. Mathieu Lewin (CEREMADE, Paris) <!-- mathieu.lewin@math.cnrs.fr -->
 1. Peter Reinhardt (LPT, Paris) <!-- Peter.Reinhardt@Sorbonne-Universite.fr -->
 1. Miquel Huix-Rotllant (ICR, Aix-Marseille) <!-- miquel.huixrotllant@univ-amu.fr -->
 1. Julie Puyo (LBT, Paris) <!-- puyo.julie@outlook.fr -->
 1. Karima Boukair (Université Hassan II, Casablanca) <!-- karima.boukair@gmail.com -->
-1. Georg Michelitsch (Laboratoire des Solides Irradiés, Palaiseau) <!-- georg.michelitsch@polytechnique.edu -->
+1. Georg Michelitsch (LSI, Palaiseau) <!-- georg.michelitsch@polytechnique.edu -->
 1. Denis Lacroix (IPN, Orsay) <!-- lacroix@ipno.in2p3.fr -->
 1. Philip Hoggan (Institut Pascal, Clermont-Ferrand) <!-- pehoggan@yahoo.com -->
 1. Patrick Cassam-Chenai (Laboratoire de Mathematiques, Nice) <!-- Patrick.Cassam-Chenai@unice.fr -->
 1. Félix Werner (LKB, Paris) <!-- werner@lkb.ens.fr -->
-1. Boris Le Guennic (Institut des Sciences Chimiques, Rennes) <!-- boris.leguennic@univ-rennes1.fr -->
-1. Yorgos Volonakis (Institut des Sciences Chimiques, Rennes) <!-- yorgos.volonakis@univ-rennes1.fr -->
+1. Boris Le Guennic (ISC, Rennes) <!-- boris.leguennic@univ-rennes1.fr -->
+1. Yorgos Volonakis (ISC, Rennes) <!-- yorgos.volonakis@univ-rennes1.fr -->
 1. Lorenzo Sponza (ONERA, Palaiseau) <!-- lorenzo.sponza@onera.fr -->
 1. Alex Chin (INSP, Paris) <!-- alex.chin@insp.upmc.fr -->
 1. Peter Schuck (Institut Neel, Grenoble) <!-- Peter.Schuck@grenoble.cnrs.fr -->
 1. Jean-Paul Ebran (CEA, Saclay) <!-- Jean-Paul.Ebran@cea.fr -->
-1. Michal Jex (Ceremade, Paris Dauphine) <!-- jex@ceremade.dauphine.fr -->
+1. Michal Jex (CEREMADE, Paris Dauphine) <!-- jex@ceremade.dauphine.fr -->
 1. Cyrille Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
-
+1. Isabelle Navizet (MSME, Champs-sur-Marne) <!-- isabelle.navizet@univ-eiffel.fr -->
+1. Vitaly Gorelov (LSI, Palaiseau) <vitaly.gorelov@polytechnique.edu>
 <!-- 1. Gregoire David (Nottingham, UK) g.david@nottingham.ac.uk -->
 
