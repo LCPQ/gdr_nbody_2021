@@ -639,7 +639,7 @@ Monopole resonance represents, thus, the first step towards the investigation of
 
 [1] J. P. Blaizot, D. Gogny, and B. Grammaticos, “Nuclear compressibility and monopole resonances,” Nuclear Physics A, vol. 265, pp. 315–336, July 1976.  
 [2] O. Bohigas, A. Lane, and J. Martorell, “Sum rules for nuclear collective excitations,” Physics Reports, vol. 51, pp. 267–316, Apr. 1979.  
-[3] A. Porro, M. Frosini, T. Duguet, V. Som ́a, Y. Beaujeault-Taudi`ere, J.-P. Ebran, and R. Roth To be published, 2021.  
-[4] Y. Beaujeault-Taudi`ere and J.-P. Ebran To be published, 2021.  
-[5] M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, T. Mongelli, T. R. Rodr ́ıguez, R. Roth, and V. Som`a, “Multi-reference many-body perturbation theory for nuclei: II–Ab initio study of neon isotopes via PGCM and IM-NCSM calculations,” arXiv preprint arXiv:2111.00797, 2021.  
+[3] A. Porro, M. Frosini, T. Duguet, V. Som ́a, Y. Beaujeault-Taudiere, J.-P. Ebran, and R. Roth To be published, 2021.  
+[4] Y. Beaujeault-Taudiere and J.-P. Ebran To be published, 2021.  
+[5] M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, T. Mongelli, T. R. Rodr ́ıguez, R. Roth, and V. Soma, “Multi-reference many-body perturbation theory for nuclei: II–Ab initio study of neon isotopes via PGCM and IM-NCSM calculations,” arXiv preprint arXiv:2111.00797, 2021.  
 
