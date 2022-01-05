@@ -6,7 +6,7 @@ draft: false
 
 # NEWS
 
-* **Jan 2022:** Due to the various restrictions in place since last week, **we are switching to a fully-online meeting**. A zoom link will be provided to the participants. The [program](planning) remains unchanged.
+* **Jan 2022:** Due to the various restrictions in place, **we are switching to a fully-online meeting**. A zoom link will be provided to the participants. The [program](planning) remains unchanged.
 * **Dec 2021:** Registration is now closed and a first version of the [program](planning) and the [abstract](presentations) are now available.
 * **Nov 2021:** Sadly, due to COVID restrictions, we have reached our limit in terms of participants (70). A waiting list has been created. 
 We are currently looking for solutions in order to accommodate more participants.
