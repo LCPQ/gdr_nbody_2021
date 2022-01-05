@@ -111,6 +111,6 @@ draft: false
 1. Vijay Chilkuri (LCPQ, Toulouse) <!-- vijay.gopal.c@gmail.com -->
 1. Lucia Reining (LSI, Palaiseau) <!-- lucia.reining@polytechnique.fr -->
 1. Hélène Bolvin (LCPQ, Toulouse) <!-- bolvin@irsamc.ups-tlse.fr -->
-1. Eleonora Luppi <!-- gedeone.leo@gmail.com -->
-1. Chiara Morassut <!-- chiara.morassut@studenti.units.it -->
-1. Rita Maji <!-- rita.maji@unimore.it -->
+1. Eleonora Luppi (LPT, Paris) <!-- gedeone.leo@gmail.com -->
+1. Chiara Morassut (LPT, Paris) <!-- chiara.morassut@studenti.units.it -->
+1. Rita Maji (LPT, Paris) <!-- rita.maji@unimore.it -->
