@@ -647,6 +647,6 @@ Monopole resonance represents, thus, the first step towards the investigation of
 
 ### Cyril Martins (LCPQ, Toulouse)
 
-**Spectral functions of doped and pure Sr2IrO4 : theory vs experiment**
+**Spectral functions of doped and pure Sr$_2$IrO$_4$ : theory vs experiment**
 
 TBA
