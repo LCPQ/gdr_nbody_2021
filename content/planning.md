@@ -10,7 +10,7 @@ draft: false
 | TIME          | EVENT                    |
 | ------------- | -------------------------|
 |               |                          |
-| 13:45 - 14:15 | Kick-off                 | 
+| 13:45 - 14:00 | Kick-off                 | 
 |               |                          |
 | **SESSION 1** | Chair: PF Loos           |
 | 14:00 - 14:40 | Paola Gori-Giorgi - Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections |
