@@ -118,5 +118,6 @@ draft: false
 1. Claudio Attaccalite (CINaM, Marseille) <!-- claudio.attaccalite@gmail.com -->
 1. Andrea Cucca (LSI, Palaiseau) <!-- andrea.cucca@polytechnique.edu -->
 1. Gabriela Oprea (Oxford, UK) <!-- diana-gabriela.oprea@chch.ox.ac.uk -->
-
+1. Alberto Scalesi (CEA, Saclay) <!-- alberto.scalesi@cea.fr -->
+1. Antoine Roux (CEA, Saclay) <!-- antoine.roux.1@etu.univ-amu.fr -->
 
