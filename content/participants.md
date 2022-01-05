@@ -104,7 +104,7 @@ draft: false
 1. Peter Schuck (Institut Neel, Grenoble) <!-- Peter.Schuck@grenoble.cnrs.fr -->
 1. Jean-Paul Ebran (CEA, Saclay) <!-- Jean-Paul.Ebran@cea.fr -->
 1. Michal Jex (CEREMADE, Paris Dauphine) <!-- jex@ceremade.dauphine.fr -->
-1. Cyrille Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
+1. Cyril Martins (LCPQ, Toulouse) <!-- cyril.martins@irsamc.ups-tlse.fr -->
 1. Isabelle Navizet (MSME, Champs-sur-Marne) <!-- isabelle.navizet@univ-eiffel.fr -->
 1. Vitaly Gorelov (LSI, Palaiseau) <!-- vitaly.gorelov@polytechnique.edu -->
 1. Pierre Lechifflart (CINAM, Aix-Marseille) <!-- lechifflart@cinam.univ-mrs.fr -->
@@ -115,3 +115,4 @@ draft: false
 1. Chiara Morassut (LPT, Paris) <!-- chiara.morassut@studenti.units.it -->
 1. Rita Maji (LPT, Paris) <!-- rita.maji@unimore.it -->
 1. Stefano Di Sabatino (LPT/LCPQ, Toulouse) <!-- disabatino@irsamc.ups-tlse.fr -->
+
