@@ -645,3 +645,8 @@ Monopole resonance represents, thus, the first step towards the investigation of
 [4] Y. Beaujeault-Taudiere and J.-P. Ebran To be published, 2021.  
 [5] M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, T. Mongelli, T. R. Rodr ́ıguez, R. Roth, and V. Soma, “Multi-reference many-body perturbation theory for nuclei: II–Ab initio study of neon isotopes via PGCM and IM-NCSM calculations,” arXiv preprint arXiv:2111.00797, 2021.  
 
+### Cyril Martins (LCPQ, Toulouse)
+
+**Spectral functions of doped and pure Sr2IrO4 : theory vs experiment**
+
+TBA
