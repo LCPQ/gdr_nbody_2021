@@ -114,3 +114,4 @@ draft: false
 1. Eleonora Luppi (LPT, Paris) <!-- gedeone.leo@gmail.com -->
 1. Chiara Morassut (LPT, Paris) <!-- chiara.morassut@studenti.units.it -->
 1. Rita Maji (LPT, Paris) <!-- rita.maji@unimore.it -->
+1. Stefano Di Sabatino (LPT/LCPQ, Toulouse) <!-- disabatino@irsamc.ups-tlse.fr -->
