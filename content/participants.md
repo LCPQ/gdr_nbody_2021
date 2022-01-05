@@ -110,4 +110,7 @@ draft: false
 1. Pierre Lechifflart (CINAM, Aix-Marseille) <!-- lechifflart@cinam.univ-mrs.fr -->
 1. Vijay Chilkuri (LCPQ, Toulouse) <!-- vijay.gopal.c@gmail.com -->
 1. Lucia Reining (LSI, Palaiseau) <!-- lucia.reining@polytechnique.fr -->
-
+1. Hélène Bolvin (LCPQ, Toulouse) <!-- bolvin@irsamc.ups-tlse.fr -->
+1. Eleonora Luppi <!-- gedeone.leo@gmail.com -->
+1. Chiara Morassut <!-- chiara.morassut@studenti.units.it -->
+1. Rita Maji <!-- rita.maji@unimore.it -->
