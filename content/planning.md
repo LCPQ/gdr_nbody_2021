@@ -80,7 +80,7 @@ draft: false
 | 12:30 - 14:00 | Lunch break              |
 |               |                          |
 | **SESSION 9** | Chair: Andre Gomes       |
-| 14:00 - 14:40 | Xavier Blase - Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths 
+| 14:00 - 14:40 | Xavier Blase - Space-time formalisms for efficient cubic scaling GW calculations: physics and chemistry taking parallel paths 
 | 14:40 - 15:05 | Diata Traore - Density-based basis set correction method for molecular properties     |
 | 15:05 - 15:30 | Leo Gaspard - Timescale of local moment screening across and above the Mott transition     |
 |               |                          |

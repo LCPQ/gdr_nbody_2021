@@ -6,7 +6,7 @@ draft: false
 
 # Keynote speakers
 
-[PGoriGiorgi](### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam))
+### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam) {#PGoriGiorgi}
 
 **Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**
 
@@ -151,7 +151,7 @@ applications in condensed matter physics and chemistry.
 
 ### Xavier Blase (Institut Neel, Grenoble)
 
-**Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths**
+**Space-time formalisms for efficient cubic scaling GW calculations: physics and chemistry taking parallel paths**
 
 Among a large spectrum of methods targeting the calculation of electronic energy levels, as given e.g. by photoemission experiments, the many-body Green's function GW formalism [1], originally developed in condensed matter physics for a better description of the band structure of inorganic semiconductors and insulators, has recently gained much visibility in quantum chemistry for its ability to offer an excellent accuracy to cost ratio, allowing the study of systems comprising a few hundred atoms. Very early in the history of GW, the so-called "space-time" approach [2] was proposed for cubic-scaling GW calculations, but such an approach was hardly ever used. We will present an effective reformulation of this technique in the quantum chemistry framework of all electron-calculations with atomic orbitals basis sets, using the Laplace transform approach, a novel analytic continuation technique adapted to the GW problem [3], and a real-space-grid separable-resolution-of-the-identity formalism that walks in the footstep of previous real-space grid techniques for Coulomb integrals calculations (chain-of-sphere, tensor-hyper-contraction, etc.) [4,5] We show that cubic scaling RPA and GW calculations on up to a thousand atoms can be achieved within a few thousand hours with hardly any loss of accuracy, offering a crossover with traditional calculations taking place at small system sizes.
 
