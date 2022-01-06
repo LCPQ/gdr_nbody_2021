@@ -194,6 +194,24 @@ In this work I will give an overview of recent progress made on various topics r
 
 # Contributed talks
 
+### Gabriele Riva (LCPQ, Toulouse)
+
+**Photoemission spectroscopy from the three-body Green’s function**
+
+We present an original approach for the calculation of direct and inverse photo-emission spectra from first principles. The main goal is to go beyond the standard Green’s function approaches, such as the GW method, in order to find a good description not only of the quasiparticles but also of the satellite structures, which are of particular importance in strongly correlated materials. Our method uses as a key quantity the three-body Green’s function, or, more precisely, its hole-hole- electron and electron-electron-hole parts. We show that, contrary to the one-body Green’s function, satellites are already present in the corresponding non-interacting Green’s function. Therefore, simple approximations to the three-body self-energy, which is defined by the Dyson equation for the three-body Green’s function and which contains many-body effects, can still yield accurate spectral functions. In particular, the self-energy can be chosen to be static which could simplify a self-consistent solution of the Dyson equation. We also show how the one-body Green’s function can be retrieved from the three-body Green’s function. We illustrate our approach by applying it to the symmetric Hubbard dimer.
+
+***
+
+### Gaspard Kemlin (CERMICS, Paris)
+
+**Practical error bounds for electronic structure calculations: energy, density matrices and forces**
+
+ In the field of quantum chemistry, solving electronic structure problems gives rise to a certain number of approximations so that in practice, only approximations of quantities that are of interest (QoI) can be computed. Being able to estimate the error between the exact and the approximate quantities is thus crucial, as this information can be used to reduce the high computational cost of numerical methods by an optimization of the approximation parameters, together, and maybe more importantly, to add error bars to QoI calculated from the approximate solution. In our context, such QoI are typically the total energy of the system and the forces on the atoms in the system.
+While such error bounds have been developed already some time ago for boundary value problems, the developments of such error bounds in electronic structure are still recent and incomplete. So far, no error bound has been proposed for the error estimation of QoI in electronic structure calculations, in particular for the forces of the system. This is what we are trying to achieve in this contribution, by developing new error estimators for nonlinear models, nonguaranted but valid asymptotically.
+These bounds are based on an estimation of the error in terms of the residual of the solved equations, which is then efficiently approximated with computable terms. We numerically show how accurate these bounds are on a few representative materials systems, namely silicon, gallium arsenide and titanium dioxide.
+
+***
+
 ### Derk Kooi (Vrije Universiteit, Amsterdam)
 
 **London dispersion forces without density distortion: The Fixed Diagonal Matrices method**
@@ -217,11 +235,37 @@ In benchmarks our so called Fixed Diagonal Matrices (FDM) method performs satisf
 
 ***
 
-### Gabriele Riva (LCPQ, Toulouse)
+### Guillaume Thiam (iLM, Lyon)
 
-**Photoemission spectroscopy from the three-body Green’s function**
+**Multi-basis-set TDDFT methods for predicting electron attachment energies**
 
-We present an original approach for the calculation of direct and inverse photo-emission spectra from first principles. The main goal is to go beyond the standard Green’s function approaches, such as the GW method, in order to find a good description not only of the quasiparticles but also of the satellite structures, which are of particular importance in strongly correlated materials. Our method uses as a key quantity the three-body Green’s function, or, more precisely, its hole-hole- electron and electron-electron-hole parts. We show that, contrary to the one-body Green’s function, satellites are already present in the corresponding non-interacting Green’s function. Therefore, simple approximations to the three-body self-energy, which is defined by the Dyson equation for the three-body Green’s function and which contains many-body effects, can still yield accurate spectral functions. In particular, the self-energy can be chosen to be static which could simplify a self-consistent solution of the Dyson equation. We also show how the one-body Green’s function can be retrieved from the three-body Green’s function. We illustrate our approach by applying it to the symmetric Hubbard dimer.
+ Understanding the interaction of low-energy electron collisions with molecules constitutes a key subject in a large area of fundamental research as well as modern applications in various fields of science such as astrochemistry, radiation-induced damage of biological tissue, selective chemistry, or chemical synthesis at nanoscale.
+Collision of a low energy electron with a molecule can induce various phenomenon such as dissociation, ionization, isomerization, reactivity, etc, through the formation of a transient negative anion composed of the target molecule and the projectile electron, that can evolve toward a dissociative state through selective phenomenon.
+A complete theoretical characterization of the temporary anion, which would describe the electron attachment, the relaxation of electronic and vibrational degrees of freedom, and possible fragmentation processes, is still challenging. Limitations come from the difficulty to treat the electron correlation in an anionic system, the need to combine continuum and discrete states, and the high number of degrees of freedom, which make the numerical calculation very cumbersome.
+Among the most popular computational methods for describing temporary anions , one can find a broad class of methods that compute the electron attachment energies, such as the R-matrix , the so-called empirical correlation method , the Schwinger multichannel method , or the stabilization method . Although these methods provide valuable results, they rely either on cumbersome
+calculations or on empirical methods.
+Here, we propose an efficient approach to predict the resonance energies of the electron attachment using a TDDFT calculation and two different atomic basis sets6: a large basis set to compute the vertical electron affinity, and a smaller one to calculate the excitation energy of the anion. Doing so one computes the relevant resonant attachment energies of the electron without intruder states from the continuum discretized due to the finite size of the simulation box. Benchmarks have been performed over 18 molecules and 53 resonances and show good agreement with experimental data.
+
+[1] Sommerfeld T. et al, J. Phys. Chem. A 115 6675-6682 (2011).  
+[2] Gorfinkiel J. D. et al, J. Phys. B. 35 543 (2002).  
+[3] Modelli A. et al, Chem. Phys. 286 165-172 (2003).  
+[4] Takatsuka K. et al, Phys. Rev. A 24 2473 (1981).  
+[5] Falcetta M. F. et al, Chem. Phys. 482 239-243 (2017).  
+[6] Thiam G., Rabilloud F., J. Phys. Chem. Lett, 12, 41, 9995–10001(2021).  
+
+***
+
+### Thierry Deutsch (CEA, Grenoble)
+
+**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^4$**
+
+In this talk, I intend to show a new formalism that solves the famous many-body problem of quantum mechanics with a complexity varying as a function of $n^4$ where $n$ is the number of states. There was already an object, the reduced two-body density matrix (2-RDM) that had this complexity but for it to be a quantum state with $N$ electrons, a gigantic number of conditions must be taken into account.
+This formalism should considerably reduce the computation time avoiding the exponential complexity of the current exact methods.
+
+Based on anti-commutativity relations, we show that we can construct a class of mathematical objects that are isomorphic to many-body wavefunctions but have the advantage of being compactable. Thanks to this new formalism, we show that the 2-RDM of the wavefunctions solutions of a two-body interaction Hamiltonian can be represented exactly thanks to this new set of mathematical objects. We will give also a new geometric interpretation of the 2-RDM in the space of these new mathematical objects.
+We will develop the Lagrangian, the corresponding Euler-Lagrange equations and illustrate with numerical examples.
+
+[1] Exact solution of the many-body problem with a $O(n^6)$ complexity, T. Deutsch, arXiv:2111.15281 [quant-ph]
 
 ***
 
@@ -233,17 +277,6 @@ We investigate Wigner localization at very low densities by means of the exact d
 
 [1] M. Escobar Azor, L. Brooke, S. Evangelisti, T. Leininger, P.-F. Loos, N. Suaud, and J. A. Berger, A wigner molecule at extremely low densities: a numerically exact study, SciPost Phys. Core 1, 001 (2019).  
 [2] M. Escobar Azor, E. Alves, S. Evangelisti, and J. A. Berger, Wigner localization in two and three dimensions: An ab initio approach, The Journal of Chemical Physics 155, 124114 (2021).  
-
-***
-
-
-### Gaspard Kemlin (CERMICS, Paris)
-
-**Practical error bounds for electronic structure calculations: energy, density matrices and forces**
-
- In the field of quantum chemistry, solving electronic structure problems gives rise to a certain number of approximations so that in practice, only approximations of quantities that are of interest (QoI) can be computed. Being able to estimate the error between the exact and the approximate quantities is thus crucial, as this information can be used to reduce the high computational cost of numerical methods by an optimization of the approximation parameters, together, and maybe more importantly, to add error bars to QoI calculated from the approximate solution. In our context, such QoI are typically the total energy of the system and the forces on the atoms in the system.
-While such error bounds have been developed already some time ago for boundary value problems, the developments of such error bounds in electronic structure are still recent and incomplete. So far, no error bound has been proposed for the error estimation of QoI in electronic structure calculations, in particular for the forces of the system. This is what we are trying to achieve in this contribution, by developing new error estimators for nonlinear models, nonguaranted but valid asymptotically.
-These bounds are based on an estimation of the error in terms of the residual of the solved equations, which is then efficiently approximated with computable terms. We numerically show how accurate these bounds are on a few representative materials systems, namely silicon, gallium arsenide and titanium dioxide.
 
 ***
 
@@ -280,38 +313,6 @@ To further extend RDMFT applicability, we introduce in this work its relativisti
 
 ***
 
-### Guillaume Thiam (iLM, Lyon)
-
-**Multi-basis-set TDDFT methods for predicting electron attachment energies**
-
- Understanding the interaction of low-energy electron collisions with molecules constitutes a key subject in a large area of fundamental research as well as modern applications in various fields of science such as astrochemistry, radiation-induced damage of biological tissue, selective chemistry, or chemical synthesis at nanoscale.
-Collision of a low energy electron with a molecule can induce various phenomenon such as dissociation, ionization, isomerization, reactivity, etc, through the formation of a transient negative anion composed of the target molecule and the projectile electron, that can evolve toward a dissociative state through selective phenomenon.
-A complete theoretical characterization of the temporary anion, which would describe the electron attachment, the relaxation of electronic and vibrational degrees of freedom, and possible fragmentation processes, is still challenging. Limitations come from the difficulty to treat the electron correlation in an anionic system, the need to combine continuum and discrete states, and the high number of degrees of freedom, which make the numerical calculation very cumbersome.
-Among the most popular computational methods for describing temporary anions , one can find a broad class of methods that compute the electron attachment energies, such as the R-matrix , the so-called empirical correlation method , the Schwinger multichannel method , or the stabilization method . Although these methods provide valuable results, they rely either on cumbersome
-calculations or on empirical methods.
-Here, we propose an efficient approach to predict the resonance energies of the electron attachment using a TDDFT calculation and two different atomic basis sets6: a large basis set to compute the vertical electron affinity, and a smaller one to calculate the excitation energy of the anion. Doing so one computes the relevant resonant attachment energies of the electron without intruder states from the continuum discretized due to the finite size of the simulation box. Benchmarks have been performed over 18 molecules and 53 resonances and show good agreement with experimental data.
-
-[1] Sommerfeld T. et al, J. Phys. Chem. A 115 6675-6682 (2011).  
-[2] Gorfinkiel J. D. et al, J. Phys. B. 35 543 (2002).  
-[3] Modelli A. et al, Chem. Phys. 286 165-172 (2003).  
-[4] Takatsuka K. et al, Phys. Rev. A 24 2473 (1981).  
-[5] Falcetta M. F. et al, Chem. Phys. 482 239-243 (2017).  
-[6] Thiam G., Rabilloud F., J. Phys. Chem. Lett, 12, 41, 9995–10001(2021).  
-
-***
-
-
-### Benoit Braida (LCT, Paris) 
-
-**Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide**
-
-Calculating excited states properties and transition energies can be a tough task even for small molecules. If the ground and excited states are of different symmetries, state-specific calculations can be performed, but it is essential that the correlation energies be calculated in a balanced way for both states. This can be difficult when the two states have very different demands of dynamic electron correlation, for instance with ionic excited states displaying a lot of dynamic charge fluctuation. If the two states are of like symmetry, a state-averaged treatment can be used, but the accuracy is penalized by the necessity for both states to share the same orbital set, which is a compromise that cannot be optimal for either of the two states. 
-It will be shown that these two difficulties can be resolved by the breathing-orbital valence bond method (BOVB), which exerts a direct approach to both static and dynamic electron correlations, made possible by the freedom to deal with non-orthogonal orbitals. The dynamic correlation is fully included right at the orbital optimization step, by allowing each VB structure to have its specific set of orbitals, and, in the newly developed state-averaged BOVB method, by also having the unique advantage to be free from the constraint for the different states to share the same unique set of orbitals. 
-This approach is tested on the challenging $1{}^{1}B_{1u}$ ionic state of ethylene, and to the five lowest-lying singlet states of ozone and sulfur dioxide, among which the challenging $1{}^{1}B_2$ and $2{}^{1}A_1$ states. In all cases, it will be shown that the calculated vertical energies are close to the experimental values when available, and at par with the most sophisticated calculations in the molecular orbital framework, despite the extreme compactness of the BOVB wave functions (no more than 4-9 valence bond structures in all cases). Finally, the description of the excited states also come out to be insightful, and displays some important, albeit unexpected, Lewis structures. 
-
-***
-
-
 ### Pepijn Demol (KU Leuven, Leuven)
 
 **Bogoliubov coupled cluster theory for open-shell nuclei**
@@ -327,6 +328,15 @@ Once fully implemented, the non-perturbative (equation-of-motion) BCC method wil
 
 ***
 
+### Benoit Braida (LCT, Paris) 
+
+**Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide**
+
+Calculating excited states properties and transition energies can be a tough task even for small molecules. If the ground and excited states are of different symmetries, state-specific calculations can be performed, but it is essential that the correlation energies be calculated in a balanced way for both states. This can be difficult when the two states have very different demands of dynamic electron correlation, for instance with ionic excited states displaying a lot of dynamic charge fluctuation. If the two states are of like symmetry, a state-averaged treatment can be used, but the accuracy is penalized by the necessity for both states to share the same orbital set, which is a compromise that cannot be optimal for either of the two states. 
+It will be shown that these two difficulties can be resolved by the breathing-orbital valence bond method (BOVB), which exerts a direct approach to both static and dynamic electron correlations, made possible by the freedom to deal with non-orthogonal orbitals. The dynamic correlation is fully included right at the orbital optimization step, by allowing each VB structure to have its specific set of orbitals, and, in the newly developed state-averaged BOVB method, by also having the unique advantage to be free from the constraint for the different states to share the same unique set of orbitals. 
+This approach is tested on the challenging $1{}^{1}B_{1u}$ ionic state of ethylene, and to the five lowest-lying singlet states of ozone and sulfur dioxide, among which the challenging $1{}^{1}B_2$ and $2{}^{1}A_1$ states. In all cases, it will be shown that the calculated vertical energies are close to the experimental values when available, and at par with the most sophisticated calculations in the molecular orbital framework, despite the extreme compactness of the BOVB wave functions (no more than 4-9 valence bond structures in all cases). Finally, the description of the excited states also come out to be insightful, and displays some important, albeit unexpected, Lewis structures. 
+
+***
 
 ### David Lauvergnat (ICP, Orsay)
 
@@ -362,6 +372,33 @@ In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneer
 For an ab-initio calculation on a $N$-particle electronic system, Variational Monte Carlo methods provide a result with a time scaling $O(N^3)$. However, they suffer from numerical uncertainties increasing with system size, caracterised by their variance which generally scales as $O(N)$. The traditional compensation method transfers the uncertainties onto the simulation time, in order to obtain a given level of accuracy, resulting in an effective $O(N^4)$ scaling. We present a new control variate method employing the zero-variance principle and a partition of the system which allows us to reduce the variance for a limited increase in computation time, by $O(N)$ on metallic systems and up to $O(N^2)$ on systems with a finite correlation length, and will present results on the example of the Hubbard model.
 
 ***
+
+### Xiang Yuan (PhLAM, Lille) 
+
+**Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure**
+
+The $O(N^6)$ high computational cost is a bottleneck preventing performing Coupled-Cluster (CC) on large systems, particularly when employing 4-component based relativistic Hamiltonians, for which in practice one often uses uncontracted basis set generating large virtual molecular orbital (VMO) spaces.
+The canonical Hartree-Fock (HF) orbitals are not the most compact representation for post HF method. Alternative, using natural orbitals is an efficient way to reduce the orbital space while retaining accuracy. We therefore implemented the MP2 frozen natural orbital (FNO) method [1] in the Exacorr code [2], with the particularity that our implementation can generate both complex and quaternion FNOs, and also express these in AO basis. It also allows us to obtain CCSD natural orbitals on AO basis, which can be subsequently used in analysis.
+We have investigated the orbital truncation errors for both correlation energy (at CCSD(T) level) and molecular properties (at CCSD level) such as the electric field gradients at the nuclei (EFGs ), dipole and quadrupole moments for hydrogen halides HX (X=F, Cl, Br, I, At, Ts), and parity violation energy shift for the H2X2 systems (X= O, S, Se, Te, Po). We find that using FNOs accelerates the convergence of the correlation energy in a roughly uniform manner across the periodic table and that, with VMO spaces truncated to around half of the complete ones, we obtain reliable estimates for both energies and molecular properties in the complete VMO spaces.
+
+[1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101  
+[2] J. V. Pototschnig, A. Papadopoulos, D. I. Lyakh, M. Repisky, L. Halbert, A. S. P. Gomes, H- J Aa. Jensen, L. Visscher, J. Chem. Theory. Comput. 2021, 17, 5509
+
+***
+
+### Andrea Porro (CEA, Saclay)
+
+**Ab-initio description of the monopole resonance in light- and medium-mass nuclei**
+
+Giant monopole resonances have a long-standing theoretical importance in nuclear structure. The interest resides notably in the so-called breathing mode that has been established as a standard observable to constrain the nuclear incompressibility [1]. The Random Phase Approximation (RPA) within the frame of phenomenological Energy Density Functionals (EDF) has become the standard tool to address (monopole) giant resonances and extensive studies, mostly in doubly-closed-shell systems, have been performed throughout the years, including via the use of so-called sum rules [2]. A proper study of collective excitations in the ab-initio context is, however, missing.
+In this perspective, the first systematic ab-initio predictions of (giant) monopole resonances will be presented [3]. Ab-initio Quasiparticle-RPA (QRPA) [4] and Projected Generator Coordinate Method (P-GCM) [5] calculations of monopole resonances are compared in light- and mid-mass closed- and open- shell nuclei, which allows in particular to investigate the role of superfluidity from an ab-initio standpoint. Sum rules are also employed within both many-body schemes to characterize the fragmentation of the monopole strength. The study further focuses on the dependence of the results on the starting nuclear Hamiltonian derived within the frame of chiral effective field theory.
+Monopole resonance represents, thus, the first step towards the investigation of higher multipolarities. Eventually, the mid-term goal to establish P-GCM as a new method to study resonances in the light- and medium-mass region of the nuclide chart will be discussed: interpretation and analysis of resonance data in lighter nuclei is a very demanding task on which ab-initio P-GCM could shed new promising light.
+
+[1] J. P. Blaizot, D. Gogny, and B. Grammaticos, “Nuclear compressibility and monopole resonances,” Nuclear Physics A, vol. 265, pp. 315–336, July 1976.  
+[2] O. Bohigas, A. Lane, and J. Martorell, “Sum rules for nuclear collective excitations,” Physics Reports, vol. 51, pp. 267–316, Apr. 1979.  
+[3] A. Porro, M. Frosini, T. Duguet, V. Som ́a, Y. Beaujeault-Taudiere, J.-P. Ebran, and R. Roth To be published, 2021.  
+[4] Y. Beaujeault-Taudiere and J.-P. Ebran To be published, 2021.  
+[5] M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, T. Mongelli, T. R. Rodr ́ıguez, R. Roth, and V. Soma, “Multi-reference many-body perturbation theory for nuclei: II–Ab initio study of neon isotopes via PGCM and IM-NCSM calculations,” arXiv preprint arXiv:2111.00797, 2021.  
 
 ### Fabris Kossoski (LCPQ, Toulouse)
 
@@ -407,18 +444,6 @@ The adiabatic connection (AC) that has as weak-interaction expansion the Møller
 
 ***
 
-### Diata Traore (LCT, Paris)
-
-**Density-based basis set correction method for molecular properties**
-
-The density-based basis-set correction method [1], consisting in correcting the basis-set incompleteness error of wave-function calculations using a density functional, has proved its efficiency to speed up the convergence of ground-state energies [2, 3]. Here, we extend the basis-set correction method to calculations of molecular properties, starting with dipole moments. We develop two strategies: (1) configuration-interaction calculations where the basis-set correction is included self-consistently [4], and (2) coupled-cluster calculations where the basis-set correction is estimated non-self-consistently using numerical differentiation of the energy with respect to an electric field. Systematic tests have been performed on a set of molecules.
-
-[1] E. Giner, B. Pradines, A. Ferte, R. Assaraf, A. Savin and J. Toulouse, J. Chem. Phys. 149, 194301 (2018).  
-[2] P.-F. Loos, B. Pradines, A. Scemama, J. Toulouse and E. Giner, The Journal of Physical Chemistry Letters 10, 2931 (2019). [3] E. Giner, A. Scemama, P.-F. Loos and J. Toulouse, The Journal of Chemical Physics 152, 174104 (2020).  
-[4] E. Giner, D. Traore, B. Pradines and J. Toulouse, The Journal of Chemical Physics 155, 044109 (2021).  
-
-***
-
 ### Jonas Feldt (LCT, Paris)
 
 **Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers**
@@ -461,6 +486,18 @@ Among known reactivities, cobalt complexes have been used for more than ten year
 
 ***
 
+### Diata Traore (LCT, Paris)
+
+**Density-based basis set correction method for molecular properties**
+
+The density-based basis-set correction method [1], consisting in correcting the basis-set incompleteness error of wave-function calculations using a density functional, has proved its efficiency to speed up the convergence of ground-state energies [2, 3]. Here, we extend the basis-set correction method to calculations of molecular properties, starting with dipole moments. We develop two strategies: (1) configuration-interaction calculations where the basis-set correction is included self-consistently [4], and (2) coupled-cluster calculations where the basis-set correction is estimated non-self-consistently using numerical differentiation of the energy with respect to an electric field. Systematic tests have been performed on a set of molecules.
+
+[1] E. Giner, B. Pradines, A. Ferte, R. Assaraf, A. Savin and J. Toulouse, J. Chem. Phys. 149, 194301 (2018).  
+[2] P.-F. Loos, B. Pradines, A. Scemama, J. Toulouse and E. Giner, The Journal of Physical Chemistry Letters 10, 2931 (2019). [3] E. Giner, A. Scemama, P.-F. Loos and J. Toulouse, The Journal of Chemical Physics 152, 174104 (2020).  
+[4] E. Giner, D. Traore, B. Pradines and J. Toulouse, The Journal of Chemical Physics 155, 044109 (2021).  
+
+***
+
 ### Leo Gaspard (LCPQ, Toulouse)
 
 **Timescale of local moment screening across and above the Mott transition**
@@ -479,6 +516,87 @@ In a material’s phase diagram the types of realized long-range orders typicall
 
 ***
 
+### Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
+
+**Calculation and effect of interaction parameters on oxygen $p$ orbitals in oxides, examples of UO$_2$ and TiO$_2$**
+
+The standard method for solid state physics ab initio calculation is the Density Functional Theory (DFT). However, the most used functionals such as LDA or GGA fail to give a correct description of the density of states and structural parameters of strongly correlated systems. The DFT+U improves this description by explicitly applying electronic interaction inside specific orbitals.
+This method is extensively used in f and d orbitals of transition metals, lanthanides, actinides and their oxides compounds. However, the interaction effects occurring in the p orbitals of the oxide have been shown to play an important role in the density of states and structural parameters of some of those systems. [1, 2, 3]
+In this presentation, we use our generalized cRPA implementation (as described in [4] and based on [5]), to calculate the screened interaction on both metal ($d$ or $f$) and oxygen ($p$) orbitals . We also discuss the influence of those interactions on density of state and structural parameters on two widely studied systems, UO$_2$ and TiO$_2$. We show that due to the hybridization of $p$ electrons the electronic occupations have to be carefully calculated in order to ensure physical results.
+
+[1] I. A. Nekrasov, M. A. Korotin, and V. I. Anisimov, “Coulomb interaction in oxygen p-shell in LDA+U method and its influence on calculated spectral and magnetic properties of transition metal oxides,” arxiv, 2000.  
+[2] L. A. Agapito, S. Curtarolo, and M. Buongiorno Nardelli, “Reformulation of DFT + U as a Pseudohybrid Hubbard Density Functional for Accelerated Mate- rials Discovery,” Phys. Rev. X, vol. 5, p. 011006, Jan. 2015.  
+[3] O. K. Orhan and D. D. O’Regan, “First-principles Hubbard U and Hund’s J cor- rected approximate density functional theory predicts an accurate fundamental gap in rutile and anatase TiO2,” Phys. Rev. B, vol. 101, p. 245137, June 2020.  
+[4] J.-B. Mor ́ee, R. Outerovitch, and B. Amadon, “First-principles calculation of the Coulomb interaction parameters U and J for actinide dioxides,” Phys. Rev. B, vol. 103, p. 045113, Jan. 2021.  
+[5] P. Seth, P. Hansmann, A. van Roekeghem, L. Vaugier, and S. Biermann, “Towards a First-Principles Determination of Effective Coulomb Interactions in Correlated Elec- tron Materials: Role of Intershell Interactions,” Phys. Rev. Lett., vol. 119, p. 056401, Aug. 2017.  
+
+***
+
+### Cyril Martins (LCPQ, Toulouse)
+
+**Spectral functions of doped and pure Sr$_2$IrO$_4$ : theory vs experiment**
+
+TBA
+
+*** 
+
+### Abdallah Ammar (LCPQ, Toulouse)
+
+**Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo** 
+
+Realizing full Configuration Interaction (CI) for a one-electron basis sets is, in general, not possible
+in practice. One needs to truncate the CI wavefunction according to some protocol. To recover the
+remaining correlation energy, one can explicitly include correlations in the wavefunction or in the
+Hamiltonian.
+In the framework of the transcorrelated approach, the similarity-transformed Hamiltonian is given
+by $\tilde{\mathcal{H}} = \mathcal{J}^{-1} \mathcal{H} \mathcal{J}$ where $\mathcal{J}$ is a correlation operator. Although
+$\tilde{\mathcal{H}}$ is not Hermitian, it allows to effectively incorporate dynamical correlation effects, with relatively small one-electron basis sets.
+Formally, we can write the wavefunction as $\Psi \equiv \mathcal{J} \Phi$ where $\Phi = \sum_{I=1}^{N_\text{det}} c_I D_I$. The Schroedinger 
+equation in this case is written as
+\begin{equation}
+	\mathcal{H} \Psi = E \Psi \Leftrightarrow \tilde{\mathcal{H}} \Phi = E \Phi
+\end{equation}
+In this work, we develop an iterative method to optimize large CI wavefunctions in the presence
+of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part $\Phi$ is
+modified at each iteration by a symmetric dressing of $\tilde{\mathcal{H}}$ with the dressing elements $\langle D_I | \tilde{\mathcal{H}} - \mathcal{H} | \Phi \rangle$
+Moreover, the non-hermeticity of the transcorrelated Hamiltonian is dressed by applying a symmetric
+dressing of the Hamiltonian. The dressing elements, which contain two- and three-electrons integrals,
+are sampled in a Variational Monte Carlo (VMC) calculation.
+
+***
+
+### Tan Nguyen  (ISCR, Rennes)
+
+**Many-body perturbative calculations for multi-excitons in perovskite nanocrystals**
+
+Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in the field of colloidal synthesis owing to their superior photoluminescence quantum yield and blinking-free properties, which make them promising materials for both classical [1,2] and quantum light sources [3,4]. Their brightness and sub-nanosecond radiative decay originates from the inherent correlation effects [5,6]. The many-body Coulomb interaction has generally been studied for semiconductor quantum dots [7,8]. Perovskites, as a consequence of the unique properties of their dielectric functions, possess enhanced Coulomb interaction between the charge carriers [9]. This leads to large binding energies of multi-exciton systems such as trion and biexciton in these NCs or the sizable splitting in the fine structure of single exciton states. Considering each NC as an artificial atom under the envelope function approximation, this problem of correlation effects can be approached at first by using second-order many-body techniques as outlined in Ref. [10]. This offers an elegant and efficient method that provides qualitative results for the trion and biexciton binding energies [11]. In going beyond the second-order description, configuration interaction can be employed to include the correlation energies between the various charge carriers in a more holistic manner.
+
+[1] Kovalenko et al., Properties and potential optoelectronic applications of lead halide perovskite nanocrystals.  Science 358, 6364, 745-750, 2017.  
+[2] Raino et al., Single Cesium Lead Halide Perovskite Nanocrystals at Low Temperature: Fast Single-Photon Emission, Reduced Blinking, and Exciton Fine Structure. ACS Nano 10, 2, 2485–2490, 2016.  
+[3] Utzat et al., Coherent single-photon emission from colloidal lead halide perovskite quantum dots. Science, 363(6431):1068–1072, 2019.  
+[4] Tamarat et al., The dark exciton ground state promotes photon-pair emission in individual perovskite nanocrystals. Nature Communications. 11, 6001, 2020.  
+[5] Becker et al., Bright triplet excitons in caesium lead halide perovskites. Nature, 553(1):189–193, 2018.  
+[6] Tamarat et al., The ground exciton state of formamidinium lead bromide perovskite nanocrystals is a singlet dark state. Nature Materials 18, 717–724, 2019.  
+[7] M. Combescot and R. Combescot, Optical stark effect of the exciton: Biexcitonic origin of the shift. Phys. Rev. B, 40:3788–3801, 1989.  
+[8] Rontani et al., Coulomb correlation effects in semiconductor quantum dots: The role of dimensionali-ty. Phys. Rev. B 59, 10165, 1999.  
+[9] Even et al., Analysis of Multivalley and Multibandgap Absorption and Enhancement of Free Carriers Related to Exciton Screening in Hybrid Perovskites. J. Phys. Chem. C, 118, 11566−11572, 2014.  
+[10] I. Lindgren and J. Morrison, Atomic Many-Body Theory. Springer-Verlag, 1982.  
+[11] Nguyen et al., Calculation of the biexciton shift in nanocrystals of inorganic perovskites. Phys. Rev. B, 101. 125424, 2020.  
+
+***
+
+### Saad Yalouz (LCQ, Strasbourg)
+
+**Describing conical intersections with near term quantum computers**
+
+In quantum computing, solving the electronic structure problem is considered as the “killer application” for near term quantum computers. To treat this problem, a great focus has been paid to hybrid-classical-quantum algorithms such as the well-known “Variational-Quantum-Eigensolver” (VQE). While VQE has been proficiently applied to find electronic eigenstates/energies of various small molecules, using this approach on more complex systems is still a genuine challenge especially when peculiar spectral features such as conical intersections are present.
+In nature, conical intersections play a keyrole in many prominent reactions. For instance, in the process of vision: the retinal molecule is known to undergo a photoisomerisation mediated by a non-radiative relaxation through a conical intersection. In such a situation, characterizing the phenomenon requires to precisely describe the shape of the conical intersection, with both qualitative and quantitative high-level treatments. This makes it a difficult target to current quantum algorithms, such as VQE.
+Motivated by this problem, we recently introduced a new quantum algorithm [1] called the "State-Averaged Orbital-Optimized VQE" (SA-OO-VQE) designed to treat on an equal footing degenerate states on near term quantum computers. In this talk, we introduce the theory of SA-OO-VQE and illustrate how it works on the formaldimine molecule (a minimal model for the retinal with a similar conical intersection). Furthermore, we will introduce new extensions to the SA-OO-VQE algorithm recently developed to estimate nuclear gradients and non-adiabatic couplings out of the quantum algorithm [2]. We show that SA-OO-VQE is able to qualitatively and quantitatively reproduce the molecule’s conical intersection. We will also show that the algorithm can be used in a geometry optimization process to find the minimal energy conical intersection of the molecule.
+
+[1] S. Yalouz, B. Senjean, J. Gunther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).  
+[2] S. Yalouz, E. Koridon, B. Senjean, B. Lasorne, F. Buda, and L. Visscher, Analytical nonadiabatic couplings and gradients within the state-averaged orbital-optimized variational quantum eigensolver, arXiv preprint arXiv:2109.04576 (2021).
+
+***
 
 ### Michael Herbst (Aachen, Germany)
 
@@ -530,123 +648,3 @@ We will discuss and present those various eDFT formalisms through their applicat
 ***
 -->
 
-### Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
-
-**Calculation and effect of interaction parameters on oxygen $p$ orbitals in oxides, examples of UO$_2$ and TiO$_2$**
-
-The standard method for solid state physics ab initio calculation is the Density Functional Theory (DFT). However, the most used functionals such as LDA or GGA fail to give a correct description of the density of states and structural parameters of strongly correlated systems. The DFT+U improves this description by explicitly applying electronic interaction inside specific orbitals.
-This method is extensively used in f and d orbitals of transition metals, lanthanides, actinides and their oxides compounds. However, the interaction effects occurring in the p orbitals of the oxide have been shown to play an important role in the density of states and structural parameters of some of those systems. [1, 2, 3]
-In this presentation, we use our generalized cRPA implementation (as described in [4] and based on [5]), to calculate the screened interaction on both metal ($d$ or $f$) and oxygen ($p$) orbitals . We also discuss the influence of those interactions on density of state and structural parameters on two widely studied systems, UO$_2$ and TiO$_2$. We show that due to the hybridization of $p$ electrons the electronic occupations have to be carefully calculated in order to ensure physical results.
-
-[1] I. A. Nekrasov, M. A. Korotin, and V. I. Anisimov, “Coulomb interaction in oxygen p-shell in LDA+U method and its influence on calculated spectral and magnetic properties of transition metal oxides,” arxiv, 2000.  
-[2] L. A. Agapito, S. Curtarolo, and M. Buongiorno Nardelli, “Reformulation of DFT + U as a Pseudohybrid Hubbard Density Functional for Accelerated Mate- rials Discovery,” Phys. Rev. X, vol. 5, p. 011006, Jan. 2015.  
-[3] O. K. Orhan and D. D. O’Regan, “First-principles Hubbard U and Hund’s J cor- rected approximate density functional theory predicts an accurate fundamental gap in rutile and anatase TiO2,” Phys. Rev. B, vol. 101, p. 245137, June 2020.  
-[4] J.-B. Mor ́ee, R. Outerovitch, and B. Amadon, “First-principles calculation of the Coulomb interaction parameters U and J for actinide dioxides,” Phys. Rev. B, vol. 103, p. 045113, Jan. 2021.  
-[5] P. Seth, P. Hansmann, A. van Roekeghem, L. Vaugier, and S. Biermann, “Towards a First-Principles Determination of Effective Coulomb Interactions in Correlated Elec- tron Materials: Role of Intershell Interactions,” Phys. Rev. Lett., vol. 119, p. 056401, Aug. 2017.  
-
-***
-
-### Tan Nguyen  (ISCR, Rennes)
-
-**Many-body perturbative calculations for multi-excitons in perovskite nanocrystals**
-
-Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in the field of colloidal synthesis owing to their superior photoluminescence quantum yield and blinking-free properties, which make them promising materials for both classical [1,2] and quantum light sources [3,4]. Their brightness and sub-nanosecond radiative decay originates from the inherent correlation effects [5,6]. The many-body Coulomb interaction has generally been studied for semiconductor quantum dots [7,8]. Perovskites, as a consequence of the unique properties of their dielectric functions, possess enhanced Coulomb interaction between the charge carriers [9]. This leads to large binding energies of multi-exciton systems such as trion and biexciton in these NCs or the sizable splitting in the fine structure of single exciton states. Considering each NC as an artificial atom under the envelope function approximation, this problem of correlation effects can be approached at first by using second-order many-body techniques as outlined in Ref. [10]. This offers an elegant and efficient method that provides qualitative results for the trion and biexciton binding energies [11]. In going beyond the second-order description, configuration interaction can be employed to include the correlation energies between the various charge carriers in a more holistic manner.
-
-[1] Kovalenko et al., Properties and potential optoelectronic applications of lead halide perovskite nanocrystals.  Science 358, 6364, 745-750, 2017.  
-[2] Raino et al., Single Cesium Lead Halide Perovskite Nanocrystals at Low Temperature: Fast Single-Photon Emission, Reduced Blinking, and Exciton Fine Structure. ACS Nano 10, 2, 2485–2490, 2016.  
-[3] Utzat et al., Coherent single-photon emission from colloidal lead halide perovskite quantum dots. Science, 363(6431):1068–1072, 2019.  
-[4] Tamarat et al., The dark exciton ground state promotes photon-pair emission in individual perovskite nanocrystals. Nature Communications. 11, 6001, 2020.  
-[5] Becker et al., Bright triplet excitons in caesium lead halide perovskites. Nature, 553(1):189–193, 2018.  
-[6] Tamarat et al., The ground exciton state of formamidinium lead bromide perovskite nanocrystals is a singlet dark state. Nature Materials 18, 717–724, 2019.  
-[7] M. Combescot and R. Combescot, Optical stark effect of the exciton: Biexcitonic origin of the shift. Phys. Rev. B, 40:3788–3801, 1989.  
-[8] Rontani et al., Coulomb correlation effects in semiconductor quantum dots: The role of dimensionali-ty. Phys. Rev. B 59, 10165, 1999.  
-[9] Even et al., Analysis of Multivalley and Multibandgap Absorption and Enhancement of Free Carriers Related to Exciton Screening in Hybrid Perovskites. J. Phys. Chem. C, 118, 11566−11572, 2014.  
-[10] I. Lindgren and J. Morrison, Atomic Many-Body Theory. Springer-Verlag, 1982.  
-[11] Nguyen et al., Calculation of the biexciton shift in nanocrystals of inorganic perovskites. Phys. Rev. B, 101. 125424, 2020.  
-
-***
-
-### Abdallah Ammar (LCPQ, Toulouse)
-
-**Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo** 
-
-Realizing full Configuration Interaction (CI) for a one-electron basis sets is, in general, not possible
-in practice. One needs to truncate the CI wavefunction according to some protocol. To recover the
-remaining correlation energy, one can explicitly include correlations in the wavefunction or in the
-Hamiltonian.
-In the framework of the transcorrelated approach, the similarity-transformed Hamiltonian is given
-by $\tilde{\mathcal{H}} = \mathcal{J}^{-1} \mathcal{H} \mathcal{J}$ where $\mathcal{J}$ is a correlation operator. Although
-$\tilde{\mathcal{H}}$ is not Hermitian, it allows to effectively incorporate dynamical correlation effects, with relatively small one-electron basis sets.
-Formally, we can write the wavefunction as $\Psi \equiv \mathcal{J} \Phi$ where $\Phi = \sum_{I=1}^{N_\text{det}} c_I D_I$. The Schroedinger 
-equation in this case is written as
-\begin{equation}
-	\mathcal{H} \Psi = E \Psi \Leftrightarrow \tilde{\mathcal{H}} \Phi = E \Phi
-\end{equation}
-In this work, we develop an iterative method to optimize large CI wavefunctions in the presence
-of a Jastrow correlation factor, optimized at the Hartree-Fock level. The Slater-determinant part $\Phi$ is
-modified at each iteration by a symmetric dressing of $\tilde{\mathcal{H}}$ with the dressing elements $\langle D_I | \tilde{\mathcal{H}} - \mathcal{H} | \Phi \rangle$
-Moreover, the non-hermeticity of the transcorrelated Hamiltonian is dressed by applying a symmetric
-dressing of the Hamiltonian. The dressing elements, which contain two- and three-electrons integrals,
-are sampled in a Variational Monte Carlo (VMC) calculation.
-
-***
-
-### Saad Yalouz (LCQ, Strasbourg)
-
-**Describing conical intersections with near term quantum computers**
-
-In quantum computing, solving the electronic structure problem is considered as the “killer application” for near term quantum computers. To treat this problem, a great focus has been paid to hybrid-classical-quantum algorithms such as the well-known “Variational-Quantum-Eigensolver” (VQE). While VQE has been proficiently applied to find electronic eigenstates/energies of various small molecules, using this approach on more complex systems is still a genuine challenge especially when peculiar spectral features such as conical intersections are present.
-In nature, conical intersections play a keyrole in many prominent reactions. For instance, in the process of vision: the retinal molecule is known to undergo a photoisomerisation mediated by a non-radiative relaxation through a conical intersection. In such a situation, characterizing the phenomenon requires to precisely describe the shape of the conical intersection, with both qualitative and quantitative high-level treatments. This makes it a difficult target to current quantum algorithms, such as VQE.
-Motivated by this problem, we recently introduced a new quantum algorithm [1] called the "State-Averaged Orbital-Optimized VQE" (SA-OO-VQE) designed to treat on an equal footing degenerate states on near term quantum computers. In this talk, we introduce the theory of SA-OO-VQE and illustrate how it works on the formaldimine molecule (a minimal model for the retinal with a similar conical intersection). Furthermore, we will introduce new extensions to the SA-OO-VQE algorithm recently developed to estimate nuclear gradients and non-adiabatic couplings out of the quantum algorithm [2]. We show that SA-OO-VQE is able to qualitatively and quantitatively reproduce the molecule’s conical intersection. We will also show that the algorithm can be used in a geometry optimization process to find the minimal energy conical intersection of the molecule.
-
-[1] S. Yalouz, B. Senjean, J. Gunther, F. Buda, T. E. O’Brien, and L. Visscher, A state-averaged orbital- optimized hybrid quantum–classical algorithm for a democratic description of ground and excited states, Quantum Science and Technology 6, 024004 (2021).  
-[2] S. Yalouz, E. Koridon, B. Senjean, B. Lasorne, F. Buda, and L. Visscher, Analytical nonadiabatic couplings and gradients within the state-averaged orbital-optimized variational quantum eigensolver, arXiv preprint arXiv:2109.04576 (2021).
-
-***
-
-### Thierry Deutsch (CEA, Grenoble)
-
-**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^4$**
-
-In this talk, I intend to show a new formalism that solves the famous many-body problem of quantum mechanics with a complexity varying as a function of $n^4$ where $n$ is the number of states. There was already an object, the reduced two-body density matrix (2-RDM) that had this complexity but for it to be a quantum state with $N$ electrons, a gigantic number of conditions must be taken into account.
-This formalism should considerably reduce the computation time avoiding the exponential complexity of the current exact methods.
-
-Based on anti-commutativity relations, we show that we can construct a class of mathematical objects that are isomorphic to many-body wavefunctions but have the advantage of being compactable. Thanks to this new formalism, we show that the 2-RDM of the wavefunctions solutions of a two-body interaction Hamiltonian can be represented exactly thanks to this new set of mathematical objects. We will give also a new geometric interpretation of the 2-RDM in the space of these new mathematical objects.
-We will develop the Lagrangian, the corresponding Euler-Lagrange equations and illustrate with numerical examples.
-
-[1] Exact solution of the many-body problem with a $O(n^6)$ complexity, T. Deutsch, arXiv:2111.15281 [quant-ph]
-
-***
-
-### Xiang Yuan (PhLAM, Lille) 
-
-**Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure**
-
-The $O(N^6)$ high computational cost is a bottleneck preventing performing Coupled-Cluster (CC) on large systems, particularly when employing 4-component based relativistic Hamiltonians, for which in practice one often uses uncontracted basis set generating large virtual molecular orbital (VMO) spaces.
-The canonical Hartree-Fock (HF) orbitals are not the most compact representation for post HF method. Alternative, using natural orbitals is an efficient way to reduce the orbital space while retaining accuracy. We therefore implemented the MP2 frozen natural orbital (FNO) method [1] in the Exacorr code [2], with the particularity that our implementation can generate both complex and quaternion FNOs, and also express these in AO basis. It also allows us to obtain CCSD natural orbitals on AO basis, which can be subsequently used in analysis.
-We have investigated the orbital truncation errors for both correlation energy (at CCSD(T) level) and molecular properties (at CCSD level) such as the electric field gradients at the nuclei (EFGs ), dipole and quadrupole moments for hydrogen halides HX (X=F, Cl, Br, I, At, Ts), and parity violation energy shift for the H2X2 systems (X= O, S, Se, Te, Po). We find that using FNOs accelerates the convergence of the correlation energy in a roughly uniform manner across the periodic table and that, with VMO spaces truncated to around half of the complete ones, we obtain reliable estimates for both energies and molecular properties in the complete VMO spaces.
-
-[1] T. L. Barr, E. R. Davidson, Phys. Rev. A 1970, 1, 644; A. G. Taube, R. J. Bartlett, J. Chem. Phys. 2008, 128, 164101  
-[2] J. V. Pototschnig, A. Papadopoulos, D. I. Lyakh, M. Repisky, L. Halbert, A. S. P. Gomes, H- J Aa. Jensen, L. Visscher, J. Chem. Theory. Comput. 2021, 17, 5509
-
-***
-
-### Andrea Porro (CEA, Saclay)
-
-**Ab-initio description of the monopole resonance in light- and medium-mass nuclei**
-
-Giant monopole resonances have a long-standing theoretical importance in nuclear structure. The interest resides notably in the so-called breathing mode that has been established as a standard observable to constrain the nuclear incompressibility [1]. The Random Phase Approximation (RPA) within the frame of phenomenological Energy Density Functionals (EDF) has become the standard tool to address (monopole) giant resonances and extensive studies, mostly in doubly-closed-shell systems, have been performed throughout the years, including via the use of so-called sum rules [2]. A proper study of collective excitations in the ab-initio context is, however, missing.
-In this perspective, the first systematic ab-initio predictions of (giant) monopole resonances will be presented [3]. Ab-initio Quasiparticle-RPA (QRPA) [4] and Projected Generator Coordinate Method (P-GCM) [5] calculations of monopole resonances are compared in light- and mid-mass closed- and open- shell nuclei, which allows in particular to investigate the role of superfluidity from an ab-initio standpoint. Sum rules are also employed within both many-body schemes to characterize the fragmentation of the monopole strength. The study further focuses on the dependence of the results on the starting nuclear Hamiltonian derived within the frame of chiral effective field theory.
-Monopole resonance represents, thus, the first step towards the investigation of higher multipolarities. Eventually, the mid-term goal to establish P-GCM as a new method to study resonances in the light- and medium-mass region of the nuclide chart will be discussed: interpretation and analysis of resonance data in lighter nuclei is a very demanding task on which ab-initio P-GCM could shed new promising light.
-
-[1] J. P. Blaizot, D. Gogny, and B. Grammaticos, “Nuclear compressibility and monopole resonances,” Nuclear Physics A, vol. 265, pp. 315–336, July 1976.  
-[2] O. Bohigas, A. Lane, and J. Martorell, “Sum rules for nuclear collective excitations,” Physics Reports, vol. 51, pp. 267–316, Apr. 1979.  
-[3] A. Porro, M. Frosini, T. Duguet, V. Som ́a, Y. Beaujeault-Taudiere, J.-P. Ebran, and R. Roth To be published, 2021.  
-[4] Y. Beaujeault-Taudiere and J.-P. Ebran To be published, 2021.  
-[5] M. Frosini, T. Duguet, J.-P. Ebran, B. Bally, T. Mongelli, T. R. Rodr ́ıguez, R. Roth, and V. Soma, “Multi-reference many-body perturbation theory for nuclei: II–Ab initio study of neon isotopes via PGCM and IM-NCSM calculations,” arXiv preprint arXiv:2111.00797, 2021.  
-
-### Cyril Martins (LCPQ, Toulouse)
-
-**Spectral functions of doped and pure Sr$_2$IrO$_4$ : theory vs experiment**
-
-TBA
