@@ -6,7 +6,7 @@ draft: false
 
 # Keynote speakers
 
-### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam) {#PGoriGiorgi}
+### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam) 
 
 **Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**
 
