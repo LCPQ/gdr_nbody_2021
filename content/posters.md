@@ -1,10 +1,8 @@
 ---
-title: "Presentations"
+title: "Posters"
 date: 2020-12-02 09:06
 draft: false
 ---
-
-# Posters
 
 * **Julien Toulouse (LCT, Paris):** Basis-set correction based on density-functional theory: Rigorous
 framework for a one-dimensional model  
