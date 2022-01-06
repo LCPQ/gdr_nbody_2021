@@ -6,41 +6,27 @@ draft: false
 
 # Keynote speakers
 
-### David Gontier (CEREMADE, Paris)
+[PGoriGiorgi](### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam))
 
-**DFT for two-dimensional homogeneous slabs**
+**Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**
 
-In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab. 
-This is joint work with Salma Lahbabi and Abdallah Maichine 
+In this talk I will review and put into perspective several results on the large-coupling strength expansion of two adiabatic connections (AC) widely used in electronic structure theory. The first one is the density fixed [1] AC of DFT that connects the Kohn-Sham determinant with the physical state. Its large-coupling strength limit defines a multimarginal optimal transport problem [2-4], also known in physics as the strictly-correlated-electrons (SCE) functional [5-7]. The second one is the AC that connects the Hartree-Fock Slater determinant with the physical state and has as small-coupling expansion the Møller-Plesset perturbation theory [8-10]. I will discuss differences and similarities between the two large-coupling strength expansions and their use in improving approximations in quantum chemistry [11-15].
 
-***
-
-### Antoine Levitt (CERMICS, Paris)
-
-**Numerical methods for scattering and resonance properties in molecules and solids**
-
-The problem of discretizing continuum states appears in a number of
-contexts in electronic structure: scattering problems, photo-ionization
-cross-sections, resonances, etc. The numerical challenge is to represent
-extended states using finite computational domains. I will present a
-recent effort to understand these problems mathematically (with M-S.
-Dupuy) and numerical methods to compute these properties efficiently
-(with I. Duchemin, L. Genovese, E. Letournel and S. Ruget), with example
-applications in condensed matter physics and chemistry.
-
-***
-
-### Xavier Blase (Institut Neel, Grenoble)
-
-**Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths**
-
-Among a large spectrum of methods targeting the calculation of electronic energy levels, as given e.g. by photoemission experiments, the many-body Green's function GW formalism [1], originally developed in condensed matter physics for a better description of the band structure of inorganic semiconductors and insulators, has recently gained much visibility in quantum chemistry for its ability to offer an excellent accuracy to cost ratio, allowing the study of systems comprising a few hundred atoms. Very early in the history of GW, the so-called "space-time" approach [2] was proposed for cubic-scaling GW calculations, but such an approach was hardly ever used. We will present an effective reformulation of this technique in the quantum chemistry framework of all electron-calculations with atomic orbitals basis sets, using the Laplace transform approach, a novel analytic continuation technique adapted to the GW problem [3], and a real-space-grid separable-resolution-of-the-identity formalism that walks in the footstep of previous real-space grid techniques for Coulomb integrals calculations (chain-of-sphere, tensor-hyper-contraction, etc.) [4,5] We show that cubic scaling RPA and GW calculations on up to a thousand atoms can be achieved within a few thousand hours with hardly any loss of accuracy, offering a crossover with traditional calculations taking place at small system sizes.
-
-[1] Lars Hedin, Phys. Rev. 139, A796 (1965).  
-[2]  H. N. Rojas, R. W. Godby, and R. J. Needs Phys. Rev. Lett. 74, 1827 (1995).  
-[3] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2020, 16, 1742.  
-[4] Ivan Duchemin  and Xavier Blase, J. Chem. Phys. 150, 174120 (2019).  
-[5] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2021, 17, 2383.  
+[1] D.C. Langreth and J.P. Perdew, Solid. State Commun. 17, 1425 (1975).  
+[2] G. Buttazzo, L. De Pascale, and P. Gori-Giorgi, Phys. Rev. A 85, 062502 (2012).  
+[3] C. Cotar, G. Friesecke, and C. Klüppelberg, Arch. Ration. Mech. Anal. 228, 891 (2018).
+[4] M. Lewin, C. R. Math. 356, 449 (2018).  
+[5] M. Seidl, J.P. Perdew, and M. Levy, Phys. Rev. A 59, 51 (1999).   
+[6] M. Seidl, P. Gori-Giorgi, and A. Savin Phys. Rev. A 75, 042511 (2007).  
+[7] P. Gori-Giorgi, G. Vignale, and M. Seidl, J. Chem. Theory Comput. 5, 743 (2009).  
+[8] M. Seidl, S. Giarrusso, S. Vuckovic, E. Fabiano, P. Gori-Giorgi, J. Chem. Phys. 149, 241101 (2018).  
+[9] T. J. Daas, J. Grossi, S. Vuckovic, Z. H. Musslimani, D. P. Kooi, M. Seidl, K. J. H. Giesbertz, P. Gori-Giorgi, J. Chem. Phys. 153, 214112 (2020).  
+[10] T. J. Daas, D. P. Kooi, A. J. A. F. Grooteman, M. Seidl, P. Gori-Giorgi, arXiv:2111.13146.  
+[11] S. Vuckovic, T.J.P. Irons, A. Savin, A.M. Teale, and P. Gori-Giorgi, J. Chem. Theory Comput. 12, 2598 (2016).  
+[12] S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett. 9, 3137 (2018).  
+[13] S. Giarrusso, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Chem. Phys. 148, 134106 (2018).  
+[14] E. Fabiano, S. Śmiga, S. Giarrusso, T. J. Daas, F. Della Sala, I. Grabowski, P. Gori-Giorgi, J. Chem. Theory Comput. 15, 1006 (2019).  
+[15] T. J. Daas,  E. Fabiano, F. Della Sala, P. Gori-Giorgi, S. Vuckovic, J. Phys. Chem. Lett., 12, 4867 (2021).  
 
 ***
 
@@ -54,6 +40,42 @@ Here I present a recently proposed many-body approach that aims towards this obj
 [1] M. Frosini et al., arXiv:2110.15737  
 [2] M. Frosini et al., arXiv:2111.00797  
 [3] M. Frosini et al., arXiv:2111.01461  
+
+***
+
+### Roland Assaraf (LCT, Sorbonne Universite)
+
+**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**
+
+Response properties or cumulants are usually size-extensive ($O(N)$) but are
+computed in  Monte Carlo with fluctuations growing like $N^p$ with $p>1$ as a
+function of the system size $N$.
+The limit of this problem is the sign problem where the ferminonic energy
+can be written as an infinite expansion of cumulants and the fluctuations
+are growing exponentially with the system size.
+
+We propose a  method that selects clusters of variables belonging to two
+independent replicas of the system. These clusters behave as if they were
+independent,  enabling a factorization of correlation functions.
+The algorithm generalizes cluster algorithms (usually applied to spin
+problems, like the Wolf algorithm or the exchange cluster algorithm) but
+can be applied  to any model  of interacting particles with any $p$-body
+interactions ($p=1,2,3 \dots $).
+An improved estimator of the heat capacity (a covariance)  is then
+proposed and tested on the Lennard Jones Model.
+ In practice the  scaling of the statistical fluctuations as a function of
+the number of degrees of freedom $N$ is reduced  from $O(N^2)$ to $O(N)$
+above the critical temperature.
+Generalization to higher cumulants will be discussed.
+
+***
+
+### David Gontier (CEREMADE, Paris)
+
+**DFT for two-dimensional homogeneous slabs**
+
+In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab. 
+This is joint work with Salma Lahbabi and Abdallah Maichine 
 
 ***
 
@@ -95,6 +117,52 @@ of the BSE in tackling these new spectroscopies and tools.
 
 ***
 
+### Valerie Vallet (PhLAM, Universite de Lilles)
+
+**Incorporating many-body and environment effects on core and luminescence properties**
+
+X-ray photoelectron spectrometry (XPS), X-ray absorption spectroscopy (XAS) and luminescence time-resolved laser induced fluorescence spectroscopy (TRLFS) are all spectroscopic techniques that can probe the coordination and local environment around a given complex. 
+The first part of the talk will be devoted to the interpretation of luminescence spectra of uranium(VI), since its speciation is a key challenge in the context of the nuclear fuel cycle. Owing to its high sensitivity and selectivity time-resolved laser induced fluorescence spectroscopy (TRLFS) is particularly suited for such studies. However, most of the relevant systems have complex chemical composition in solution and the identification of each species from spectroscopic data is challenging. We will detail our efforts in developing an ab initio-based interpretation of TRLFS data. We will illustrate that TD-DFT with the CAM-B3LYP functional is able to remedy the flaws  that plagued previous applications of DFT in the determination of vertical excitation and emission energies for these systems. We will illustrate how one can predict vibrationally resolved spectra useful it is to assign the recorded TRLFS data [1, 2, 3].
+
+The second part of this presentation will focus on core spectra of hydrated halides, owing to their relevance to atmospheric chemistry. We resort to quantum chemical methods in the framework of quantum embedding approaches [4] since these, at the same time, allow for the halogen can in principle be treated at a sufficiently high level of theory (to account, for example, for both correlation and relaxation effects [5] due to the creation of the core hole), while still retaining a quantum description for the whole system (so that we can obtain information from, or couplings to, the environment) and achieving an overall reduction of computational effort. We will present the recent implementation (in the non-relativistic framework) and carry out a first assessment of the performance of two quantum embedding approaches, frozen density embedding (FDE) and the block-orthogonalized Manby-Miller embedding (BOMME), for the calculation of XAS for model systems, employing real-time time-dependent density functional theory (rt-TDDFT) [6].
+
+[1] H. Oher, F. Réal, T. Vercouter, V. Vallet, Inorg. Chem. 59, 5896 (2020).  
+[2] H. Oher, T. Vercouter, F. Réal, C. Shang, P. E. Reiller, V. Vallet, Inorg. Chem. 59, 15036 (2020).  
+[3] H. Oher, G. Ferru, L. Couston, L. Berthon, D. Guillaumont, F. Réal, T. Vercouter, V Vallet, ChemRxiv (2021), 10.33774/chemrxiv-2021-9sjjh, preprint.  
+[4] A. S. P. Gomes and C. R. Jacob, Annu. Rep. Prog. Chem., Sect. C: Phys. Chem. 108, 222 (2012).  
+[5] L. Halbert, M.L. Vidal, A. Shee, S. Coriani, A.S.P. Gomes, J. Chem. Theory Comput. 17, 3583 (2021) [6] M. De Santis, V. Vallet, A.S.P. Gomes, https://arxiv.org/abs/2111.13947  
+
+***
+
+### Antoine Levitt (CERMICS, Paris)
+
+**Numerical methods for scattering and resonance properties in molecules and solids**
+
+The problem of discretizing continuum states appears in a number of
+contexts in electronic structure: scattering problems, photo-ionization
+cross-sections, resonances, etc. The numerical challenge is to represent
+extended states using finite computational domains. I will present a
+recent effort to understand these problems mathematically (with M-S.
+Dupuy) and numerical methods to compute these properties efficiently
+(with I. Duchemin, L. Genovese, E. Letournel and S. Ruget), with example
+applications in condensed matter physics and chemistry.
+
+***
+
+### Xavier Blase (Institut Neel, Grenoble)
+
+**Space-time formalisms for efficient cubic scaling GW calculations : physics and chemistry taking parallel paths**
+
+Among a large spectrum of methods targeting the calculation of electronic energy levels, as given e.g. by photoemission experiments, the many-body Green's function GW formalism [1], originally developed in condensed matter physics for a better description of the band structure of inorganic semiconductors and insulators, has recently gained much visibility in quantum chemistry for its ability to offer an excellent accuracy to cost ratio, allowing the study of systems comprising a few hundred atoms. Very early in the history of GW, the so-called "space-time" approach [2] was proposed for cubic-scaling GW calculations, but such an approach was hardly ever used. We will present an effective reformulation of this technique in the quantum chemistry framework of all electron-calculations with atomic orbitals basis sets, using the Laplace transform approach, a novel analytic continuation technique adapted to the GW problem [3], and a real-space-grid separable-resolution-of-the-identity formalism that walks in the footstep of previous real-space grid techniques for Coulomb integrals calculations (chain-of-sphere, tensor-hyper-contraction, etc.) [4,5] We show that cubic scaling RPA and GW calculations on up to a thousand atoms can be achieved within a few thousand hours with hardly any loss of accuracy, offering a crossover with traditional calculations taking place at small system sizes.
+
+[1] Lars Hedin, Phys. Rev. 139, A796 (1965).  
+[2]  H. N. Rojas, R. W. Godby, and R. J. Needs Phys. Rev. Lett. 74, 1827 (1995).  
+[3] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2020, 16, 1742.  
+[4] Ivan Duchemin  and Xavier Blase, J. Chem. Phys. 150, 174120 (2019).  
+[5] Ivan Duchemin  and Xavier Blase, J. Chem. Theory Comput. 2021, 17, 2383.  
+
+***
+
 ### Michele Casula (IMPMC, Sorbonne Universite)
 
 **Phase diagram of high-pressure hydrogen including nuclear quantum effects**
@@ -113,30 +181,6 @@ as well as quantum entanglement.
 
 ***
 
-### <a name="PGoriGiorgi">Paola Gori-Giorgi</a> (Vrije Universiteit, Amsterdam)
-
-**Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**
-
-In this talk I will review and put into perspective several results on the large-coupling strength expansion of two adiabatic connections (AC) widely used in electronic structure theory. The first one is the density fixed [1] AC of DFT that connects the Kohn-Sham determinant with the physical state. Its large-coupling strength limit defines a multimarginal optimal transport problem [2-4], also known in physics as the strictly-correlated-electrons (SCE) functional [5-7]. The second one is the AC that connects the Hartree-Fock Slater determinant with the physical state and has as small-coupling expansion the Møller-Plesset perturbation theory [8-10]. I will discuss differences and similarities between the two large-coupling strength expansions and their use in improving approximations in quantum chemistry [11-15].
-
-[1] D.C. Langreth and J.P. Perdew, Solid. State Commun. 17, 1425 (1975).  
-[2] G. Buttazzo, L. De Pascale, and P. Gori-Giorgi, Phys. Rev. A 85, 062502 (2012).  
-[3] C. Cotar, G. Friesecke, and C. Klüppelberg, Arch. Ration. Mech. Anal. 228, 891 (2018).
-[4] M. Lewin, C. R. Math. 356, 449 (2018).  
-[5] M. Seidl, J.P. Perdew, and M. Levy, Phys. Rev. A 59, 51 (1999).   
-[6] M. Seidl, P. Gori-Giorgi, and A. Savin Phys. Rev. A 75, 042511 (2007).  
-[7] P. Gori-Giorgi, G. Vignale, and M. Seidl, J. Chem. Theory Comput. 5, 743 (2009).  
-[8] M. Seidl, S. Giarrusso, S. Vuckovic, E. Fabiano, P. Gori-Giorgi, J. Chem. Phys. 149, 241101 (2018).  
-[9] T. J. Daas, J. Grossi, S. Vuckovic, Z. H. Musslimani, D. P. Kooi, M. Seidl, K. J. H. Giesbertz, P. Gori-Giorgi, J. Chem. Phys. 153, 214112 (2020).  
-[10] T. J. Daas, D. P. Kooi, A. J. A. F. Grooteman, M. Seidl, P. Gori-Giorgi, arXiv:2111.13146.  
-[11] S. Vuckovic, T.J.P. Irons, A. Savin, A.M. Teale, and P. Gori-Giorgi, J. Chem. Theory Comput. 12, 2598 (2016).  
-[12] S. Vuckovic, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Phys. Chem. Lett. 9, 3137 (2018).  
-[13] S. Giarrusso, P. Gori-Giorgi, F. Della Sala, E. Fabiano, J. Chem. Phys. 148, 134106 (2018).  
-[14] E. Fabiano, S. Śmiga, S. Giarrusso, T. J. Daas, F. Della Sala, I. Grabowski, P. Gori-Giorgi, J. Chem. Theory Comput. 15, 1006 (2019).  
-[15] T. J. Daas,  E. Fabiano, F. Della Sala, P. Gori-Giorgi, S. Vuckovic, J. Phys. Chem. Lett., 12, 4867 (2021).  
-
-***
-
 ### Arjan Berger (LCPQ, Universite Paul Sabatier)
 
 **New approaches for treating correlation in molecule and solids**
@@ -145,50 +189,6 @@ In this work I will give an overview of recent progress made on various topics r
 1) We propose an original approach for the study of periodic Coulomb systems. We use a Clifford torus with a renormalized distance in the Coulomb potential. We have successfully applied this strategy to the calculation of Madelung constants and Wigner crystals. We also propose a new position operator that is compatible with periodic boundary conditions.
 2) To capture satellites or shake-up excitations in photo-emission spectra we propose to use the three-body Green’s function instead of the usual one-body Green’s function, i.e. we increase the size of the excitation space from the quasi-particle energies to include also electron-hole pairs. In our approach static effective many-body potentials can capture satellite structures in the spectral function.
 3) We show that the extended Koopmans’ theorem (EKT), from which charged excitations can be obtained, is linked to the many-body effective energy theory (MEET) that we derived to calculate the spectral function. Using this link we have extended the EKT to the calculation of the spectral function.
-
-***
-
-### Valerie Vallet (PhLAM, Universite de Lilles)
-
-**Incorporating many-body and environment effects on core and luminescence properties**
-
-X-ray photoelectron spectrometry (XPS), X-ray absorption spectroscopy (XAS) and luminescence time-resolved laser induced fluorescence spectroscopy (TRLFS) are all spectroscopic techniques that can probe the coordination and local environment around a given complex. 
-The first part of the talk will be devoted to the interpretation of luminescence spectra of uranium(VI), since its speciation is a key challenge in the context of the nuclear fuel cycle. Owing to its high sensitivity and selectivity time-resolved laser induced fluorescence spectroscopy (TRLFS) is particularly suited for such studies. However, most of the relevant systems have complex chemical composition in solution and the identification of each species from spectroscopic data is challenging. We will detail our efforts in developing an ab initio-based interpretation of TRLFS data. We will illustrate that TD-DFT with the CAM-B3LYP functional is able to remedy the flaws  that plagued previous applications of DFT in the determination of vertical excitation and emission energies for these systems. We will illustrate how one can predict vibrationally resolved spectra useful it is to assign the recorded TRLFS data [1, 2, 3].
-
-The second part of this presentation will focus on core spectra of hydrated halides, owing to their relevance to atmospheric chemistry. We resort to quantum chemical methods in the framework of quantum embedding approaches [4] since these, at the same time, allow for the halogen can in principle be treated at a sufficiently high level of theory (to account, for example, for both correlation and relaxation effects [5] due to the creation of the core hole), while still retaining a quantum description for the whole system (so that we can obtain information from, or couplings to, the environment) and achieving an overall reduction of computational effort. We will present the recent implementation (in the non-relativistic framework) and carry out a first assessment of the performance of two quantum embedding approaches, frozen density embedding (FDE) and the block-orthogonalized Manby-Miller embedding (BOMME), for the calculation of XAS for model systems, employing real-time time-dependent density functional theory (rt-TDDFT) [6].
-
-[1] H. Oher, F. Réal, T. Vercouter, V. Vallet, Inorg. Chem. 59, 5896 (2020).  
-[2] H. Oher, T. Vercouter, F. Réal, C. Shang, P. E. Reiller, V. Vallet, Inorg. Chem. 59, 15036 (2020).  
-[3] H. Oher, G. Ferru, L. Couston, L. Berthon, D. Guillaumont, F. Réal, T. Vercouter, V Vallet, ChemRxiv (2021), 10.33774/chemrxiv-2021-9sjjh, preprint.  
-[4] A. S. P. Gomes and C. R. Jacob, Annu. Rep. Prog. Chem., Sect. C: Phys. Chem. 108, 222 (2012).  
-[5] L. Halbert, M.L. Vidal, A. Shee, S. Coriani, A.S.P. Gomes, J. Chem. Theory Comput. 17, 3583 (2021) [6] M. De Santis, V. Vallet, A.S.P. Gomes, https://arxiv.org/abs/2111.13947  
-
-***
-
-### Roland Assaraf (LCT, Sorbonne Universite)
-
-**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**
-
-Response properties or cumulants are usually size-extensive ($O(N)$) but are
-computed in  Monte Carlo with fluctuations growing like $N^p$ with $p>1$ as a
-function of the system size $N$.
-The limit of this problem is the sign problem where the ferminonic energy
-can be written as an infinite expansion of cumulants and the fluctuations
-are growing exponentially with the system size.
-
-We propose a  method that selects clusters of variables belonging to two
-independent replicas of the system. These clusters behave as if they were
-independent,  enabling a factorization of correlation functions.
-The algorithm generalizes cluster algorithms (usually applied to spin
-problems, like the Wolf algorithm or the exchange cluster algorithm) but
-can be applied  to any model  of interacting particles with any $p$-body
-interactions ($p=1,2,3 \dots $).
-An improved estimator of the heat capacity (a covariance)  is then
-proposed and tested on the Lennard Jones Model.
- In practice the  scaling of the statistical fluctuations as a function of
-the number of degrees of freedom $N$ is reduced  from $O(N^2)$ to $O(N)$
-above the critical temperature.
-Generalization to higher cumulants will be discussed.
 
 ***
 
