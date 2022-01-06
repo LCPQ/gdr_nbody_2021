@@ -17,7 +17,7 @@ Effects of Range-Separated Hybrid Schemes on Atomic Photoionization Cross Sectio
 Orbital optimization in selected configuration interaction  
 <br>
 * **Enzo Monino (LCPQ, Toulouse):**  
-Symmetry breaking in Green’s function methods: the case of H2 
+Symmetry breaking in Green’s function methods: the case of H2   
 <br>
 * **Emmanuel Giner (LCT, Paris):**   
 <a href="giner.pdf">Overview of a new density-based basis-set correction for wave function theory</a>
