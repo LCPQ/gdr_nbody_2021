@@ -6,7 +6,7 @@ draft: false
 
 # Location
 
-The conference will be held in the amphithéâtre Laurent Schwartz on the campus of the Universite Paul Sabatier 
+The conference ~~will~~ was supposed to be held in the amphithéâtre Laurent Schwartz on the campus of the Universite Paul Sabatier 
 
 # Map
 
