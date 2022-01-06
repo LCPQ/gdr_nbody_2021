@@ -122,4 +122,4 @@ draft: false
 1. Antoine Roux (CEA, Saclay) <!-- antoine.roux.1@etu.univ-amu.fr -->
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
 1. Evgeny Posenitskiy (LCPQ, Toulouse) <!-- posenitskiy@irsamc.ups-tlse.fr -->
-
+1. Tom Pitts (Durham University, UK) <!-- tompitts94@gmail.com -->

@@ -18,7 +18,7 @@ framework for a one-dimensional model
 * **Enzo Monino (LCPQ, Toulouse):**  Symmetry breaking in Green’s function methods: the case of H2 
 <br>
 * **Emmanuel Giner (LCT, Paris):** 
-<a href="posters/giner.pdf">Overview of a new density-based basis-set correction for wave function theory</a>
+<a href="static/posters/giner.pdf">Overview of a new density-based basis-set correction for wave function theory</a>
 <br>
 
 
