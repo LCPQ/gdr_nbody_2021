@@ -17,7 +17,7 @@ draft: false
 | 14:40 - 15:05 | Gabriele Riva - Photoemission spectroscopy from the three-body Green's function |
 | 15:05 - 15:30 | Gaspard Kemlin - Practical error bounds for electronic structure calculations: energy, density matrices and forces     |
 |               |                          |
-| 15:30 - 16:00 | Coffee break + poster flash presentations |
+| 15:30 - 16:00 | Coffee break + poster flash presentations (Sajanthan Sekaran & Karno Schwinn) |
 |               |                          | 
 | **SESSION 2** | Chair: Thomas Duguet     |
 | 16:00 - 16:40 | Vittorio Soma - Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory |
@@ -36,7 +36,7 @@ draft: false
 |  9:40 - 10:05 | Miguel Escobar Azor - Wigner localization in two and three dimensions: an ab initio approach     |
 | 10:05 - 10:30 | Wilken Misael - Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory     |
 |               |                          |
-| 10:30 - 11:00 | Coffee break + poster flash presentations |
+| 10:30 - 11:00 | Coffee break + poster flash presentations (Enzo Monino & Emmanuel Giner) |
 |               |                          | 
 | **SESSION 4** | Chair: Eric Cances       |
 | 11:00 - 11:40 | David Gontier - DFT for two-dimensional homogeneous slabs |
@@ -50,7 +50,7 @@ draft: false
 | 14:40 - 15:05 | Benoit Braida - Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide     |
 | 15:05 - 15:30 | David Lauvergnat - Quantum Dynamics with a Smolyak scheme: numerical developments and applications    |
 |               |                          |
-| 15:30 - 16:00 | Coffee break + poster flash presentations |
+| 15:30 - 16:00 | Coffee break + poster flash presentations (Yann Damour & Julien Toulouse) |
 |               |                          | 
 | **SESSION 6** | Chair: Pina Romaniello   |
 | 16:00 - 16:40 | Francesco Sottile - Excitonic effects in electronic structure calculations: spectra and beyond |
