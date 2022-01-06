@@ -38,7 +38,7 @@ draft: false
 |               |                          |
 | 10:30 - 11:00 | Coffee break + poster flash presentations (Enzo Monino & Emmanuel Giner) |
 |               |                          | 
-| **SESSION 4** | Chair: Eric Cances       |
+| **SESSION 4** | Chair: Emmanuel Giner       |
 | 11:00 - 11:40 | David Gontier - DFT for two-dimensional homogeneous slabs |
 | 11:40 - 12:05 | Mauricio Rodriguez-Mayorga - Introducing Relativistic Reduced Density Matrix Functional Theory |
 | 12:05 - 12:30 | Pepijn Demol - Bogoliubov coupled cluster theory for open-shell nuclei |
@@ -72,7 +72,7 @@ draft: false
 |               |                          |
 | 10:30 - 11:00 | Coffee break + poster flash presentations |
 |               |                          | 
-| **SESSION 8** | Chair: Emmanuel Giner    |
+| **SESSION 8** | Chair: Eric Cances       |
 | 11:00 - 11:40 | Antoine Levitt - Numerical methods for scattering and resonance properties in molecules and solids |
 | 11:40 - 12:05 | Jonas Feldt - Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers     |
 | 12:05 - 12:30 | Leo Chaussy - Benchmark on cobalt systems relevant for reactivity     |
