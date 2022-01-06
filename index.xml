@@ -51,8 +51,9 @@ Map Display larger map </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>gdrnbody@lct.jussieu.fr</author>
       <guid>https://lcpq.github.io/gdr_nbody_2021/presentations/</guid>
-      <description>Keynote speakers David Gontier (CEREMADE, Paris) DFT for two-dimensional homogeneous slabs
-In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab.</description>
+      <description>Keynote speakers [PGoriGiorgi](### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam))
+Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections
+In this talk I will review and put into perspective several results on the large-coupling strength expansion of two adiabatic connections (AC) widely used in electronic structure theory. The first one is the density fixed [1] AC of DFT that connects the Kohn-Sham determinant with the physical state. Its large-coupling strength limit defines a multimarginal optimal transport problem [2-4], also known in physics as the strictly-correlated-electrons (SCE) functional [5-7].</description>
     </item>
     
     <item>
