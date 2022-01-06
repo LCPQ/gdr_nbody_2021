@@ -13,7 +13,7 @@ draft: false
 | 13:45 - 14:00 | Kick-off                 | 
 |               |                          |
 | **SESSION 1** | Chair: PF Loos           |
-| 14:00 - 14:40 | Paola Gori-Giorgi - Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections |
+| 14:00 - 14:40 | [Paola Gori-Giorgi](#PGoriGiorgi) - Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections |
 | 14:40 - 15:05 | Gabriele Riva - Photoemission spectroscopy from the three-body Green's function |
 | 15:05 - 15:30 | Gaspard Kemlin - Practical error bounds for electronic structure calculations: energy, density matrices and forces     |
 |               |                          |

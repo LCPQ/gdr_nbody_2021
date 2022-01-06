@@ -113,7 +113,7 @@ as well as quantum entanglement.
 
 ***
 
-### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam)
+### <a name="PGoriGiorgi">Paola Gori-Giorgi</a> (Vrije Universiteit, Amsterdam)
 
 **Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**
 
