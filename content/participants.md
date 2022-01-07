@@ -123,3 +123,9 @@ draft: false
 1. Maria Hellgren (IMPMC, Paris) <!-- maria.hellgren@upmc.fr -->
 1. Evgeny Posenitskiy (LCPQ, Toulouse) <!-- posenitskiy@irsamc.ups-tlse.fr -->
 1. Tom Pitts (Durham University, UK) <!-- tompitts94@gmail.com -->
+1. Jakob Wolff (Jena, Germany) <!-- jakob.wolff@uni-jena.de -->
+1. Frederic Gendron (CEA, Bruyères le Chatel) <!-- frederic.gendron@cea.fr -->
+1. Franz Fischer (Hamburg, Germany) <!-- franz.fischer@mpsd.mpg.de --> 
+
+
+
