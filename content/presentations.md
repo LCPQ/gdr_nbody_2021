@@ -343,7 +343,7 @@ Once fully implemented, the non-perturbative (equation-of-motion) BCC method wil
 
 ### Thibaud Etienne (LPCT, Nancy) 
 
-** Representation of a molecular-electronic transition: reduced-density-matrix theory meets matrix perturbation theory **
+**Representation of a molecular-electronic transition: reduced-density-matrix theory meets matrix perturbation theory**
 
 During this talk I would like first to revisit the foundations of the natural-orbital representation of molecular-electronic transitions in order to prove the non-universality of the commonly admitted interpretation of the so-called natural transition orbitals. This part of the speech, related to qualitative analysis frameworks, will also lead us to the conclusion that there is no universal departure/arrival natural-orbital representation of molecular-electronic transitions. We will eventually show that without the disambiguation preliminarily introduced, the most widely used excited-state quantum-chemical calculation method — namely, time-dependent density-functional response theory — would yield electronic-transition pictures that would be either incomplete, equivocal, or arbitrary. The second part of the talk will be devoted to the study of the consequences of introducing a post-linear-response treatment of light-induced electronic-structure reorganization: orbital relaxation. In this context, results from matrix perturbation theory will be explicitly used to derive boundary values for the exact quantity of electronic charge transferred during a molecular-electronic transition.
 
