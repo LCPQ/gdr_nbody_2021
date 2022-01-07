@@ -126,6 +126,6 @@ draft: false
 1. Jakob Wolff (Jena, Germany) <!-- jakob.wolff@uni-jena.de -->
 1. Frederic Gendron (CEA, Bruyères le Chatel) <!-- frederic.gendron@cea.fr -->
 1. Franz Fischer (Hamburg, Germany) <!-- franz.fischer@mpsd.mpg.de --> 
-
+1. Lionel Lacombe (LSI, Palaiseau) <!-- liolacombe@gmail.com -->
 
 
