@@ -36,7 +36,6 @@ draft: false
 1. David Lauvergnat (LCP, Paris) <!-- david.lauvergnat@universite-paris-saclay.fr -->
 1. Clotilde Marut (LCPQ, Toulouse) <!-- cmarut@irsamc.ups-tlse.fr -->
 1. Louis Garrigue (CERMICS, Paris) <!-- louis.garrigue@enpc.fr -->
-1. Benoit Braida (LCT, Paris) <!-- bbraida@icloud.com -->
 1. Derk Kooi (Vrije Universiteit, Amsterdam) <!-- derkkooi@gmail.com -->
 1. Rosa Maskri (LMSME, Marne-la-vallee) <!-- rosa.maskri@u-pem.fr -->
 1. Tim Daas (Vrije Universiteit, Amsterdam) <!-- t.j.daas@vu.nl -->
@@ -128,6 +127,7 @@ draft: false
 1. Franz Fischer (Hamburg, Germany) <!-- franz.fischer@mpsd.mpg.de --> 
 1. Lionel Lacombe (LSI, Palaiseau) <!-- liolacombe@gmail.com -->
 1. Art Willems (KU Leuven, Leuven) <!-- art.willems@student.kuleuven.be -->
+1. Jorge Dukelsky (CISC, Spain) <!-- j.dukelsky@csic.es --> 
 
 
 
