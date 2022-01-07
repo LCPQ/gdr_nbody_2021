@@ -47,7 +47,7 @@ draft: false
 |               |                          |
 | **SESSION 5** | Chair: Paola Nava        |
 | 14:00 - 14:40 | Elisa Rebolini - Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE |
-| 14:40 - 15:05 | Benoit Braida - Valence Bond alternative yielding compact and accurate wave functions for challenging excited states. Application to ethylene, ozone and sulfur dioxide     |
+| 14:40 - 15:05 | Thibaud Etienne - Representation of a molecular-electronic transition: reduced-density-matrix theory meets matrix perturbation theory |
 | 15:05 - 15:30 | David Lauvergnat - Quantum Dynamics with a Smolyak scheme: numerical developments and applications    |
 |               |                          |
 | 15:30 - 16:00 | Coffee break + poster flash presentations (Yann Damour & Julien Toulouse) |
