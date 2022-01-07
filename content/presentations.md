@@ -536,7 +536,7 @@ In this presentation, we use our generalized cRPA implementation (as described i
 
 **Spectral functions of doped and pure Sr$_2$IrO$_4$ : theory vs experiment**
 
-TBA
+The spin–orbit Mott insulator Sr$_2$IrO$_4$ has attracted a lot of interest in recent years from theory and experiment due to its close connection to isostructural high-temperature copper oxide superconductors. Despite not being superconductive, its spectral features closely resemble those of the cuprates, including Fermi surface and pseudogap properties. In this talk, I will present the most recent theoretical description of the spectral function of pure and electron-doped Sr$_2$IrO$_4$ based on a cluster extension of dynamical mean-field theory ('oriented-cluster DMFT') and compare it to available angle-resolved photoemission data. 
 
 *** 
 
