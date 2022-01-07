@@ -282,16 +282,29 @@ We investigate Wigner localization at very low densities by means of the exact d
 
 ### Wilken Misael (PhLAM, Lille)
 
-**Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory**
+**X-ray Absorption and Photoelectron Spectra of Actinide Compounds With Frozen-Density-Embedding and Relativistic Hamiltonians: The Uranyl Ion Case**
 
-Synergic effects concerning electronic structure and morphology in the PTB7-Th polymer and the non-fullerene acceptor ITIC molecule has resulted in state-of-art systems for organic solar cells (OSCs), achieving over 12% PCE values [1]. Furthermore, the substitution of harmful halogenated solvents to environmentally friendly solvents that do not compromise PCE values has become a subject of great interest in the literature [2].
-In this work, we employed sulfur K-edge Angle-Resolved Near-Edge X-ray Absorption Fine Structure (NEXAFS), Resonant Auger (RAS), and the Core-Hole Clock spectroscopies in an attempt to gain information on the effect of different processing methods on the elec- tronic and morphological properties of these systems. These spectroscopic measurements (NEXAFS, RAES and XPS) were carried out at the SXS beamline of the Brazilian Syn- chrotron Light Laboratory (LNLS).
-In order to compare the use of an conventional acceptor molecule, we have performed Steady State and Time-Resolved Photoluminescence (TRPL) experiments for neat PTB7- Th and blends with ITIC and PCBM. TRPL measurements were carried at the Swansea’s Material Research Centre.
-To a better comprehension of the sulfur excited states involved in the electronic tran- sitions probed by the synchrotron-based-spectroscopic methods, theoretical calculations were performed utilizing Restricted-Excitation-Window Time-Dependent Density Functional Theory (REW-TD-DFT). In order to probe the extent of relativistic effects present in these transitions, we employed different Hamiltonians (ZORA, DKH, X2C) in our calculations.
-We also explored different chemical descriptors (the Donor-Acceptor and Aromatic- Quinoid approaches) to obtain information at valence level in both ground and low-lying excited states. All calculations were performed in NWChem 7.0, Gaussian16 and Amsterdam Density Functional (ADF).
+Actinides are broadly used in several fields of science and technology, among other as catalysts in
+chemical processes [1]. To characterize their behavior one often employs spectroscopic techniques,
+and among existing methods X-ray spectroscopy is particularly promising in the context of actinides
+given its great sensitivity and selectivity. With the introduction of advanced X-ray spectroscopy
+techniques and light sources in recent years, it has recently become possible to investigate different
+core states of uranium-containing complexes[2]. Analyzing such spectra requires theoretical models
+capable of describing the electronic structure of actinide species in the ground and excited states[3].
+This, in turn requires the use of approaches describing both electron correlation and relativistic ef-
+fects [4]. In this work we employ the Core–Valence-Separated Equation-of-Motion Coupled-Cluster
+Singles and Doubles (CVS-EOM-CCSD) framework [5] recently implemented in the DIRAC code
+[6] and Time-Dependent Density Functional Theory (TD-DFT) calculations to investigate the core
+excited and ionized states of the uranyl ion (UO$_2^+$) in the gas phase and at in Cs$_2$UO$_2$Cl$_4$ crystal, 
+the latter being treated with the frozen density embedding (FDE) method, as previously done for valence processes [7]. Our calculations are in accordance with previous experimental and theoretical reports, showing first the importance of the Hamiltonian in order to obtain qualitative results at U L3- and M4-edges, and second that embedded models can adequately reproduce the interaction of the uranyl ion and its equatorial ligands in the crystal environment for core states.
 
-[1] Jianhui Hou et al. “Organic solar cells based on non-fullerene acceptors”. In: Nature materials 17.2 (2018), pp. 119–128.  
-[2] Jingbo Zhao et al. “Efficient organic solar cells processed from hydrocarbon solvents”. In: Nature Energy 1.2 (2016), pp. 1–7.  
+[1] Jennifer Leduc et al. In: ACS Catalysis 9.6 (2019), pp. 4719–4741.  
+[2] JG Tobin et al. In: Surface Science 698 (2020), p. 121607.  
+[3] RG Denning. In: The Journal of Physical Chemistry A 111.20 (2007), pp. 4125–4143.  
+[4] Lan Cheng. In: The Journal of chemical physics 151.10 (2019), p. 104103.  
+[5] Loıc Halbert et al. In: Journal of Chemical Theory and Computation 17.6 (2021), pp. 3583– 3598.  
+[6] Trond Saue et al. In: The Journal of Chemical Physics 152.20 (2020), p. 204104.  
+[7] ASP Gomes et al. In: Physical Chemistry Chemical Physics 15.36 (2013), pp. 15153–15162.  
 
 ***
 
