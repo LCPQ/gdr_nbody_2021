@@ -129,6 +129,7 @@ draft: false
 1. Art Willems (KU Leuven, Leuven) <!-- art.willems@student.kuleuven.be -->
 1. Jorge Dukelsky (CISC, Spain) <!-- j.dukelsky@csic.es --> 
 1. Gianluca Stellin (Bonn, Germany) <!-- Gianluca.stellin@gmail.com -->
+1. Jack Wetherell (LSI, Palaiseau) <!-- jack.wetherell@gmail.com -->
 
 
 
