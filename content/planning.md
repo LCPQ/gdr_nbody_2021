@@ -34,7 +34,7 @@ draft: false
 | **SESSION 3** | Chair: Michel Caffarel   |
 |  9:00 -  9:40 | Roland Assaraf - Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators |
 |  9:40 - 10:05 | Miguel Escobar Azor - Wigner localization in two and three dimensions: an ab initio approach     |
-| 10:05 - 10:30 | Wilken Misael - X-ray Absorption and Photoelectron Spectra of Actinide Compounds With Frozen-Density-Embedding and Relativistic Hamiltonians: The Uranyl Ion Case |
+| 10:05 - 10:30 | Wilken Misael - Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory |
 |               |                          |
 | 10:30 - 11:00 | Coffee break + poster flash presentations (Enzo Monino & Emmanuel Giner) |
 |               |                          | 
