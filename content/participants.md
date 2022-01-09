@@ -130,6 +130,7 @@ draft: false
 1. Jorge Dukelsky (CISC, Spain) <!-- j.dukelsky@csic.es --> 
 1. Gianluca Stellin (Bonn, Germany) <!-- Gianluca.stellin@gmail.com -->
 1. Jack Wetherell (LSI, Palaiseau) <!-- jack.wetherell@gmail.com -->
+1. Emma David (ISMO, Orsay) <!-- emma.david@universite-paris-saclay.fr -->
 
 
 
