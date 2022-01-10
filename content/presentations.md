@@ -257,7 +257,7 @@ Here, we propose an efficient approach to predict the resonance energies of the 
 
 ### Thierry Deutsch (CEA, Grenoble)
 
-<a href="deutsch.pdf">**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^4$**</a>
+<a href="deutsch.pdf">**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^6$**</a>
 
 In this talk, I intend to show a new formalism that solves the famous many-body problem of quantum mechanics with a complexity varying as a function of $n^4$ where $n$ is the number of states. There was already an object, the reduced two-body density matrix (2-RDM) that had this complexity but for it to be a quantum state with $N$ electrons, a gigantic number of conditions must be taken into account.
 This formalism should considerably reduce the computation time avoiding the exponential complexity of the current exact methods.

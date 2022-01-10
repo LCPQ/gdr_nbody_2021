@@ -23,7 +23,7 @@ draft: false
 | 16:00 - 16:40 | Vittorio Soma - Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory |
 | 16:40 - 16:05 | Derk Kooi - London dispersion forces without density distortion: The Fixed Diagonal Matrices method     |
 | 17:05 - 17:30 | Guillaume Thiam - Multi-basis-set TDDFT methods for predicting electron attachment energies     |
-| 17:30 - 17:55 | Thierry Deutsch - New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity n⁴ |
+| 17:30 - 17:55 | Thierry Deutsch - New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^6$|
 |               |                          |
 
 # Tuesday, January 11, 2022
