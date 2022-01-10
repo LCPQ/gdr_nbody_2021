@@ -131,6 +131,7 @@ draft: false
 1. Gianluca Stellin (Bonn, Germany) <!-- Gianluca.stellin@gmail.com -->
 1. Jack Wetherell (LSI, Palaiseau) <!-- jack.wetherell@gmail.com -->
 1. Emma David (ISMO, Orsay) <!-- emma.david@universite-paris-saclay.fr -->
+1. Denis Hagebaum-Reignier (iSm2, Aix-Marseille) <!-- denis.hagebaum-reignier@univ-amu.fr -->
 
 
 
