@@ -134,6 +134,6 @@ draft: false
 1. Denis Hagebaum-Reignier (iSm2, Aix-Marseille) <!-- denis.hagebaum-reignier@univ-amu.fr -->
 1. Caroline Robin (Universität Bielefeld/GSI Darmstadt, Germany) <!-- crobin@physik.uni-bielefeld.de -->
 1. Olga Syzgantseva (Lomonosov Moscow State University, Russia) <!-- osyzgantseva@gmail.com -->
-
+1. Abdallah El Sahili (LSI, Palaiseau) <!-- abdallah.el-sahili@polytechnique.edu -->
 
 
