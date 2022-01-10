@@ -8,7 +8,7 @@ draft: false
 
 ### Paola Gori-Giorgi (Vrije Universiteit, Amsterdam) 
 
-**Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**
+<a href="gori-giorgi.pdf">**Large-coupling strength expansion in DFT and Hartree-Fock adiabatic connections**</a>  
 
 In this talk I will review and put into perspective several results on the large-coupling strength expansion of two adiabatic connections (AC) widely used in electronic structure theory. The first one is the density fixed [1] AC of DFT that connects the Kohn-Sham determinant with the physical state. Its large-coupling strength limit defines a multimarginal optimal transport problem [2-4], also known in physics as the strictly-correlated-electrons (SCE) functional [5-7]. The second one is the AC that connects the Hartree-Fock Slater determinant with the physical state and has as small-coupling expansion the Møller-Plesset perturbation theory [8-10]. I will discuss differences and similarities between the two large-coupling strength expansions and their use in improving approximations in quantum chemistry [11-15].
 
@@ -32,7 +32,7 @@ In this talk I will review and put into perspective several results on the large
 
 ### Vittorio Somà  (CEA, Saclay)
 
-**Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory**
+<a href="soma.pdf">**Ab initio description of doubly open-shell nuclei via a novel multi-reference perturbation theory**</a>
 
 Recent developments in many-body theory and in the modelling of nuclear Hamiltonians have enabled the ab initio description of a considerable fraction of atomic nuclei up to mass $A \sim 100$. In this context, one of the main challenges consists in devising a method that can tackle doubly open-shell systems and at the same time scales gently with mass number. This would allow both to access all systems below $A \sim 100$ and to open up perspectives for extending ab initio calculations to the whole nuclear chart.
 Here I present a recently proposed many-body approach that aims towards this objective. After introducing the formalism based on a multi-reference perturbation theory [1], I will discuss the first numerical applications [2,3] together with considerations on the state of the art and future perspective in ab initio nuclear structure.
@@ -45,7 +45,7 @@ Here I present a recently proposed many-body approach that aims towards this obj
 
 ### Roland Assaraf (LCT, Sorbonne Universite)
 
-**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**
+<a href="assaraf.pdf">**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**>
 
 Response properties or cumulants are usually size-extensive ($O(N)$) but are
 computed in  Monte Carlo with fluctuations growing like $N^p$ with $p>1$ as a
@@ -72,7 +72,7 @@ Generalization to higher cumulants will be discussed.
 
 ### David Gontier (CEREMADE, Paris)
 
-**DFT for two-dimensional homogeneous slabs**
+<a href="gonthier.pdf">**DFT for two-dimensional homogeneous slabs**</a>
 
 In this talk, we study DFT models for homogeneous 2-d slabs in the 3-d space, and derive reduced equations in the direction orthogonal to the slab. We show in particular that the Pauli principle is replaced by a penalization term in the energy. We show how to solve these new equations, and we provide some properties for the minimizer, such as the decay of the density away from the slab. 
 This is joint work with Salma Lahbabi and Abdallah Maichine 
@@ -81,7 +81,7 @@ This is joint work with Salma Lahbabi and Abdallah Maichine
 
 ### Elisa Rebolini (Institut Laue Langevin, Grenoble)
 
-**Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE**
+<a href="rebolini.pdf">**Ab initio calculation of low-lying excitations in strongly-correlated systems: RelaxSE**</a>
 
 Strongly-correlated systems present the peculiar characteristic that their low- energy physical and chemical properties are not driven by the kinetic energy of their Fermi-level electrons. In these systems, the electron-electron correlation, sub-dominant or even negligible in most systems, is much larger than the kinetic energy. As a consequence, they cannot be properly described by a single Slater determinant and such methods usually give poor results for the ground state as well as the low-lying magnetic states.
 Accurate calculation of this kind of excitation requires specifically-designed methods. The CAS+DDCI (Complete Active Space + Difference Dedicated Configurations Interaction) [1] method has been proved successful for systems with a small number of magnetic orbitals per atom. However it quickly reaches a computational wall when the number of magnetic orbitals increases. The SAS+S (Selected Active Space + Single) [2] method which has been developed in our group a few years ago, is able to go beyond the CAS+DDCI limitations. After a brief introduction on the problem at stake, I will recall the principle of the SAS+S method and present the new RelaxSE [3] software which we developed in order to treat these excitations.
@@ -94,7 +94,7 @@ Accurate calculation of this kind of excitation requires specifically-designed m
 
 ### Francesco Sottile (Laboratoire des Solides Irradies, Palaiseau)
 
-**Excitonic effects in electronic structure calculations: spectra and beyond.**
+<a href="sottile.pdf">**Excitonic effects in electronic structure calculations: spectra and beyond.**</a>
 
 Excitonic effects have proved to be crucial for the quantitative description of 
 optical absorption [1]. This picture has been confirmed for core excitations [2]. 
@@ -119,7 +119,7 @@ of the BSE in tackling these new spectroscopies and tools.
 
 ### Valerie Vallet (PhLAM, Universite de Lilles)
 
-**Incorporating many-body and environment effects on core and luminescence properties**
+<a href="vallet.pdf">**Incorporating many-body and environment effects on core and luminescence properties**</a>
 
 X-ray photoelectron spectrometry (XPS), X-ray absorption spectroscopy (XAS) and luminescence time-resolved laser induced fluorescence spectroscopy (TRLFS) are all spectroscopic techniques that can probe the coordination and local environment around a given complex. 
 The first part of the talk will be devoted to the interpretation of luminescence spectra of uranium(VI), since its speciation is a key challenge in the context of the nuclear fuel cycle. Owing to its high sensitivity and selectivity time-resolved laser induced fluorescence spectroscopy (TRLFS) is particularly suited for such studies. However, most of the relevant systems have complex chemical composition in solution and the identification of each species from spectroscopic data is challenging. We will detail our efforts in developing an ab initio-based interpretation of TRLFS data. We will illustrate that TD-DFT with the CAM-B3LYP functional is able to remedy the flaws  that plagued previous applications of DFT in the determination of vertical excitation and emission energies for these systems. We will illustrate how one can predict vibrationally resolved spectra useful it is to assign the recorded TRLFS data [1, 2, 3].
@@ -136,7 +136,7 @@ The second part of this presentation will focus on core spectra of hydrated hali
 
 ### Antoine Levitt (CERMICS, Paris)
 
-**Numerical methods for scattering and resonance properties in molecules and solids**
+<a href="levitt.pdf">**Numerical methods for scattering and resonance properties in molecules and solids**</a>
 
 The problem of discretizing continuum states appears in a number of
 contexts in electronic structure: scattering problems, photo-ionization
@@ -151,7 +151,7 @@ applications in condensed matter physics and chemistry.
 
 ### Xavier Blase (Institut Neel, Grenoble)
 
-**Space-time formalisms for efficient cubic scaling GW calculations: physics and chemistry taking parallel paths**
+<a href="blase.pdf">**Space-time formalisms for efficient cubic scaling GW calculations: physics and chemistry taking parallel paths**</a>
 
 Among a large spectrum of methods targeting the calculation of electronic energy levels, as given e.g. by photoemission experiments, the many-body Green's function GW formalism [1], originally developed in condensed matter physics for a better description of the band structure of inorganic semiconductors and insulators, has recently gained much visibility in quantum chemistry for its ability to offer an excellent accuracy to cost ratio, allowing the study of systems comprising a few hundred atoms. Very early in the history of GW, the so-called "space-time" approach [2] was proposed for cubic-scaling GW calculations, but such an approach was hardly ever used. We will present an effective reformulation of this technique in the quantum chemistry framework of all electron-calculations with atomic orbitals basis sets, using the Laplace transform approach, a novel analytic continuation technique adapted to the GW problem [3], and a real-space-grid separable-resolution-of-the-identity formalism that walks in the footstep of previous real-space grid techniques for Coulomb integrals calculations (chain-of-sphere, tensor-hyper-contraction, etc.) [4,5] We show that cubic scaling RPA and GW calculations on up to a thousand atoms can be achieved within a few thousand hours with hardly any loss of accuracy, offering a crossover with traditional calculations taking place at small system sizes.
 
@@ -165,7 +165,7 @@ Among a large spectrum of methods targeting the calculation of electronic energy
 
 ### Michele Casula (IMPMC, Sorbonne Universite)
 
-**Phase diagram of high-pressure hydrogen including nuclear quantum effects**
+<a href="casula.pdf">**Phase diagram of high-pressure hydrogen including nuclear quantum effects**</a>
 
 We compute the phase diagram of hydrogen and deuterium at low temperatures and high pressures (P > 300GPa) correctly accounting for accurate electronic correlations by quantum Monte Carlo, and for nuclear quantum effects and anharmonicity by the self-consistent harmonic approximation. We predict that phase III transits into the molecular metallic phase VI at 412(+/- 40) GPa, then to the atomic phase at pressures as large as 577(+/- 10) GPa. The transition pressures increase by 30 GPa and 63 GPa, respectively, if hydrogen is replaced with deuterium. Our results strongly support the experimental claim of a phase transition occurring at about 425 GPa into a metallic non-superconducting phase. However, for the atomic superconducting phase our data suggest much larger transition pressures than those predicted so far.
 
@@ -173,7 +173,7 @@ We compute the phase diagram of hydrogen and deuterium at low temperatures and h
 
 ### Nathalie Pillet (CEA/DAM/DIF, Bruyères-le-Châtel)
 
-**A Multi-Configuration Self-Consistent Field approach for nuclei**
+<a href="pillet.pdf">**A Multi-Configuration Self-Consistent Field approach for nuclei**</a>
 
 In my presentation, I will speak about the development of MCSCF approach in nuclear physics,
 the state of the art and the challenges. I will show some applications related to nuclear spectroscopy and reactions
@@ -183,7 +183,7 @@ as well as quantum entanglement.
 
 ### Arjan Berger (LCPQ, Universite Paul Sabatier)
 
-**New approaches for treating correlation in molecule and solids**
+<a href="berger.pdf">a**New approaches for treating correlation in molecule and solids**</a>
 
 In this work I will give an overview of recent progress made on various topics related to (strong) electron correlation.
 1) We propose an original approach for the study of periodic Coulomb systems. We use a Clifford torus with a renormalized distance in the Coulomb potential. We have successfully applied this strategy to the calculation of Madelung constants and Wigner crystals. We also propose a new position operator that is compatible with periodic boundary conditions.
@@ -196,7 +196,7 @@ In this work I will give an overview of recent progress made on various topics r
 
 ### Gabriele Riva (LCPQ, Toulouse)
 
-**Photoemission spectroscopy from the three-body Green’s function**
+<a href="riva.pdf">**Photoemission spectroscopy from the three-body Green’s function**</a>
 
 We present an original approach for the calculation of direct and inverse photo-emission spectra from first principles. The main goal is to go beyond the standard Green’s function approaches, such as the GW method, in order to find a good description not only of the quasiparticles but also of the satellite structures, which are of particular importance in strongly correlated materials. Our method uses as a key quantity the three-body Green’s function, or, more precisely, its hole-hole- electron and electron-electron-hole parts. We show that, contrary to the one-body Green’s function, satellites are already present in the corresponding non-interacting Green’s function. Therefore, simple approximations to the three-body self-energy, which is defined by the Dyson equation for the three-body Green’s function and which contains many-body effects, can still yield accurate spectral functions. In particular, the self-energy can be chosen to be static which could simplify a self-consistent solution of the Dyson equation. We also show how the one-body Green’s function can be retrieved from the three-body Green’s function. We illustrate our approach by applying it to the symmetric Hubbard dimer.
 
@@ -204,7 +204,7 @@ We present an original approach for the calculation of direct and inverse photo-
 
 ### Gaspard Kemlin (CERMICS, Paris)
 
-**Practical error bounds for electronic structure calculations: energy, density matrices and forces**
+<a href="kemlin.pdf">**Practical error bounds for electronic structure calculations: energy, density matrices and forces**</a>
 
  In the field of quantum chemistry, solving electronic structure problems gives rise to a certain number of approximations so that in practice, only approximations of quantities that are of interest (QoI) can be computed. Being able to estimate the error between the exact and the approximate quantities is thus crucial, as this information can be used to reduce the high computational cost of numerical methods by an optimization of the approximation parameters, together, and maybe more importantly, to add error bars to QoI calculated from the approximate solution. In our context, such QoI are typically the total energy of the system and the forces on the atoms in the system.
 While such error bounds have been developed already some time ago for boundary value problems, the developments of such error bounds in electronic structure are still recent and incomplete. So far, no error bound has been proposed for the error estimation of QoI in electronic structure calculations, in particular for the forces of the system. This is what we are trying to achieve in this contribution, by developing new error estimators for nonlinear models, nonguaranted but valid asymptotically.
@@ -214,7 +214,7 @@ These bounds are based on an estimation of the error in terms of the residual of
 
 ### Derk Kooi (Vrije Universiteit, Amsterdam)
 
-**London dispersion forces without density distortion: The Fixed Diagonal Matrices method**
+<a href="kooi.pdf">**London dispersion forces without density distortion: The Fixed Diagonal Matrices method**</a>
 
 The development of Density Functional Theory (DFT) has allowed for the routine use of calculations to support and explain experimental findings in chemistry at a reasonable computational cost. DFT, however, is not without its limitations. In particular there are two phenomena that remain its Achilles heel, strong correlation and London dispersion interactions. The difficulty in describing strong correlation is shared with the competing (post-Hartree-Fock) wavefunction methods, but the difficulty in describing dispersion interactions is rather specific to DFT. 
 
@@ -237,7 +237,7 @@ In benchmarks our so called Fixed Diagonal Matrices (FDM) method performs satisf
 
 ### Guillaume Thiam (iLM, Lyon)
 
-**Multi-basis-set TDDFT methods for predicting electron attachment energies**
+<a href="thiam.pdf">**Multi-basis-set TDDFT methods for predicting electron attachment energies**</a>
 
  Understanding the interaction of low-energy electron collisions with molecules constitutes a key subject in a large area of fundamental research as well as modern applications in various fields of science such as astrochemistry, radiation-induced damage of biological tissue, selective chemistry, or chemical synthesis at nanoscale.
 Collision of a low energy electron with a molecule can induce various phenomenon such as dissociation, ionization, isomerization, reactivity, etc, through the formation of a transient negative anion composed of the target molecule and the projectile electron, that can evolve toward a dissociative state through selective phenomenon.
@@ -257,7 +257,7 @@ Here, we propose an efficient approach to predict the resonance energies of the 
 
 ### Thierry Deutsch (CEA, Grenoble)
 
-**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^4$**
+<a href="deutsch.pdf">**New formalism for the exact calculation of total energies and associated electronic state of many-body interactions with complexity $n^4$**</a>
 
 In this talk, I intend to show a new formalism that solves the famous many-body problem of quantum mechanics with a complexity varying as a function of $n^4$ where $n$ is the number of states. There was already an object, the reduced two-body density matrix (2-RDM) that had this complexity but for it to be a quantum state with $N$ electrons, a gigantic number of conditions must be taken into account.
 This formalism should considerably reduce the computation time avoiding the exponential complexity of the current exact methods.
@@ -271,7 +271,7 @@ We will develop the Lagrangian, the corresponding Euler-Lagrange equations and i
 
 ### Miguel Escobar Azor (LCPQ, Toulouse)
 
-**Wigner localization in two and three dimensions: an ab initio approach**
+<a href="escobar.pdf">**Wigner localization in two and three dimensions: an ab initio approach**</a>
 
 We investigate Wigner localization at very low densities by means of the exact diagonalization of the Hamiltonian. This yields numerically exact results. In particular, we study a system of two electrons in one, two and three dimensions. Our approach consists of three main principles: (i) the creation of a supercell that has the topology of a $d$-dimensional Clifford torus, which is a flat, finite, and borderless manifold; (ii) the renormalization of the distance between two points on the Clifford torus by defining it as the Euclidean distance in the embedding space of the $d$-Clifford torus; (iii) we use a grid of equidistant spherical gaussians as a basis for the Hamiltonian.[1] We have extended the approach to two and three dimensions by using the translational symmetry of the system to efficiently calculate the electronic wave function. We have validated our approach by comparing our results to a semi-classical model that becomes exact in the low-density limit. With our approach we are able to observe the Wigner localization by means of the two-body reduced density matrix without ambiguity.[2] We have recently generalised our approach to electron gases with more than 2 electrons and we have obtained promising preliminary results.
 
@@ -282,7 +282,7 @@ We investigate Wigner localization at very low densities by means of the exact d
 
 ### Wilken Misael (PhLAM, Lille)
 
-**Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory**
+<a href="misael.pdf">**Recent Progress in the Development of Eco-Friendly Processed Organic Solar Cells: Experiments and Theory**</a>
 
  Synergic effects concerning electronic structure and morphology in the PTB7-Th polymer and the non-fullerene acceptor ITIC molecule has resulted in state-of-art systems for organic solar cells (OSCs), achieving over 12% PCE values [1]. Furthermore, the substitution of harmful halogenated solvents to environmentally friendly solvents that do not compromise PCE values has become a subject of great interest in the literature [2].
  In this work, we employed sulfur K-edge Angle-Resolved Near-Edge X-ray Absorption Fine Structure (NEXAFS), Resonant Auger (RAS), and the Core-Hole Clock spectroscopies in an attempt to gain information on the effect of different processing methods on the elec- tronic and morphological properties of these systems. These spectroscopic measurements (NEXAFS, RAES and XPS) were carried out at the SXS beamline of the Brazilian Syn- chrotron Light Laboratory (LNLS).
@@ -297,7 +297,7 @@ We investigate Wigner localization at very low densities by means of the exact d
 
 ### Mauricio Rodríguez-Mayorga (Vrije Universiteit, Amsterdam)
 
-**Introducing Relativistic Reduced Density Matrix Functional Theory**
+<a href="rodriguez.pdf">**Introducing Relativistic Reduced Density Matrix Functional Theory**</a>
 
 The applicability of reduced density matrix functional theory (RDMFT) is increasing among the chemists and physicist communities. Recent studies using the Hubbard model have proven that some RDMFT functional approximations are suitable for studying systems where strong electron correlation effects are dominant[1-2]. Moreover, as another example, RDMFT has been recently adapted as an alternative methodology to study superconductivity[3].
 To further extend RDMFT applicability, we introduce in this work its relativistic version. Relativistic RDMFT is presented using the Dirac 4-component Hamiltonian and including the effects of creation and annihilation of electron-positron pairs. To this end, we have properly adapted the recent work of Toulouse[4], where relativistic density functional theory including effective quantum electron dynamics was established. Then, considering the so-called no-pair approximation[4] we also present the relativistic version of some of the most accurate RDMFT functional approximations[6-7]. Finally, we analyze some properties of these functional approximations.
@@ -315,7 +315,7 @@ To further extend RDMFT applicability, we introduce in this work its relativisti
 
 ### Pepijn Demol (KU Leuven, Leuven)
 
-**Bogoliubov coupled cluster theory for open-shell nuclei**
+<a href="demol.pdf">**Bogoliubov coupled cluster theory for open-shell nuclei**</a>
 
 The objective of the so-called ab initio approach to nuclear structure is to provide an accurate and universal description of nuclear systems from first principles [1]. In this context, solving the many-body Schrödinger equation requires systematically improvable many-body methods. Over the past 20 years, the development of novel expansion methods displaying a mild computational scaling with systems size have allowed access to mid-mass closed-shell nuclei. Such methods typically expand the exact ground-state wave-function around a reference/unperturbed Slater determinant and include correlations through elementary particle-hole excitations. This can be obtained from perturbative techniques [2] or from non-perturbative approaches such as coupled-cluster (CC) theory [3]. While closed-shell nuclei are well under control, the extension to open-shell nuclei remains a major challenge. 
 Only very recently, a novel many-body method coined as Bogoliubov coupled cluster (BCC) theory [4] has been formulated that extends the standard coupled cluster scheme to singly open-shell nuclei. This is achieved by breaking particle-number symmetry of the unperturbed state as a way to already incorporate crucial static correlations into it. In my talk I will present recent results obtained for the ground-state of oxygen isotopes based on nuclear interaction models derived from chiral effective field theory. 
@@ -330,7 +330,7 @@ Once fully implemented, the non-perturbative (equation-of-motion) BCC method wil
 
 ### Thibaud Etienne (LPCT, Nancy) 
 
-**Representation of a molecular-electronic transition: reduced-density-matrix theory meets matrix perturbation theory**
+<a href="etienne.pdf">**Representation of a molecular-electronic transition: reduced-density-matrix theory meets matrix perturbation theory**</a>
 
 During this talk I would like first to revisit the foundations of the natural-orbital representation of molecular-electronic transitions in order to prove the non-universality of the commonly admitted interpretation of the so-called natural transition orbitals. This part of the speech, related to qualitative analysis frameworks, will also lead us to the conclusion that there is no universal departure/arrival natural-orbital representation of molecular-electronic transitions. We will eventually show that without the disambiguation preliminarily introduced, the most widely used excited-state quantum-chemical calculation method — namely, time-dependent density-functional response theory — would yield electronic-transition pictures that would be either incomplete, equivocal, or arbitrary. The second part of the talk will be devoted to the study of the consequences of introducing a post-linear-response treatment of light-induced electronic-structure reorganization: orbital relaxation. In this context, results from matrix perturbation theory will be explicitly used to derive boundary values for the exact quantity of electronic charge transferred during a molecular-electronic transition.
 
@@ -342,7 +342,7 @@ During this talk I would like first to revisit the foundations of the natural-or
 
 ### David Lauvergnat (ICP, Orsay)
 
-**Quantum Dynamics with a Smolyak scheme: numerical developments and applications**
+<a href="lauvergnat.pdf">**Quantum Dynamics with a Smolyak scheme: numerical developments and applications**</a>
 
 When solving the time-dependent or time-independent Schrödinger equations associated to the atomic motions, the major bottleneck is the size of the direct-product basis set or grid which increases exponentially as a function of the number of degrees of freedom, $n$. All the usual numerical techniques (use of symmetry, clever selection of coordinates, separation of motions, basis set and grids adapted to model Hamiltonians, contraction of basis set and grids ...) fail to attenuate this exponential scaling. A way to overcome this difficulty is to perform a multidimensional basis function selection in terms of excitations as for vibrational-SCF or VSCF methods. However, when a multidimensional grid is required, the exponential scaling is still present.
 With the Smolyak scheme,[1] the exponential scaling is avoided for both basis set and grid and a wave function can be represented as follows:
@@ -369,7 +369,7 @@ In quantum dynamics, Avila and Carrington [2-5] and ourselves [6-9] were pioneer
 
 ### Antoine Bienvenu (LCT, Paris) 
 
-**Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems**
+<a href="bienvenu.pdf">**Partition Monte-Carlo : Reducing Fluctuation Scaling in Large Systems**</a>
 
 For an ab-initio calculation on a $N$-particle electronic system, Variational Monte Carlo methods provide a result with a time scaling $O(N^3)$. However, they suffer from numerical uncertainties increasing with system size, caracterised by their variance which generally scales as $O(N)$. The traditional compensation method transfers the uncertainties onto the simulation time, in order to obtain a given level of accuracy, resulting in an effective $O(N^4)$ scaling. We present a new control variate method employing the zero-variance principle and a partition of the system which allows us to reduce the variance for a limited increase in computation time, by $O(N)$ on metallic systems and up to $O(N^2)$ on systems with a finite correlation length, and will present results on the example of the Hubbard model.
 
@@ -377,7 +377,7 @@ For an ab-initio calculation on a $N$-particle electronic system, Variational Mo
 
 ### Xiang Yuan (PhLAM, Lille) 
 
-**Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure**
+<a href="yuan.pdf">**Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure**</a>
 
 The $O(N^6)$ high computational cost is a bottleneck preventing performing Coupled-Cluster (CC) on large systems, particularly when employing 4-component based relativistic Hamiltonians, for which in practice one often uses uncontracted basis set generating large virtual molecular orbital (VMO) spaces.
 The canonical Hartree-Fock (HF) orbitals are not the most compact representation for post HF method. Alternative, using natural orbitals is an efficient way to reduce the orbital space while retaining accuracy. We therefore implemented the MP2 frozen natural orbital (FNO) method [1] in the Exacorr code [2], with the particularity that our implementation can generate both complex and quaternion FNOs, and also express these in AO basis. It also allows us to obtain CCSD natural orbitals on AO basis, which can be subsequently used in analysis.
@@ -390,7 +390,7 @@ We have investigated the orbital truncation errors for both correlation energy (
 
 ### Andrea Porro (CEA, Saclay)
 
-**Ab-initio description of the monopole resonance in light- and medium-mass nuclei**
+<a href="porro.pdf">**Ab-initio description of the monopole resonance in light- and medium-mass nuclei**</a>
 
 Giant monopole resonances have a long-standing theoretical importance in nuclear structure. The interest resides notably in the so-called breathing mode that has been established as a standard observable to constrain the nuclear incompressibility [1]. The Random Phase Approximation (RPA) within the frame of phenomenological Energy Density Functionals (EDF) has become the standard tool to address (monopole) giant resonances and extensive studies, mostly in doubly-closed-shell systems, have been performed throughout the years, including via the use of so-called sum rules [2]. A proper study of collective excitations in the ab-initio context is, however, missing.
 In this perspective, the first systematic ab-initio predictions of (giant) monopole resonances will be presented [3]. Ab-initio Quasiparticle-RPA (QRPA) [4] and Projected Generator Coordinate Method (P-GCM) [5] calculations of monopole resonances are compared in light- and mid-mass closed- and open- shell nuclei, which allows in particular to investigate the role of superfluidity from an ab-initio standpoint. Sum rules are also employed within both many-body schemes to characterize the fragmentation of the monopole strength. The study further focuses on the dependence of the results on the starting nuclear Hamiltonian derived within the frame of chiral effective field theory.
@@ -404,7 +404,7 @@ Monopole resonance represents, thus, the first step towards the investigation of
 
 ### Fabris Kossoski (LCPQ, Toulouse)
 
-**Exploiting the seniority number in calculations of molecular excited states**
+<a href="kossoski.pdf">**Exploiting the seniority number in calculations of molecular excited states**</a>
 
 In electronic structure theory, configuration interaction and coupled 
 cluster methods are usually built hierarchically based on the truncation 
@@ -435,7 +435,7 @@ energies.
 
 ### Timothy Daas (Vrije Universiteit, Amsterdam)
 
-**Noncovalent interactions from models for the Møller-Plesset adiabatic connection**
+<a href="daas.pdf">**Noncovalent interactions from models for the Møller-Plesset adiabatic connection**</a>
 
 The adiabatic connection (AC) that has as weak-interaction expansion the Møller-Plesset (MP) perturbation series has been recently shown to have a large coupling-strength expansion in terms of functionals of the Hartree-Fock density [1,2]. Based on these findings, in this work [3] we introduce a new class of functionals that approximate directly the MP AC by interpolating between MP2 and the large-coupling strength limit, which is size consistent for fragments with a non-degenerate ground state [4]. These functionals have the same cost as double hybrids and greatly reduce the large MP2 errors for typical pi-stacking complexes (e.g., benzene-pyridine dimers) and for the L7 dataset. Furthermore, they are also competitive with state-of-the-art dispersion enhanced functionals and can even significantly outperform them for a variety of datasets, such as CT7, DI6 and L7.
 
@@ -448,7 +448,7 @@ The adiabatic connection (AC) that has as weak-interaction expansion the Møller
 
 ### Jonas Feldt (LCT, Paris)
 
-**Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers**
+<a href="feldt.pdf">**Efficient Quantum Monte Carlo Simulations with Large Atomic Numbers**</a>
 
 Quantum Monte Carlo (QMC) methods use a stochastic approach to solve the Schrödinger
 equation. Their scaling with the system size considering the computational costs is very
@@ -475,7 +475,7 @@ The extension to more advanced projector Monte Carlo methods is being explored.
 
 ### Leo Chaussy (iSm2, Marseille)
 
-**Benchmark on cobalt systems relevant for reactivity**
+<a href="chaussy.pdf">**Benchmark on cobalt systems relevant for reactivity**</a>
 
 The high cost and low availability of second- and third-row transition metals push more and more researchers to explore the chemistry of the first-row transition metals. Their use in catalysis needs a fine understanding of their electron properties, which could be achieved by theoretical approaches. Nevertheless, the computational study of first-row transition complexes and their reactivity rises nu- merous questions, as several electronic states could be accessible.
 Among known reactivities, cobalt complexes have been used for more than ten years to perform cycloaddition reactions. Recently, in our group, a [CpCo] mediated chemodivergent cycloaddition has been studied.[1] General mechanisms proposed for this kind of reactivity usually rely on den- sity functional theory calculations (employing hybrid functionals) and involve a two-state reactivity. However, and as expected, for some of the key intermediates, a pure density functional would predict a more stable singlet state, while a hybrid functional, such as B3LYP, would predict a more stable triplet state. We used wavefunction based methods on a series of model cobalt and rhodium sys- tems to compute singlet-triplet splittings in order to benchmark the performances of common density functionals in our mechanistic studies. This also represents an opportunity to gain methodological insights on the computational treatment of organometallic catalysts. Using correlated wavefunction methods such as MRCI and CASPT2/RASPT2 on systems of increasing size, we assess the influence of basis set selection, active space and restrictions to the CI expansion or semi-core correlation on the relative spin state energetics.[2, 3] CCSD(T) and BCCD(T) calculations were also performed to check the extent of their reliability in treating transition metal complexes with a possibly multicon- figurational wavefunction. [4, 5] In the process, we aim at finding a suitable cost/accuracy balance to treat systems of chemical interest, select the appropriate density functional and assess the validity of proposed mechanisms.
@@ -490,7 +490,7 @@ Among known reactivities, cobalt complexes have been used for more than ten year
 
 ### Diata Traore (LCT, Paris)
 
-**Density-based basis set correction method for molecular properties**
+<a href="traore.pdf">**Density-based basis set correction method for molecular properties**</a>
 
 The density-based basis-set correction method [1], consisting in correcting the basis-set incompleteness error of wave-function calculations using a density functional, has proved its efficiency to speed up the convergence of ground-state energies [2, 3]. Here, we extend the basis-set correction method to calculations of molecular properties, starting with dipole moments. We develop two strategies: (1) configuration-interaction calculations where the basis-set correction is included self-consistently [4], and (2) coupled-cluster calculations where the basis-set correction is estimated non-self-consistently using numerical differentiation of the energy with respect to an electric field. Systematic tests have been performed on a set of molecules.
 
@@ -502,7 +502,7 @@ The density-based basis-set correction method [1], consisting in correcting the 
 
 ### Leo Gaspard (LCPQ, Toulouse)
 
-**Timescale of local moment screening across and above the Mott transition**
+<a href="gaspard.pdf">**Timescale of local moment screening across and above the Mott transition**</a>
 
 In a material’s phase diagram the types of realized long-range orders typically correspond to instabilities in static response functions. In correlated systems, however, key phenomena crucially depend on dynamical processes too: In a Mott insulator, the electrons’ spin moment fluctuates in time, while it is dynamically screened in Kondo systems. Here, we introduce a timescale tm characteristic for the screening of the local spin moment and demonstrate that it fully characterizes the dynamical mean-field phase diagram of the Hubbard model: The retarded magnetic response delineates the Mott transition and provides a new perspective on its signatures in the supercritical region above. We show that tm has knowledge of the Widom line and that it can be used to demarcate the Fermi liquid from the bad metal regime. Additionally, it reveals new structures inside the Fermi liquid phase: First, we identify a region with preformed local moments that we suggest to have a thermodynamic signature. Second, approaching the Mott transition from weak coupling, we discover a regime in which the spin dynamics becomes adiabatic, in the sense that it is much slower than valence fluctuations. Our findings provide resolution limits for magnetic measurements and may build a bridge to the relaxation dynamics of non-equilibrium states 
 
@@ -510,7 +510,7 @@ In a material’s phase diagram the types of realized long-range orders typicall
 
 ### Louis Garrigue (CERMICS, Paris)
 
-**The inverse problem of Density Functional Theory**
+<a href="garrigue.pdf">**The inverse problem of Density Functional Theory**</a>
 
  The map from electric potentials to the one-body density of the ground state is important in the quantum many-body theory, because of its injectivity. Considering Density Functional Theory as an inverse problem, we will present the mathematical specificities of its dual formulation, and show how to construct potentials producing some target one-body density, in ground and excited states cases [1].
 
@@ -520,7 +520,7 @@ In a material’s phase diagram the types of realized long-range orders typicall
 
 ### Robinson Outerovitch (CEA/DAM/DIF, Arpajon)
 
-**Calculation and effect of interaction parameters on oxygen $p$ orbitals in oxides, examples of UO$_2$ and TiO$_2$**
+<a href="outerovitch.pdf">**Calculation and effect of interaction parameters on oxygen $p$ orbitals in oxides, examples of UO$_2$ and TiO$_2$**</a>
 
 The standard method for solid state physics ab initio calculation is the Density Functional Theory (DFT). However, the most used functionals such as LDA or GGA fail to give a correct description of the density of states and structural parameters of strongly correlated systems. The DFT+U improves this description by explicitly applying electronic interaction inside specific orbitals.
 This method is extensively used in f and d orbitals of transition metals, lanthanides, actinides and their oxides compounds. However, the interaction effects occurring in the p orbitals of the oxide have been shown to play an important role in the density of states and structural parameters of some of those systems. [1, 2, 3]
@@ -536,7 +536,7 @@ In this presentation, we use our generalized cRPA implementation (as described i
 
 ### Cyril Martins (LCPQ, Toulouse)
 
-**Spectral functions of doped and pure Sr$_2$IrO$_4$ : theory vs experiment**
+<a href="martins.pdf">**Spectral functions of doped and pure Sr$_2$IrO$_4$ : theory vs experiment**</a>
 
 The spin–orbit Mott insulator Sr$_2$IrO$_4$ has attracted a lot of interest in recent years from theory and experiment due to its close connection to isostructural high-temperature copper oxide superconductors. Despite not being superconductive, its spectral features closely resemble those of the cuprates, including Fermi surface and pseudogap properties. In this talk, I will present the most recent theoretical description of the spectral function of pure and electron-doped Sr$_2$IrO$_4$ based on a cluster extension of dynamical mean-field theory ('oriented-cluster DMFT') and compare it to available angle-resolved photoemission data. 
 
@@ -544,7 +544,7 @@ The spin–orbit Mott insulator Sr$_2$IrO$_4$ has attracted a lot of interest in
 
 ### Abdallah Ammar (LCPQ, Toulouse)
 
-**Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo** 
+<a href="ammar.pdf">**Iterative CI wavefunction optimization using a similarity-transformed Hamiltonian and Variational Monte Carlo**</a>
 
 Realizing full Configuration Interaction (CI) for a one-electron basis sets is, in general, not possible
 in practice. One needs to truncate the CI wavefunction according to some protocol. To recover the
@@ -569,7 +569,7 @@ are sampled in a Variational Monte Carlo (VMC) calculation.
 
 ### Tan Nguyen  (ISCR, Rennes)
 
-**Many-body perturbative calculations for multi-excitons in perovskite nanocrystals**
+<a href="nguyen.pdf">**Many-body perturbative calculations for multi-excitons in perovskite nanocrystals**</a>
 
 Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in the field of colloidal synthesis owing to their superior photoluminescence quantum yield and blinking-free properties, which make them promising materials for both classical [1,2] and quantum light sources [3,4]. Their brightness and sub-nanosecond radiative decay originates from the inherent correlation effects [5,6]. The many-body Coulomb interaction has generally been studied for semiconductor quantum dots [7,8]. Perovskites, as a consequence of the unique properties of their dielectric functions, possess enhanced Coulomb interaction between the charge carriers [9]. This leads to large binding energies of multi-exciton systems such as trion and biexciton in these NCs or the sizable splitting in the fine structure of single exciton states. Considering each NC as an artificial atom under the envelope function approximation, this problem of correlation effects can be approached at first by using second-order many-body techniques as outlined in Ref. [10]. This offers an elegant and efficient method that provides qualitative results for the trion and biexciton binding energies [11]. In going beyond the second-order description, configuration interaction can be employed to include the correlation energies between the various charge carriers in a more holistic manner.
 
@@ -589,7 +589,7 @@ Perovskite nanocrystals (NCs) are among the most fashionable names nowadays in t
 
 ### Saad Yalouz (LCQ, Strasbourg)
 
-**Describing conical intersections with near term quantum computers**
+<a href="yalouz.pdf">**Describing conical intersections with near term quantum computers**</a>
 
 In quantum computing, solving the electronic structure problem is considered as the “killer application” for near term quantum computers. To treat this problem, a great focus has been paid to hybrid-classical-quantum algorithms such as the well-known “Variational-Quantum-Eigensolver” (VQE). While VQE has been proficiently applied to find electronic eigenstates/energies of various small molecules, using this approach on more complex systems is still a genuine challenge especially when peculiar spectral features such as conical intersections are present.
 In nature, conical intersections play a keyrole in many prominent reactions. For instance, in the process of vision: the retinal molecule is known to undergo a photoisomerisation mediated by a non-radiative relaxation through a conical intersection. In such a situation, characterizing the phenomenon requires to precisely describe the shape of the conical intersection, with both qualitative and quantitative high-level treatments. This makes it a difficult target to current quantum algorithms, such as VQE.
@@ -602,7 +602,7 @@ Motivated by this problem, we recently introduced a new quantum algorithm [1] ca
 
 ### Michael Herbst (Aachen, Germany)
 
-**A robust and efficient line search for self-consistent field iterations**
+<a href="herbst.pdf">**A robust and efficient line search for self-consistent field iterations**</a>
 
 In state-of-the-art self-consistent field algorithms a sizeable number
 of computational parameters, such as damping, mixing/preconditioning
@@ -627,26 +627,3 @@ select algorithmic parameters in a suboptimal way demonstrating our
 adaptive damping approach to overall increase SCF robustness.
 
 ***
-
-<!-- 
-### Clotilde Marut (LCPQ, Toulouse)
-
-**Ensemble DFT for charged and neutral excitations**
-
-Density-functional theory (DFT) and its time-dependent extension (TD-DFT) are known to possess deficiencies when it comes to computing charged and neutral excitations. 
-Indeed, one would usually turn to TD-DFT to get accurate transition energies for low-lying excited states with a relatively moderate computational cost.
-However, within this formalism, double excitations are completely absent from the spectra of TD-DFT and the quality of the excitation energies highly depends on the choice of the exchange-correlation functional which is usually treated in the standard adiabatic approximation.
-In ensemble DFT (eDFT), it is possible to extract any excitation energies from a single calculation through a Gross-Oliveira-Kohn (GOK) ensemble with a similar computational cost and level of approximation for the exchange-correlation functional than in an usual pure-state DFT calculation [1]. There also exists a similar formalism from which one can extract charged excitations like ionization potentials, electron affinities or even fundamental gaps in a single eDFT calculation, the Perdew-Parr-Levy and Balduz (PPLB) ensemble formalism [2].
-In DFT it is known that the Kohn-Sham gap can be a very poor estimation of the fundamental gap of the physical system but, in an ensemble picture, it is possible to considerably improve this estimation through the well-known derivative discontinuity which can be directly connected to the weight-dependence of the xc-functional. While this improvement can be quite consequent for small finite systems, it is still problematic when it comes to large periodic systems like cristalline solids. Indeed, for such systems, extracting charged excitations will require to induce a same small variation of the number of electrons in every unit cell of the system which will inexorably lead to an infinitely large charge for the whole system.
-Very recently, a new grand canonical eDFT formalism has been developed, the N-centered formalism, which allows the extraction of charged excitation energies without changing the number of electrons [3].
-We will discuss and present those various eDFT formalisms through their applications to very simple systems [4,5].
-
-[1] F. Cernatic, B. Senjean, V. Robert, and E. Fromager, arXiv:2109.04943 (2021).  
-[2] J.P. Perdew, R.G. Parr, M. Levy, J.L. Balduz Jr, Phys. Rev. Lett. 49(23), 1691 (1982).  
-[3] B. Senjean and E. Fromager, Phys. Rev. A 98, 022513 (2018).  
-[4] P. F. Loos, and E. Fromager, J. Chem. Phys. 152, 214101 (2020).  
-[5] C. Marut, B. Senjean, E. Fromager, and P. F. Loos, Faraday Discuss. 224, 402 (2020).  
-
-***
--->
-

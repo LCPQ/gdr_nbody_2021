@@ -8,7 +8,7 @@ draft: false
 <a href="toulouse.pdf">Basis-set correction based on density-functional theory: Rigorous framework for a one-dimensional model</a>  
 <br>
 * **Sajanthan Sekaran (LCQ, Strasbourg):**  
-Local potential functional embedding theory based on the Householder transformation  
+<a href="sekaran.pdf">Local potential functional embedding theory based on the Householder transformation </a>  
 <br>
 * **Karno Schwinn (LPT, Paris):**  
 Effects of Range-Separated Hybrid Schemes on Atomic Photoionization Cross Sections Using Sternheimer TDDFT  
