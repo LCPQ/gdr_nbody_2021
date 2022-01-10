@@ -14,7 +14,7 @@ Local potential functional embedding theory based on the Householder transformat
 Effects of Range-Separated Hybrid Schemes on Atomic Photoionization Cross Sections Using Sternheimer TDDFT  
 <br>
 * **Yann Damour (LCPQ, Toulouse):**  
-Orbital optimization in selected configuration interaction  
+<a href="damour.pdf">Orbital optimization in selected configuration interaction</a>  
 <br>
 * **Enzo Monino (LCPQ, Toulouse):**  
 Symmetry breaking in Green’s function methods: the case of H2   
