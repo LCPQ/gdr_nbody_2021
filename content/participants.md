@@ -135,5 +135,5 @@ draft: false
 1. Caroline Robin (Universität Bielefeld/GSI Darmstadt, Germany) <!-- crobin@physik.uni-bielefeld.de -->
 1. Olga Syzgantseva (Lomonosov Moscow State University, Russia) <!-- osyzgantseva@gmail.com -->
 1. Abdallah El Sahili (LSI, Palaiseau) <!-- abdallah.el-sahili@polytechnique.edu -->
-
+1. Stephane Humbel (iSm2, Aix-Marseille) <!-- stephane.humbel@univ-amu.fr -->
 
