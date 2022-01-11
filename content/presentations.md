@@ -45,7 +45,7 @@ Here I present a recently proposed many-body approach that aims towards this obj
 
 ### Roland Assaraf (LCT, Sorbonne Universite)
 
-<a href="assaraf.pdf">**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**>
+<a href="assaraf.pdf">**Towards computing efficently cumulants in Monte Carlo, exchange cluster estimators**</a>
 
 Response properties or cumulants are usually size-extensive ($O(N)$) but are
 computed in  Monte Carlo with fluctuations growing like $N^p$ with $p>1$ as a
