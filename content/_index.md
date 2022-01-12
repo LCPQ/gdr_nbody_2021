@@ -23,7 +23,7 @@ The [GDR NBODY](https://wiki.lct.jussieu.fr/gdrnbody) - problème quantique à N
 
 This second general meeting is organized around 12 keynote speakers from quantum chemistry, condensed matter physics, mathematics, and nuclear physics. A large number of contributed talks will be proposed in order to allow PhD students, postdocs and researchers to present their latest work.
 
-The official language of the meeting is **English** and it is an **in-person meeting**.
+The official language of the meeting is **English** and it is an ~~**in-person**~ **online meeting**.
 
 ## CONFIRMED KEYNOTE SPEAKERS
 
